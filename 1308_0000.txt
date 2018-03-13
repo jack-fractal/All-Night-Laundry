@@ -1,0 +1,44 @@
+>>>TITLE:In which it wasn't a nail
+>>>INDEX:1308
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"So what did you step on?"
+
+"It was pretty big, like a big nail."
+
+"[i]Was[/i] it a nail?"
+
+"Not exactly."
+
+"I'm asking because if it was metallic, we'll need to get you a tetanus shot."
+
+"I should probably get one of those anyway. It was really, um, not the cleanest where I was walking."
+
+"I can see that, I'm going to need more wet wipes. Were you just not wearing [i]any[/i] shoes?"
+
+"Er... no."
+
+"You'll have to forgive me for saying, but that was not a particularly clever decision."
+
+"I know..."
+
+[img]1308_a.png[/img]
+
+[k]"Can you page my sister? She's a surgical nurse here at the hospital. And my friend Emmie, he's an anesthesiologist. I need to let them know that I'm here."[/k]
+
+"I will dear, but most people went home."
+
+[k]"They won't have."[/k]
+
+"Do you have their extension numbers?"
+
+[k]"I do, yeah, here."[/k]
+
+
+>>>DISPLAY_PICTURE:1308_a.png
+>>>NOTES:
+
+
+
+

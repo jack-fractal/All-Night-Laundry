@@ -1,0 +1,34 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:789
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+They decide to look at the Viewers first. Kendra's been working on them and they decide that picking a time machine can wait.
+
+"So this is the one you're trying to fix?"
+
+[img]0789_a.png[/img]
+
+[k]"Yeah. It's the important one, the one that looks forward. The other one only looks backward, into the past. I'm [i]hoping[/i] that the problem is just one of these wires, so I'm testing and replacing them. If we're lucky it's just a short somewhere."[/k]
+
+"Hmm... but they're [i]both[/i] broken?"
+
+[k]"Well, yeah. And they're danged annoying to work with. I took the screen off this one, but everything is so jammed with components I can barely see anything from the front, and removing the backplate will break two of the main power lines, and risk pulling out a bunch of other things."[/k]
+
+"And going up through the base or the top?"
+
+[k]"That's what I was trying yesterday. It looked pretty good at first, there's only a few components attached to the floor, but I don't think we can risk it. There's some kind of paradox related equipment down there. I'm thinking that breaking that would be [i]bad[/i]."[/k]
+
+"Yeesh."
+
+[k]"I have the books about them here, if you want to take a look at them. There's the original instructions from Three, and then there's these ones. Six seems to have made a big study of them and wrote a bunch of theories about how they work. "[/k]
+
+"Hrmm..."
+
+
+>>>DISPLAY_PICTURE:0789_a.png
+>>>NOTES:
+
+
+
+

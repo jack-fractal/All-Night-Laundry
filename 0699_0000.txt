@@ -1,0 +1,28 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:699
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"How far ahead of ourselves do you think we are?" asks Bina. 
+
+[k]"Maybe an hour?"[/k] says Kendra. [k]"Oh! Do you still have the watch? I bet we could figure it out if-[/k]
+
+"Yeah!", says Bina, fishing it out of the bag. "It's - ah dang."
+
+[k]"What? Broken?"[/k]
+
+[img]0699_a.png[/img]
+
+"Still ticking, but it's stuck at 10:23 am."
+
+[k]"Well that's less then useful."[/k]
+
+"Yeah, sorry. It was a good idea though."
+
+
+>>>DISPLAY_PICTURE:0699_a.png
+>>>NOTES:
+
+
+
+

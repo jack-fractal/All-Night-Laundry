@@ -1,0 +1,44 @@
+>>>TITLE:In which we discuss a well
+>>>INDEX:1106
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=ForestGardener]Isn't this hospital outside the entropic well?[/quote]
+
+[k]"Wait, that doesn't make sense,"[/k] says Kendra. [k]"We're outside the Well."[/k]
+
+"We [i]think[/i]."
+
+[k]"No! I mean, we're at least three kilometers outside the furthest extent."[/k]
+
+"Based on [i]twelve's[/i] measurements," says Bina. They hadn't had an opportunity to measure the extent of the entropic disturbance themselves yet. "Besides, it's a gaussian distribution, right? If we assume the well gets bigger each loop and the edges are fuzzy enough then -"
+
+[k]"We'd still be [i]right[/i] on the [i]edge[/i] though -"[/k]
+
+[quote=Dalm]Why is it here though. Did it follow you? Or did using the Moment here bring it somehow?[/quote]
+
+"You [i]were[/i] able to use the Moment, right?" asks Bina. "Every time we do [i]anything[/i] with the unlight we deepen the cracks and make things worse."
+
+"I am just going to pretend I understand what you two are talking about," says Emmie, mostly to himself.
+
+[k]"I guess,"[/k] says Kendra. [k]"But to make a breach here, even assuming the Well is bigger this loop, even assuming that using the Moment a few times made this area weaker, even assuming you had a time machine, you'd need a [i]lot[/i] of power to make a breach here."[/k]
+
+"Shhh," says Bina, turning off her flashlight. "Somehow, I don't think [i]that[/i] is going to be a problem."
+
+[quote=sahArab]Crack or no, you should have been able to walk the length of a hospital by now.
+> Reach the generators! (And maybe Melissa.)[/quote]
+
+[img]1106_a.png[/img]
+
+Through the door comes the sound of running generators.
+
+
+>>>DISPLAY_PICTURE:1106_a.png
+>>>NOTES:
+
+[quote=ForestGardener]Google maps says there is a hospital at the corner of Atwater and Maisonneuve. Is that where we are?[/quote]
+[quote=ForestGardener]On second look, the thing at Atwater and Maisonneuve is a physical therapy center, so Kendra is probably referring to the bus stop at that intersection. The hospital they are at is Montreal Northern Hospital (http://www.all-night-laundry.c... ), which apparently doesn't exist. A Montreal hospital that got a wing shut down in 2011 but is otherwise functional should show up when googling its name.[/quote]
+
+You are correct, Montreal Northern is entirely fictional.
+
+

@@ -1,0 +1,60 @@
+>>>TITLE:In which there is no phone
+>>>INDEX:1062
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+As they approach the staff lounge they pass several hurrying staff, mostly nurses. They look worried, and busy, but not panicked. 
+
+[k]"Do you think, maybe, this is just umm... things getting worse? It doesn't have to be the Naughts."[/k]
+
+"Naughts?" asks Amie.
+
+[k]"Gribbly monsters,"[/k] explains Kendra. [k]"Like zombies but less friendly."[/k]
+
+"Coool."
+
+"I dunno," says Bina, answering Kendra's question. "Maybe. I just - what are we going to [i]do[/i] Kendra?"
+
+Before Kendra can answer they push through into the relative brightness of the staff lounge. 
+
+[quote=Wessolf27]>Melissa or Emmie: Be in the staff lounge, ask why Bina and Kendra are accompanied by a cadre of people.[/quote]
+
+"Kendra! I was about to come find you! I see you found your friend... and others."
+
+[img]1062_a.png[/img]
+
+[k]"Emmie! What are you doing here?"[/k]
+
+"Like practically everyone else, I'm trying to find a [i]phone[/i] that works."
+
+[k]"Why? What happened?"[/k]
+
+"Well, it looks like one of the cell towers must have lost power because nobody can get a signal. I was trying to call Montreal General to see if we could transfer our patient, but it looks like the land-lines aren't working either."
+
+[k]"What about the backup power?"[/k]
+
+"Last I heard we maybe we ran out of gas."
+
+[k]"Could that happen?"[/k]
+
+"Anything is possible, but we are supposed to have a full 48 hour supply in the basement. Unless someone screwed up, we [i]should[/i] be fine until late tomorrow."
+
+[k]"Has anyone checked on that?"[/k]
+
+"That is what your sister is doing right now. We had just put Mr. Kennith under when the whole surgery wing lost power. Thank heavens they hadn't started [i]cutting[/i] yet."
+
+"Is your patient going to be OK?" asks Bina. 
+
+"I hope so, he's here for bypass surgery, you know, on his heart. Dr. Jacobs, our cardiac surgeon, he was very annoyed when the lights went out, but Mr. Kennith should be all right for a few hours. He's up in the ICU. I would normally have total confidence in our intensivists, but the ICU is a complete madhouse right now. Everyone on life support is not having the best of days."
+
+"Kendra," says Bina. "We need to [i]go[/i]."
+
+
+>>>DISPLAY_PICTURE:1062_a.png
+>>>NOTES:
+
+[quote=btp]Is everyone still speaking French?[/quote]
+
+Yes. I will generally specify if people are speaking English. By default, assume everyone is speaking French.
+
+

@@ -1,0 +1,38 @@
+>>>TITLE:In which several scents make themselves known
+>>>INDEX:1278
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"You OK Bina?"
+
+"Just - walking carefully. I'll keep up."
+
+[k]"There's a siding up ahead,"[/k] says Kendra. [k]"Up here on the left. Come on Amie, you have the light."[/k]
+
+"Right, yeah, OK, here I come."
+
+[k]"Careful, she probably went this wwaaait - hold up,"[/k] says Kendra. [k]"You smell that?"[/k]
+
+"Mud," says Bina. 
+
+[img]1278_a.png[/img]
+
+"[i]Factory[/i] mud."
+
+"And gunpowder," says Amie.
+
+[img]1278_b.png[/img]
+
+[k]"And blood,"[/k] says Kendra. 
+
+[img]1278_c.png[/img]
+
+"Oooh Piotyr, what have you done now?"
+
+
+>>>DISPLAY_PICTURE:1278_c.png
+>>>NOTES:
+
+
+
+

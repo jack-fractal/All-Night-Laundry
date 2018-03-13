@@ -1,0 +1,44 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:825
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"What!? You knew this would happen?"
+
+"Well yeah, but not this fast!"
+
+[img]0825_a.png[/img]
+
+"The n-lateral bridge I'm using requires unlight on both ends to function. Not a lot, but enough to hold the connection open. Any unlight in the moment will make it destabilize. There should be documents about that in Seven's -"
+
+[k]"Yeah, we got those,"[/k] says Kendra. [k]"How do we stop it?"[/k]
+
+"You can't! Not once it gets advanced enough to become visible. How bad are the oscillations?"
+
+"Uhh..."
+
+[k]"It looks like a strong heat haze,"[/k] says Kendra. [k]"Maybe... ten percent visual distortion?"[/k]
+
+"Then you're well beyond fixing it from where you are."
+
+[quote=tegerioreo;7844325]Now-Bina:  "Aren't there some dials and switches you can manipulate?  You're the one who majored in Mad Science, apparently."[/quote]
+
+"Well what were you planning on doing about it then!?" asks Bina. "If you knew this was going to happen, you have to have a plan!"
+
+"I do but - Dammit!"
+
+[img]0825_b.png[/img]
+
+"It wasn't supposed to start happening for another forty minutes! By then I was planning on having showed you how to reboot the Moment and run a basic debug routine! It must be damaged, or something else is putting stress on the mechanism."
+
+"You don't [i]know?[/i]"
+
+"I already told you! The whole point of this exercise is that [i]I haven't been watching your loop![/i]"
+
+
+>>>DISPLAY_PICTURE:0825_b.png
+>>>NOTES:
+
+
+
+

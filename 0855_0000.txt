@@ -1,0 +1,130 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:855
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+So I actually had a real story post written for tonight, and I'm not a fan of posts like this, but I thought that I needed to address this after reading Megan's post. 
+
+Everyone is getting lost, including me, and I think some 'clarity' is long overdue. 
+
+Let's start with the two main points of time in this chapter, namely the point at which Elizabeth falls (7:54 am) and the point where Kendra is right now (2:19pm).
+
+[img]0855_a.png[/img]
+
+Kendra is at her Primary Temporal Position. That's when she's supposed to be, but you might be thinking '2:19pm? That's quite late, isn't it?'. How did she get there?
+
+The last time we saw the time in Kendra and Bina's primary timeline it was here:
+
+[img]0568_b.png[/img]
+
+This is Kendra on the roof after Bina has lead Horatio away, she's just finishing their makeshift time machine. She says it's 8:50am.
+
+Later, here - 
+
+[img]0699_a.png[/img] 
+
+- we find out that the Heart Watch is broken, but that Kendra thinks that Bina woke up from her nap at around 11:10am.
+
+Five minutes after Bina woke up, Kendra activate their time machine and they end up going back in time to around 6:15am, which is when they originally take their nap here:
+
+[img] 0288_a.png[/img]
+
+Then they go and find the Moment. That takes about an hour and forty minutes. They activate it here:
+
+[img]0730_c.gif[/img]
+
+Which is also here:
+
+[img]0444_a.gif[/img]
+
+And is about five minutes before Elizabeth falls.
+
+So this is what their timeline looks like at that point:
+
+[img]0855_b.png[/img]
+
+Following me so far? Because here's where things get confusing.
+
+Three sends them out of the Moment to their primary temporal position, effectively cancelling their jump. They don't go back to 7:50am (the point where they activated the Moment), and they don't go back to 11:14am either (the point where they started their jump). They arrive back at 12:51pm. 
+
+[img]0855_c.png[/img]
+
+This doesn't seem to make sense, shouldn't they have gone back to 11:14am? Isn't that where their primary temporal position? 
+
+Sort of. 
+
+This is where the different types of time machines come into play. The time machine that Kendra built was n-continuous, like most small time machines. This means that while you're on your trip, the time machine continues to move through time like normal to sustain your presence in the past or future. This updates your primary temporal position along with the time machine. 
+
+If you spend an hour in the past, when your jump ends you'll find yourself an hour in the future. We don't know exactly what happened after Three sent them back yet, but we know it involved being cold and wet. 
+
+[img]0849_a.png[/img]
+
+It took Bina an hour or so to figure out how to program and reactivate the Moment. Once they were back in the Moment they spent some time in the temporal null to figure out their plan. 
+
+[img]0830_a.png[/img]
+
+Once they'd figured it out, it took them another forty-five minutes of real time to set up their plan inside the smokestack. All told, both of these things cost them about an hour and a half. 
+
+[img]0855_d.png[/img]
+
+OK! Stay with me because here's where their wacky plan starts. 
+
+At 2:05pm, Kendra uses the large time machine to send Bina back to one hour before Elizabeth falls.
+
+[img]0855_e.png[/img]
+
+The large time machine is 'n-variable', a term that [i]nobody asked about[/i] but basically means that time passes on both sides of the time machine. It's like an n-continuous time machine in that the time machine does travel forward while you're on your trip, but it doesn't do so at the same rate that you experience while on your trip. For Kendra, Bina's one hour struggle through the muck took twelve minutes (60 minutes / 5 = 12 minutes). For her, this pulse - 
+
+[img]0822_a.png[/img]
+
+ - happened at 2:18pm, and yes, I am aware I need to do a continuity edit on the time machine in that frame due to the change in the design. 
+
+The pulse that we see in that frame was Bina activating THIS time machine - 
+
+[img]0815_d.png[/img]
+
+- to catch Elizabeth - 
+
+[img]0819_a.png[/img]
+
+- and send her [i]forward[/i] in time. How far forward?
+
+To 2:22pm, a point in time that thus far neither of our protagonists have reached yet. 
+
+[img]0855_f.png[/img]
+
+From Elizabeth's perspective no time will have passed from the moment she enters the portal to the moment she exits the portal. The time machine that Bina hid is actually sustaining Elizabeth (or what remains of Elizabeth) in the time [i]after[/i] their attempt to catch her in the smokestack.
+
+This is why n-instant time machines are better, [i]they[/i] resolve the entire trip instantly on both ends, which means that you return to the exact moment your trip started, and not to a moment along the timeline equal to the length of your trip.
+
+Unfortunately, all of the n-instant time machines available to our duo weren't portable enough to be used, so Bina has to hide the time machine projecting Elizabeth into the future.
+
+OK? Still with me? Almost done. 
+
+This second pulse - 
+
+[img]0854_b.png[/img]
+
+- the one that coincides with the creation of the Naughts, happens at 2:19pm from Kendra's perspective, and 8:01am from Bina's perspective. 
+
+Their agreed upon cutoff time is the conjunction of 2:20 pm and 8:06am. That's just sixty seconds away for Kendra, but for Bina, that's slightly over five minutes.
+
+[img]0855_g.png[/img]
+
+See? Not complicated at all!
+
+Right!?
+
+Right...?
+
+:mspa:
+
+Great! Now that we're all on the same page...
+
+
+>>>DISPLAY_PICTURE:0855_c.png
+>>>NOTES:
+
+
+
+

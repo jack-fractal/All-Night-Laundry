@@ -1,0 +1,88 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:442
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[e]"Hey!"[/e]
+
+They look up.
+
+[img]0442_a.png[/img]
+
+"Hey!"
+
+[e]"There's a latch!"[/e]
+
+"A what?"
+
+[e]"A LATCH! On the gondola! You have to sort of wiggle it."[/e]
+
+"OK!"
+
+[e]"Make sure it's CLOSED before you start moving!"[/e]
+
+"Right!"
+
+[e]"And don't hit any of the BUTTONS! I'll do it from up here!"[/e]
+
+"OK!"
+
+Bina wiggles the latch. It pops open with a heavy thunk. 
+
+[quote=Kíeros;7638163]> Well, get in. It can't go badly now.[/quote]
+
+They both step inside.
+
+"Did we ever get her name?"
+
+[k]"I don't think so."[/k]
+
+"We should get her name."
+
+[k]"Oohhhkay.'[/k]
+
+Bina steps back outside and shouts, "Hey! What's your name?!"
+
+[img]0442_b.png[/img]
+
+[e]"What?"[/e]
+
+"I [i]asked[/i], WHAT'S your NAME?"
+
+[quote=TobiasMoon;7637116]Team: Gain a third party member[/quote]
+
+[e]"Elizabeth!"[/e]
+
+"Hi Elizabeth!" 
+
+[e]"Hi! Can you get on now?"[/e]
+
+"Sure!"
+
+[quote=Lacemaker;7638107]Gondola: be frighteningly rickety.[/quote]
+
+[e]"Don't move too much!"[/e]
+
+"What?"
+
+[e]"Don't move around too much! There's no guide-wires! If you move around too much it'll [i]swing[/i]. That's BAD!"[/e]
+
+"Oh! Right! OK!" 
+
+Bina gets inside and closes the latch. 
+
+She leans out and shouts, "We're good! You can move us now!"
+
+There are several seconds pause and then, with a lurch, the gondola starts moving upward. 
+
+[img]0442_c.png[/img]
+
+[k]"So, I'm guessing that this is the point where I should mention that I have a little thing about [i]heights[/i]?"[/k]
+
+
+>>>DISPLAY_PICTURE:0442_c.png
+>>>NOTES:
+
+
+
+

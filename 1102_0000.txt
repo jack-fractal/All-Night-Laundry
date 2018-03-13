@@ -1,0 +1,40 @@
+>>>TITLE:In which they're not moving
+>>>INDEX:1102
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=Xam]Run towards the dangerous monsters![/quote]
+
+[size=8]"Come on!"[/size] whispers Amie.
+
+[size=8]"Wait!"[/size] hisses Edwards. 
+
+[img]1102_a.png[/img]
+
+[size=8]"You going to run [i]towards[/i] the fricking monsters?"[/size]
+
+[size=8]"Well,"[/size] says Amie [size=8]"Yeah. That's what we're here for, isn't it? What were you planning on doing?"[/size]
+
+[size=8]"Well... uhh,"[/size] Edwards hesitates. [size=8]"Sneak up on them maybe? I hadn't really thought that far ahead."[/size]
+
+[size=8]"What a surprise,"[/size] whispers Castillo. [size=8]"That [i]neeever[/i] happens."[/size]
+
+[size=8]"We should really be calling for backup,"[/size] says Edwards. 
+
+[quote=ForestGardener]>Stand still for a moment. Which way are the Naughts moving?[/quote]
+
+[size=8][e]"They're not moving."[/e][/size]
+
+[img]1102_b.png[/img]
+
+"What?"
+
+[size=8][e]"If they were moving, they would be getting louder or quieter,"[/e][/size] explains Elizabeth in a whisper with what sounds to Amie like forced calm. [size=8][e]"They're not doing either, which means they're not moving."[/e][/size]
+
+
+>>>DISPLAY_PICTURE:1102_a.png
+>>>NOTES:
+
+
+
+

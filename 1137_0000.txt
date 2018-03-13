@@ -1,0 +1,24 @@
+>>>TITLE:In which that's one down
+>>>INDEX:1137
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[img]1137_a.gif[/img]
+
+[img]1137_b.gif[/img]
+
+[k]"There!"[/k]
+
+[img]1137_c.png[/img]
+
+[k]"See?"[/k]
+
+The generator shudders then goes still.
+
+
+>>>DISPLAY_PICTURE:1137_c.png
+>>>NOTES:
+
+
+
+

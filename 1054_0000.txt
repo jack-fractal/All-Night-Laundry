@@ -1,0 +1,34 @@
+>>>TITLE:In which someone isn't speaking
+>>>INDEX:1054
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=drakesdrum1]Oh, jeez. We... probably should get over there, try to limit the damage.[/quote]
+
+[k]"Aww jeeze, look, we need to get over there and... I dunno do you have [i]another[/i] SWAT team? We might need - like - more people with guns. God dammit, can't [i]anything[/i] just go reasonably well for once!"[/k]
+
+[e]"We're not going anywhere. I will call this in. The police on site will pull them back. [i]You[/i] are going to stay here, [i]and[/i] then you are going to tell me all the dangerous bullshit you [i]didn't[/i] tell me before, so I can brief my backup when it arrives."[/e]
+
+[k]"When are they arriving?"[/k]
+
+[e]"They say they'll be here by ten."[/e]
+
+[k]"Ten? What ten? Ten at night!? Are you serious? What kind of response time is that?"[/k]
+
+[e]"They're in Ottawa, it takes a while."[/e]
+
+[k]"What are they doing [i]walking here[/i]? I'm sure glad this isn't [i]serious[/i] or anything, otherwise we might be in [i]real trouble[/i]. Bina, back me up here."[/k]
+
+[k]"Bina?"[/k]
+
+[img]1054_a.png[/img]
+
+[k]"Are you ok?"[/k]
+
+
+>>>DISPLAY_PICTURE:1054_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,52 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:984
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Where are you going?"
+
+[e]"That's confidential."[/e]
+
+[k]"This morning."[/k]
+
+[e]"God dammit Kendra!"[/e], the red-haired one's brows are furrowed and she looks like she's about to explode. 
+
+[k]"We're in her house! Come on Bina, time we left."[/k]
+
+Bina is scooped up off the couch, blanket and all.
+
+"Is it you? Are you the ones doing all this?"
+
+[k]"Doing what?"[/k]
+
+[img]0984_a.png[/img]
+
+"All that!" says Amie waving at the window. "The storm and the brownouts."
+
+[e]"Brownouts?"[/e]
+
+"Yeah, I just saw on TV. There's power out all over the city, and the rain... god, nobody is going to believe me if I tell anyone about this. It sounds like a dream."
+
+[k]"It's not us Amie,"[/k] says the taller one named Kendra. [k]"It's sort of related though."[/k]
+
+[e]"Will you [i]please[/i] stop talking now?"[/e]
+
+[k]"Yeah - trust me Amie, you do [i]not[/i] want to get involved in this."[/k]
+
+"But-"
+
+[k]"We need to be getting on."[/k]
+
+"Wait!" Amie calls out, not really sure why.
+
+[k]"What?"[/k]
+
+"Is all this... really happening?"
+
+
+>>>DISPLAY_PICTURE:0984_a.png
+>>>NOTES:
+
+
+
+

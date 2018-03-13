@@ -1,0 +1,30 @@
+>>>TITLE:In which nothing bad happened to him
+>>>INDEX:1337
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Shouldn't we wait for -"[/k]
+
+"Sorry! I'm here!"
+
+[img]1337_a.png[/img]
+
+"The staff lockers are a complete mess, understandable considering, but still unpleasant. Where's Mel? I expected her to be here yelling at Bina for standing up."
+
+"I'm not standing!" says Bina. "I'm leaning! Totally different."
+
+[k]"About that - "[/k] says Kendra. [k]"Can I - borrow you, Emmie, just for a second."[/k]
+
+"We're really burning time here..." says Bina.
+
+"And we're getting wet," says Amie. "Like - soaked."
+
+[k]"It'll just be a second."[/k]
+
+
+>>>DISPLAY_PICTURE:1337_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,38 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:512
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+Keeping an eye out for creepy twitching monster things - 
+
+[quote=HighwayWizard;7674048]>Keep an eye out for anything that might be useful. There's probably not much out here but that's no excuse to not keep looking for helpful stuff.[/quote]
+
+- useful objects - 
+
+[quote=tronn;7673885]>Bina: Look for a walkway or other high place away from mud.[/quote]
+
+- and opportunities to escape the mud - 
+
+[quote=Morphimus;7673970]> Alright, well. Just start heading to the rendezvous point. Look of any drier, less muddy paths that might lead there.[/quote]
+
+- Bina starts working her way back to the meeting place. 
+
+[img]0512_a.png[/img]
+
+
+>>>DISPLAY_PICTURE:0512_a.png
+>>>NOTES:
+
+[quote=tegerioreo;7674245]At first I saw the hole as a cloud, and thought "whoah, this place has its own weather systems"[/quote]
+
+It's big, but it's not [i]that[/i] big. I would have liked to include some of the ceiling struts and other indicators of distance, but alas, I had a very tiny amount of time to draw that panel and it was not to be. 
+
+C'est le vie.
+
+In other news, thinking about this update, I've realized that the only way to properly change scene in an adventure using this format is to include the first panel of the [i]next[/i] scene in the update that ends the previous scene. 
+
+It vexes me that this is almost impossible for me to do due to my time limitations.
+
+A thing to think about.
+
+

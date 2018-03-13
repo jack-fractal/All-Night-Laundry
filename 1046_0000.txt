@@ -1,0 +1,42 @@
+>>>TITLE:In which our heroes miss something
+>>>INDEX:1046
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"What?! The lady at the front desk said there were cops."[/k]
+
+"Well I don't see any."
+
+[k]"Lemme look ."[/k]
+
+[img]1046_a.png[/img]
+
+[quote='darklordreasonable']Can you hear what they're talking about in there at all? Maybe put your ear near the gap between the door and the frame?[/quote]
+
+"I dunno, I mean there's four chairs. Do you think we could hear them if -"
+
+[k]"Wait - if they're not here then - "[/k]
+
+There is a click as the door opens and shuts behind them.
+
+"Ahh! Hello!"
+
+[img]1046_b.png[/img]
+
+"Aaah!" says Bina.
+
+"We went to get coffee," says the taller of the two police officers. 
+
+"I'm guessing you two are the ones we're looking for," says the other.
+
+[k]"Oh bugger,"[/k] says Kendra, with feeling.
+
+"[i]Please[/i] don't try to run," says the short one. "I haven't had a coffee yet today and really don't want to spill this one."
+
+
+>>>DISPLAY_PICTURE:1046_b.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,107 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:605
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=SNORKELBITCHMEGAHITLER;7736964]bina, question everything[/quote]
+
+"Soo... wait."
+
+I think about that for a second.
+
+"What?!"
+
+I'm not really getting this. 
+
+She sighs and picks up another cracker, "Well I didn't start out trying to do what I ended up doing you know? I started out trying to prove that electrons behaved in the same way as photons when - you don't actually care about this part do you?"
+
+"Who says I don't?"
+
+"Well we don't have time to get into it anyway. The point of the thing is, I did it. I proved that electrons behave like light when fired through a pair of slits."
+
+"And thats... good?"
+
+"Yes! It was amazing! A triumph! Nobody had done it with anything but light before! Also, it proved that while an electron does create it's own interference pattern like a wave, it also has a discrete identity when it encounters a reactive atom. They are waves, until they aren't."
+
+"Ohhhhkay..."
+
+"Hrm... You were much more impressed the last time."
+
+"Sorry. I... this me, she - I - don't really know [i]anything[/i] about particle physics. I'm sure it's very cool."
+
+"Hrmm."
+
+I decide to change the topic.
+
+[quote=BreadProduct;7736770]So one of you were a physicist? B3 to be specific. What about B2 and B1? When did the physicist thing stop? Just how different are each Bina iteration?
+
+>Ask what the other two Bina's were like. Emphasis on differences.[/quote]
+
+"But B3 did, you said she was a physicist?"
+
+"Yes, but she was... older then you are. Several years I think. She and I, we did not have a comfortable conversation. She wanted answers and was not interested in anything other then getting them as quickly as possible."
+
+"That - I mean - I'm sorry."
+
+"It's not your fault. As is becoming increasingly obvious, you are not the same person. You might have started out as the same person, but now? You are very different."
+
+I'm not sure how to take that. I decide to change the subject again.
+
+"So why didn't it make sense? Your experiment."
+
+[quote=wolftamer9;7736767][s]I KNEW IT! I KNEW QUANTUM UNCERTAINTY WAS BULLSHI- I mean,[/s]
+> What was wrong with it?[/quote]
+
+"Ah, it happened as an accident, my second great discovery. It was almost immediately after I had finished the experiment with the electron emitter. My measuring device, was not particularly large, but it was very complicated, and contained several fragile reservoirs of mercury gas. Mercury is a dangerous poison. A metal that - 
+
+"I know what mercury is."
+
+"Ah, all right, regardless. Dismantling it safely after the experiment was not a simple task and it was one I didn't feel safe trusting it to any of my assistants. I had it only half dismantled when I had to leave for two weeks. My husband and I had arranged a trip to Boston earlier in the spring, and it could not be rescheduled, so I left the emitter partially de-constructed and told our staff that they could not, under any circumstances, touch [i]anything[/i]."
+
+"When I returned, the first thing I did was check in on it. By that point, everyone who worked at the factory knew not to touch Madame Dubois funny machines, not unless they had a cavalier attitude regarding the presence or absence of some or all of their limbs, so everything was where I had left it."
+
+"I started putting things in order, I had left for Boston in bit of a hurry so everything was a bit of a mess. I tried to pick up one of the piles of reactive plating when it gave me a shock. A rather bad one."
+
+[img]0605_a.gif[/img]
+
+"That was strange, but I put it down to static electricity. The plates were silver-plated and very conductive, so while it was odd, it wasn't THAT odd. I grounded them with a wire and went back to work."
+
+"But it kept happening! Twice more, I got shocked, once almost immediately after I'd grounded the pile, and then again not even an hour later. Far too fast a build-up for static electricity. My lab was in the basement of the main storage warehouse and I often complained of damp. I thought it had to be a short somewhere on my work table, or maybe Chantal (she was my main assistant at the time) had left a power cell somewhere she shouldn't."
+
+"The table itself was... busy, I am not by nature an organized person, but it was made of wood, non-conductive wood. I checked nearby and found nothing, then I checked the whole table, pulled everything off it onto the floor."
+
+"It was clean. No batteries. No frayed wires. Nothing."
+
+"At that point, I was tired, so I left it over night, telling myself I'd figure it out in the morning."
+
+"Of course, the following morning was a delivery day, and then one of the haulers locked himself in the downstairs wash-room again, and with one thing and another it was the evening two days later that I finally got back to my lab."
+
+"The first thing I did was check the plates, with a voltmeter this time, not my hand. I was getting tired of being shocked all the time." 
+
+[img]0605_b.png[/img]
+
+"The reading was negligible, exactly what it should have been in the first place, so I put everything back on the table and went back to disassembling the emitter, thinking that the problem, whatever it had been, was solved."
+
+"But you were wrong," I say. 
+
+"But I was wrong," she says.
+
+"Less then an hour later, as I was placing one of the capacitors from the main housing on the worktable, [i]bang[/i]! It exploded!"
+
+"It was the size of a dime, so no damage done, but I noticed that it had rolled against that same pile of plates again."
+
+"I grabbed my meter and checked again."
+
+[img]0605_c.png[/img]
+
+"Before, I had been annoyed. Now I was [i]intrigued[/i]."
+
+
+>>>DISPLAY_PICTURE:0605_b.png
+>>>NOTES:
+
+So... I had that awkward moment tonight when you realize that you're going to have to explain at least a rudimentary amount of particle physics in order for any of your story to make sense.
+
+:mspa:
+
+

@@ -1,0 +1,52 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:991
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=wolftamer9;7891003]> God dammit, do you have to do everything?! Tell them not to look at it!!![/quote]
+
+[k]"Don't look at it!"[/k]
+
+"Huh?"
+
+[k]"The thing down there! Just... look out, or up, [i]not down[/i]."[/k]
+
+[e]"I - what? Whats -"[/e]
+
+[quote=BreadProduct;7891048]> Where's Bina? WHERE IS BINA?![/quote]
+
+[k]"Don't! I'll explain once we land. God dammit Bina! Your 'don't explain anything' plan didn't really consider [i]this bit[/i] did it? Wait - Bina!? Where is she? You were holding her!"[/k]
+
+[e]"You're worried about [i]her[/i]? What about [i]us[/i]?"[/e]
+
+"She's right there," says Amie. "Over that-a-way. I dunno how she can sleep through all this! Is this the time vortex do you think?"
+
+[quote=rachelcp;7891041]Bina> Dream while falling[/quote]
+
+[img]0991_a.png[/img]
+
+[k]"Oh thank god. Look, everyone [i]keep together[/i]. If we get separated here and you miss our exit you could end up [i]literally anywhere[/i]."[/k]
+
+[e]"What does it matter? We're going to [i]splatter[/i] the second we hit anything!"[/e]
+
+[k]"We'll be [i]fine[/i]. So far [i]nothing has gone wrong[/i]. Don't ruin that by doing something stupid just - and Amie I am [i]not kidding[/i] here - [i]DO NOT LOOK DOWN[/i]."[/k]
+
+
+>>>DISPLAY_PICTURE:0991_a.png
+>>>NOTES:
+
+The thing is, software has been sold like this since basically forever. If you need the newest version (which I typically have) you were stuck buying the new version every year. You only won with the 'software on cd's' model if you never upgraded, which was fine for some people, but hasn't ever really been an option for me. 
+
+Remember when 3DS Max was $8000 a year? I do. It wasn't fun. 
+
+My experiences with formal subscriptions like Adobe Cloud have been a mixed bag. It works for me with my private projects, but I can easily understand the problem for other people, especially with some of the weirder or more restrictive licensing I've seen floating around.
+
+As for the free stuff, I've not had much luck with GIMP, the UI tends to fight me, but I am a huge fan of Blender. 
+
+If you want to learn 3D, check out Blender. It is an awesome tool and it has the best line renderer of any package, period. Seriously, Freestyle (the line renderer) is [i]amazing[/i] and well worth checking out for that alone.
+
+[quote=wolftamer9;7891003]Oof, I better hurry up and finish mine. I don't know if I want to actually officially enter the contest though; I already have Clip Studio Paint.[/quote]
+
+You can always regift it to someone else!
+
+

@@ -1,0 +1,32 @@
+>>>TITLE:In which Elizabeth has a simple plan
+>>>INDEX:1141
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[e]"Come on!"[/e] yells Elizabeth.
+
+"Do you even know where we're going?" asks Castillo.
+
+[e]"Yes!"[/e]
+
+[img]1141_a.png[/img]
+
+"You do realize this isn't the staircase we used to get up here."
+
+[e]"I know that! We'll cut them off from the other direction,"[/e] says Elizabeth. [e]"You heard them, they weren't caught, they were running!"[/e]
+
+"And screaming."
+
+[e]"And screaming, yes."[/e]
+
+"And when we catch up with them," says Castillo. "[i]If[/i] we catch up with them, what are we supposed to do about the [i]twenty invincible monsters?[/i]"
+
+[e]"We'll figure that out when we get there."[/e]
+
+
+>>>DISPLAY_PICTURE:1141_a.png
+>>>NOTES:
+
+Hey everyone, this is just a cutaway to remember that these two exist and what they're doing. We're not really changing scene.
+
+

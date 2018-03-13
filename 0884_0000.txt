@@ -1,0 +1,61 @@
+>>>TITLE:In which Kendra thinks she's alive
+>>>INDEX:884
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Kendra?!"
+
+[k]"This is not, exactly, easy! Why did we use so many boxes?"[/k]
+
+"It's just-"
+
+[quote=Fuade;7860864]So one of you brought medical supplies right[/quote]
+
+[k]"Do you have the medkit? There's some blood here, we're going to need the gauze."[/k]
+
+[img]0884_a.png[/img]
+
+"Yeah, it's here but-"
+
+Over Kendra's swearing and the sound of boxes against boxes, she hears a familiar noise.
+
+"Craaaaap..."
+
+[img]0884_b.png[/img]
+
+[k]"Ah! I think I see her!"[/k]
+
+"Is she alive?"
+
+[k]"I [i]think[/i] so, she's under the mattress. Hold on."[/k]
+
+
+>>>DISPLAY_PICTURE:0884_a.png
+>>>NOTES:
+
+[quote=a52;7860858]I'm beginning to suspect the [i]real[/i] reason this is taking so long is you can't decide whether she is actually alive or not, Jack.[/quote]
+
+So this is kinda interesting.
+
+I am totally right there with you guys in feeling like this is drawn out, but this is one of those things where my daily update schedule really affects your experience as a reader of the story. 
+
+There are a minimum number of story beats necessary to transmit the information about any given event in a narrative. You can compress some, and drop others, but drop too many and your narrative stops making sense [1]. 
+
+In another medium, this kind of tense situation would be resolved with a series of quick cuts. Each story beat in a television show of this section would be a few seconds long at most. Some of the things I've drawn panels for might be five or six frames in a movie with good editing.
+
+Even in text you can elide a lot of detail to control pacing. 
+
+However, those quick cuts take a long time to author, and you guys are inside the observation loop for production in this adventure. You're watching me as I write and draw this and I can't draw more then a few panels a day. That means that technical scenes, like this one, slow down a whole lot if you're reading them daily. 
+
+That makes pacing suuuper hard in this kind of situation where there's a lot of complicated stuff happening. Either I have to leave gaps (with the previously mentioned consequence of things making less sense), or I have to take a long time to do it. I have chosen option A many times in the past, but this scene is already bizarre and confusing enough that I've prioritized clarity of action over speedy production. 
+
+This whole scene in the smokestack has taken me twenty days to draw and write, which is a long damned time, but from Bina and Kendra's perspective, maaaybe three minutes have passed?
+
+I don't see a way for me to fix this. I realized early on that I couldn't control pacing to a degree where the end of every update ended on a satisfying or interesting moment. It's scenes like this, where there's a question the characters are trying to answer through their actions and we can't get to the answer because we need to walk the steps necessary to get there, that are the ones that I imagine are frustrating to read on a daily basis. 
+
+If you have the time, try rereading the adventure from [post=7855904]here[/post]. It'll take you a few minutes and it feels a lot less strained when consumed all at once. 
+
+
+[i][1] I should probably point out that your narrative will also stop making sense if you use too much time travel, but that's for entirely different reasons. :beetip:[/i]
+
+

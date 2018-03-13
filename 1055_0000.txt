@@ -1,0 +1,30 @@
+>>>TITLE:In which most people don't get it
+>>>INDEX:1055
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Bina?"[/k]
+
+"Hmm?"
+
+[k]"Are you feeling sick? Do you need to lie down? You're still not exactly [i]well[/i]."[/k]
+
+"Hmm? Oh, no. I - maybe - probably..."
+
+Kendra thinks Bina is talking like a person whose mind is somewhere else.
+
+[k]"Bina? What's going on?"[/k]
+
+"It's my arm."
+
+[img]1055_a.png[/img]
+
+"It's uhh... [i]itching[/i] again."
+
+
+>>>DISPLAY_PICTURE:1055_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,16 @@
+>>>TITLE:In which Bina is off-screen
+>>>INDEX:150
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[img]0150_a.jpg[/img]
+
+[img]0150_b.gif[/img]
+
+
+>>>DISPLAY_PICTURE:0150_a.jpg
+>>>NOTES:
+
+
+
+

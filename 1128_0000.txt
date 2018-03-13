@@ -1,0 +1,97 @@
+>>>TITLE:In which we babble technologically
+>>>INDEX:1128
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=Juddy555]I repeat
+>QUICK, PUNCH THE TIME THING![/quote]
+
+[k]"We should smash it,"[/k] says Kendra. [k]"If we can get close enough."[/k]
+
+"Should we?" asks Bina.
+
+[k]"You think we should leave it active!?"[/k]
+
+"No! I'm not being sarcastic, I am [i]actually asking[/i]. What happens if we smash it?"
+
+[k]"I don't... really know."[/k]
+
+"I can't see it very well," says Bina. "Too much glare... has he changed it?"
+
+[k]"He's rigged it to the generators. Those are industrial power plugs going into some kind of enormous power bar, that's gotta be how he made a rift so large and kept it open for so long."[/k]
+
+"That sounds... dangerous."
+
+[k]"The guy thinks he's literally working for god, I don't think he's afraid of a little experimental electrical -"[/k]
+
+"No, I mean, if we just smash it, that's a lot of electricity going into water we are currently standing in."
+
+[k]"Ahh..."[/k] says Kendra, who hadn't thought of that.
+
+"And we left our rubber pants in the Moment..."
+
+[k]"They wouldn't have protected us from this anyway,"[/k] says Kendra. [k]"This is a big power station, each of these generators is over two megawatts. Anyone eating this amount of current would arrive at the morgue crispy and possibly cremated."[/k]
+
+"Great... ok, anything else?"
+
+[k]"He replaced the hacksaw blade with something that looks like a screen?"[/k] says Kendra. [k]"Look, does any of this matter? We should be focusing on helping people."[/k]
+
+"It might! We can't help people without knowing what we're doing."
+
+[k]"I don't -"[/k]
+
+"Come on, you built it. Has he done anything else?"
+
+Kendra thinks for a second. [k]"He's not venting paradox anywhere?"[/k]
+
+"Hmm," says Bina. "That's weird. Half the damned journals are about dealing with paradox." 
+
+[k]"Maybe the Botfly is handling that for him?"[/k]
+
+"I don't think it can play fast and loose with the rules like that," says Bina. "Otherwise why would it have allowed us to use that time machine in the first place? The naughts were just about to get us. Job done. Why let us scurry away?"
+
+[k]"Good point."[/k]
+
+[img]1128_a.png[/img]
+
+[k]"Come on Bina,"[/k] says Kendra. [k]"We can't just stand here gawking. We have to do something!"[/k] 
+
+"I - aha! OK, speed of light, right?"
+
+[k]"What?"[/k]
+
+"Speed of light, the fastest any information can travel, right? Paradox is temporal interference, it happens when you stress a timeline by introducing errors that make it less likely that the interference will occur."
+
+[k]"OK,"[/k] says Kendra, who is a lot more shaky on this part of time travel then Bina is.
+
+"So to make a time machine that ignores paradox, just make sure there's no interference. Impossible, you'd think, even air particles travelling across the gap would build it up over time... unless there's [i]no time[/i] for them to do that."
+
+[k]"You can't have two exits at the same n-coordinate,"[/k] says Kendra. [k]"You need at least a little bit of-"[/k]
+
+"Yeah, but [i]how little[/i]? A billionth of a billionth of a second? Provided the shift in time is [i]less[/i] then the amount of time it would take light to travel the distance between the two points..."
+
+[k]"You'd get no paradox,"[/k] finishes Kendra. [k]"Time travel repurposed as teleportation."[/k]
+
+"Yeah," says Bina. "Well done Gregor..."
+
+They both think about that for a few seconds.
+
+[k]"We're only four kilometers from the pit though. Light travels four kilometers [i]really fast[/i]. You'd need to be ridiculously precise in targeting,"[/k] says Kendra. [k]"We're talking femtoseconds, and your time machine would have to be [i]perfectly[/i] n-continuous. If there were any gradient in efficiency..."[/k]
+
+"Your relative n-locations would slip one way or the other and, depending on the relative isolation of events between the two locations, you'd start building paradox."
+
+[quote=ForestGardener]How is it not melted or something?!?! Aluminum wire. Flashlight parts. A used gel heat pack. A hacksaw blade. Built on an old wooden chair frame, held together with plumbing tape. Kendra thought it would explode.[/quote]
+
+[k]"Bina,"[/k] says Kendra. [k]"I built that thing in a cave out of [i]scraps[/i]. I'm honestly amazed that it hasn't [i]exploded[/i] yet. It is the [i]opposite[/i] of precise."[/k]
+
+"Soooo you think we should maybe hurry?"
+
+[k]"Yeah,"[/k] says Kendra. [k]"I think we should maybe hurry!"[/k]
+
+
+>>>DISPLAY_PICTURE:1128_a.png
+>>>NOTES:
+
+
+
+

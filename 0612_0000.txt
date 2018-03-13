@@ -1,0 +1,84 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:612
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=BreadProduct;7741707]>Interesting, but how?[/quote]
+
+"Wait, what?"
+
+[color=#94846F]"Well, it took a lot more testing to confirm, but basically, anything with the image from the tile on it would spontaneously generate electrons if viewed through a pair of slits smaller then the amplitude of the wavelength of light you were using to view it."[/color]
+
+"What?"
+
+[color=#94846F]"It didn't work in the dark."[/color]
+
+"OK, but - 
+
+[color=#94846F]"And it definitely had to be conductive, the surface. Leo etched it into several pieces of wood at different sizes and those were all complete duds."[/color]
+
+"Yeah, but I mean -
+
+[color=#94846F]"Oh! And it couldn't just be paint, it had to be embossed, or a relief of some kind. That was very important."[/color]
+
+"Josephine!"
+
+She looks up at me, I realize that I'm shouting and I make a point to lower my voice to a calm and collected register, before continuing. 
+
+"You're telling me that you didn't [i]invent[/i] anything. You just [i]found[/i] a magic symbol that just [i]magically[/i] made free energy!"
+
+[color=#94846F]"No I didn't!"[/color]
+
+"Yes! You did!"
+
+[color=#94846F]"Well if you look at it that way, people didn't [i]invent[/i] fire, they just [i]found[/i] some sticks and the whole rubbing them together thing just happened automatically. I didn't [i]create[/i] the image from the tile, but I'm the one that recognized what it did and found out how to use it!"[/color]
+
+"What does [i]any[/i] of this have to do with quantum mechanics?! You've been implying that this has something to do with quantum mechanics this whole time and it's just been what? A lie?"
+
+[color=#94846F]"No! I mean - I don't [i]think[/i] so. I theorized - I never got to [i]test it[/i], but I [i]believe[/i] that the light, the light packages... the other you, she had a name for them - [/color]
+
+"Photons?"
+
+[color=#94846F]"Yes! The photons going through the slit, when they hit the tile, they didn't bounce off, or get absorbed. They did something else. It's like the cat in the box. You said so yourself."[/color]
+
+"Errr... sorry," I say. "About that - 
+
+[color=#94846F]"What?"[/color]
+
+"I've never really understood what all that's about really. I've just heard about it in movies and stuff."
+
+[color=#94846F]"Ah, err... I was hoping you'd - OK. Well your earlier copy described it to me like this. You take a cat - "
+
+[img]0612_a.png[/img]
+
+- and you put it in a box with a vial of poison."
+
+[img]0612_b.png[/img]
+
+"The vial is hooked up to a trap that is triggered when you close the lid on the box."
+
+"The trap is made of an emitter, like my electron emitter, but one that contains a radioactive atom, and a switch."
+
+"You set it up so that when the atom decays it will shoot a particle out of the emitter in such a way as it [i]might[/i] hit a reactive switch. If that happens, the device will crack the vial allowing the gas to escape, fill the box, and kill the cat."[/color]
+
+"OK. That's sort of awful, but OK."
+
+[color=#94846F]"But because quanta, subatomic particles, exist as a wave until they interact with something. Until they are [i]observed[/i], their position is probabilistic. They are somewhere, and we can guess roughly based on their origins, but we can't [i]know[/i]. Not for sure, without reacting with them. You can't see a photon without absorbing it. You can't measure an electron without reacting with it."
+
+"So when you close the box, you can't know if the atom hit the switch or not. Not for sure. That means that the rest of the state of the box, the vial of poison, the cat, is also up in the air. The cats life or death is literally [i]unknowable[/i]."[/color]
+
+[img]0612_c.png[/img]
+
+"So, wait, what happens to the cat? Is it alive or dead?"
+
+[img]0612_d.gif[/img]
+
+[color=#94846F]"Until you open the box and take a look, it's [i]both[/i]."[/color]
+
+
+>>>DISPLAY_PICTURE:0612_b.png
+>>>NOTES:
+
+
+
+

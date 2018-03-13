@@ -1,0 +1,50 @@
+>>>TITLE:In which Kendra comes to a realization
+>>>INDEX:1131
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"This would be a lot easier if we had Eight's thing."
+
+[k]"Eight's thing?"[/k]
+
+"Her naught killing thing! Her plan! She was building it before her loop got reset."
+
+[k]"Oh riiight,"[/k] says Kendra. [k]"Well it clearly didn't work, because her loop got reset."[/k]
+
+[img]1131_a.png[/img]
+
+[k]"You go watch Horatio and Gregor,"[/k] says Kendra. [k]"I've got to figure these out."[/k]
+
+"Or maybe," says Bina, creeping back to peer around the humming generator again. "Maybe her loop got reset because it [i]was[/i] working."
+
+[k]"Could be,"[/k] says Kendra. [k]"Doesn't help us now..."[/k]
+
+[img]1131_b.png[/img]
+
+[k]"And I am now realizing that this is not actually a control panel."[/k]
+
+"What?"
+
+[k]"It's just fuel levels and pressure gauges,"[/k] says Kendra. [k]"Display only, no input."[/k]
+
+"Well where's the control panel then?"
+
+[k]"If I had to guess, I'd say on the other side of the room?"[/k]
+
+"You mean the one [i]behind the portal?[/i] The inacessible one? [i]That[/i] side of the room?"
+
+[k]"Yes."[/k]
+
+"Dammit!"
+
+[k]"We can still shut them down manually,"[/k] says Kendra. [k]"I think... probably."[/k]
+
+"One at a time..." says Bina.
+
+
+>>>DISPLAY_PICTURE:1131_b.png
+>>>NOTES:
+
+
+
+

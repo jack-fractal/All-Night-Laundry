@@ -1,0 +1,26 @@
+>>>TITLE:In which Amie tries to be inspiring
+>>>INDEX:1092
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Shouldn't that be locked?" asks Castillo. "This is a utility floor."
+
+"Someone's jammed it open," says Amie, pointing.
+
+[img]1092_a.png[/img]
+
+"And there's more of the dirty water down here."
+
+[e]"That's going to make [i]stealth[/i] tricky."[/e]
+
+[quote=btp]Amie> keep riding the high of fantasy! Why do these officers have to be such downers?[/quote]
+
+"Eurgh! Come on you guys! We can do this! If they're taking people, they have to be taking them [i]somewhere[/i]."
+
+
+>>>DISPLAY_PICTURE:1092_a.png
+>>>NOTES:
+
+
+
+

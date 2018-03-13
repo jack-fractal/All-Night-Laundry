@@ -1,0 +1,44 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:865
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=Kíeros;7856047]> Kendra: Continue prodding until Bina tells you what's up.[/quote]
+
+[k]"Bina?"[/k]
+
+[size=10][k]"Bina? What happened?"[/k]
+
+[i]"Bina talk to me."[/i][/size]
+
+[img]0865_a.png[/img]
+
+[k]"Bina?"[/k]
+
+"Hmmm?"
+
+[k]"Why are we doing this?"[/k]
+
+[img]0865_b.png[/img]
+
+[k]"I mean, ok, saving a life. I get it, but this plan... there's a lot of ways it could go wrong and we need to be thinking about how we're going to, you know, get away from all this. I know we said we'd save people but I think we need to be paying more attention to the Botfly. We still don't know [i]anything[/i] about it really."[/k]
+
+"The plan will work."
+
+[k]"We don't even know if she's alive Bina, I mean, not just after she lands, I mean like - [i]while falling[/i]. Gregor hits her with a shovel in the back of the [i]head[/i] and he doesn't exactly pull his swing. There's a good chance that we're doing all this to save a [i]corpse[/i]."[/k]
+
+"It's going to work! It's got to!"
+
+[k]"And even if it does work, we don't know who this person is! She works for the government in some kind of secret science unit, and we have no idea what she's going to -"[/k]
+
+"Hey! I didn't know you!"
+
+[k]"Yeah, and you [i]left[/i] me."[/k]
+
+
+>>>DISPLAY_PICTURE:0865_b.png
+>>>NOTES:
+
+
+
+

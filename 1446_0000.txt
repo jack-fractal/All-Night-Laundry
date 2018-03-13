@@ -1,0 +1,30 @@
+>>>TITLE:In which Bina counts crimes
+>>>INDEX:1446
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Hey!" says Amie.
+
+"Oh!" says Bina. "Good. Quick, are breaking and entering two separate crimes or are they like, all one thing?"
+
+[img]1446_a.png[/img]
+
+"Err... I think they're the same thing?" says Amie, unsure.
+
+"So you break and enter simultaneously?"
+
+"Yeah."
+
+"What if you break something [i]after[/i] you enter?"
+
+"THAT I think is two separate crimes."
+
+"Dang, so it's still the same number," says Bina, surveying the door.
+
+
+>>>DISPLAY_PICTURE:1446_a.png
+>>>NOTES:
+
+
+
+

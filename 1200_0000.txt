@@ -1,0 +1,133 @@
+>>>TITLE:In which Bina hasn't eaten in five days
+>>>INDEX:1200
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"I maaaaay have eaten all of it," says Amie.
+
+[img]1200_a.png[/img]
+
+"How big was the pizza?"
+
+"Large?"
+
+"And when did the time letter get here?"
+
+"'Bout five minutes ago?"
+
+"And you don't see any [i]problem[/i] with these three statements?"
+
+"Not particularly," says Amie, grinning.
+
+[quote="xooxu"]So I don't know if the pizza is supposed to be like a clue or something, but honestly when did Bina even eat last? I take back thinking Amie would have eaten it all, I hope she saved some for our starving heros, one of which probably hasn't eaten anything extravaneously in like relative 5 days.[/quote]
+
+"Amie," says Bina, in a dangerous voice. "I haven't eaten anything in five days!"
+
+[k]"It's more like three,"[/k] says Kendra, from down the hall. [k]"Can I come back yet? Are you done with the time stuff? 'Cause we need to talk about how much time stuff we're using."[/k]
+
+"Yeah! Come back! I still have like four minutes left," says Bina. "Amie, pizza, where?"
+
+[quote="Glotos"]> Amie: Claim the cops confiscated the pizza.[/quote]
+
+"The cops took it!"
+
+[quote="Juddy555"]Priority 1: Obtain and eat pizza. [/quote]
+
+"Amie..." growls Bina. 
+
+"Fine!" says Amie, throwing her hands up. "I stashed it in the office of Doctor Jordan Shipman, hospital clerk."
+
+"Why did you stash the pizza in the office of Doctor Jordan Shipman, hospital clerk?" asks Bina, expecting a joke. "I mean, [i]specifically[/i]."
+
+"Because the pizza was sort of heavy and awkward to carry, the room was on the way, and it was unlocked so..."
+
+"Wouldn't Doctor Jordan Shipman, hospital clerk, you know... [i]object[/i] to you using their office as impromptu pizza storage?"
+
+"They decided to go home early today," says Amie.
+
+"Why did they do that?" asks Bina, her voice blank and empty of emotion.
+
+"Well, they were abducted [i]and[/i] eaten by a terrifying monster and then they were forcibly un-eaten in what can only be described as a moment of considerable temporal and gastronomic shenanigans. Then they face planted into a foot and a half of mud, and were sort of stepped on several times by other Doctors. I understand they were rather annoyed about that last bit."
+
+"Ah," says Bina. "That does make sense."
+
+"Yeah, I know I would need a good shower, some therapy, and a hefty bunch of Netflix time after something like that."
+
+"Really?" asks Bina.
+
+"No, no I would not - this is the coolest day of my entire life."
+
+[k]"And how, on this coolest day of your entire life, did you come to know about the office of Doctor Jordan Shipman, hospital clerk?"[/k] asks Kendra. [k]"Were you just trying every door or..."[/k]
+
+"No, it's where they were interrogating us earlier - hey! Hey! Bina come back!"
+
+[quote="Tyler Shelton"]Priority 1: Locate and ingest delicious pizza. [/quote]
+
+Turns out, Bina can still put on a pretty good turn of speed if sufficiently motivated.
+
+[img]1200_b.png[/img]
+
+[quote="xooxu"]Bina: be the small mother hen and tell your large daughter to go eat.[/quote]
+
+"Kendra! You need food too! Come on!"
+
+[k]"You know,"[/k] says Kendra. [k]"That sounds like a [i]really[/i] good idea. Hey Amie, was future-me clever enough to order anything to drink?"[/k]
+
+"Yes! That's why it was heavy. Look - wait!"
+
+"Amie! You come too, you didn't have lunch!" says Bina.
+
+"But - you... don't we have time stuff to do? Magical time stuff!?" asks Amie, watching them leave. "Isn't that sort of [i]important[/i]?"
+
+[quote="Wolph Strykes"]Pizza.
+It is a priority.[/quote]
+
+"I haven't eaten," yells Bina, over her shoulder. "In [i]five days![/i]"
+
+
+>>>DISPLAY_PICTURE:1200_b.png
+>>>NOTES:
+
+Okidokie! So, first a bit of website news. I have fixed the cookies, which means the save and load functionality should be working now, and ideally the retcons will not be such mind-boggling chaos. Hurrah for that. I'm still planning on doing some work on the UI for the retcons because that is still confusing pretty much [i]everyone[/i] who reads this, and my tentative plan is to swap the background when you're reading retcon pages AND to provide both an explanation of what is happening with links back from the page that triggers them.
+
+The original plan was for them to be weird subtle things you only notice if you backtrack through the archive's, kind of an easter egg for people reading for a second time, but with people mentioning them in comments that's never going to work. If mystery is impossible we can at least have clarity. 
+
+For those people interested, this site is built in Flask, a nifty little python framework. I'm sure there are cleverer things out there, but python and I are old enemies, and as I've never made a website before I decided to stick with the devil I know.
+
+
+
+[quote="Glotos"]Oh, that's funny. When I found the painting link I jumped to the last page to make the comment, even though I was still a few hundred pages behind. Now I catch up. The following page.
+
+I don't know how many hours it was, but I've been at this for a few days. I found the comic from a banner ad via Project Wonderful (saw you talking about that a few pages ago) on, I think, based on my history, Antihero for Hire (http://antihero.keenspot.com).
+
+And here the story's practically over, so it's, what, nearly my last chance to make a suggestion?[/quote]
+
+Hi Glotos! Thank's for reading. I did like that painting and [i]dang[/i] Anti Hero for Hire, I remember reading that a [i]while[/i] ago. I think my bookmark broke so I thought it had gone offline.
+
+You don't need to worry about this being your only opportunity to make suggestions. I've basically given up on trying to make predictions when we'll get to the end of this thing (I've thought we were 200 pages from the end for about eight hundred pages), but I can tell you we've got some ways to go yet. 
+
+I hope you stick around.
+
+[quote="jmcallaway"]Reading through the notes, why not go with "Interactive Graphic Narrative" as a way to describe ANL?[/quote]
+
+That seems pretty accurate, but I have a feeling that people would look at me a bit strangely if I tried to pitch that as being a thing.
+
+[quote="Dave Rapp"]The term "webcomic" generally refers to anything on the internet that is serially updated and includes pictures, and plenty of webcomic aren't very comic-like. People call Homestuck a webcomic even though it has music and animation, making it closer to a cartoon than a comic. I think if you called ANL a webcomic most people would agree with you. You could maybe call it an "interactive webcomic" to describe it a little better but I don't really think that's necessary.[/quote]
+
+[quote="Brennan Laurence Smith"]Re: Terminology: I've heard them referred to as "interactive webcomics"
+
+http://tvtropes.org/pmwiki/pmwiki.php/Main/InteractiveComic
+
+You are on that list, by the way, along with other greats such as Prequel.[/quote]
+
+Thanks Dave and Brennan! "Interactive Webcomic" sounds pretty good.
+
+[quote="Meoi Lass"]wait a moment....ggaahhhhh!. I'm done with the archives?!!!! Aw....ok ...now, retcons?[/quote]
+
+Hi Meoi! Glad you made it. You looked like you were having fun, from the comments you were leaving, so I'm glad you caught up! 
+
+Stick around, make suggestions! 
+
+:)
+
+

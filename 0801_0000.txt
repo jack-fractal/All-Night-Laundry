@@ -1,0 +1,50 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:801
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"And NOW what am I doing?"[/k]
+
+"You're putting on your insulated gloves."
+
+[quote=Dalmationer;7834789]>Kendra: Make sure you're wearing insulated gloves! You don't want to zap yourself![/quote]
+
+[k]"I'm putting on my insulated gloves so that the capacitors don't zap me! And [i]whyyy[/i] am I doing that?"[/k]
+
+"I get it, ok!? Safety precautions! They're important! I understand!"
+
+[k]"Well clearly you [i]don't[/i] because you just hit a valuable, dangerous and irreplacable piece of equipment WITH A HAMMER!"[/k]
+
+Bina has nothing to say to that.
+
+[k]"Whatever - Here goes."[/k]
+
+[img]0801_a.png[/img]
+
+[k]"I can't feel anything. Just broken components."[/k]
+
+"Try left. Your left."
+
+[k]"Wait - OK yeah. OK. I got something."[/k]
+
+[img]0801_b.png[/img]
+
+"I told you there was a switch!"
+
+[k]"All right. I'm going to pull it."[/k]
+
+[img]0801_c.png[/img]
+
+"Well?"
+
+[k]"I just wish we knew why Three built it this way in the first place,"[/k] says Kendra. She pauses for a moment and then speaks again,  softer, to the Viewer and not to Bina, [k]"Please don't explode..."[/k]
+
+She pulls the switch and there is a soft click.
+
+
+>>>DISPLAY_PICTURE:0801_c.png
+>>>NOTES:
+
+
+
+

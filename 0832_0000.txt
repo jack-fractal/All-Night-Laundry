@@ -1,0 +1,68 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:832
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"So we just have to get it [i]right[/i]!"[/k] says Kendra, turning away from the whiteboard.
+
+[quote=Fuade;7846200]You're assuming she'll fall in at a predetermined speed at just the right location.  The more complicated you make this plan the more places it can go wrong.  Yes, getting a general velocity is good, but if you're going so far as to make it where she lands RIGHT on the edge of a building then something as weak as a moths fart is going to muck up the trajectory.[/quote]
+
+"Kendra, when has [i]anything[/i] in this whole endeavour [i]ever[/i] gone right? You're assuming that we can precisely measure her incoming angle and then [i]precisely[/i] manipulate that into an outgoing angle that has to be changed based on how fast she's going. Which, I might remind you, we have no way of knowing because we have no idea what position she's falling in!"
+
+[k]"That is... a good point."[/k] says Kendra, deflating a little.
+
+[img]0832_a.png[/img]
+
+[quote=Fuade;7846200]We need a more simple plan.[/quote]
+
+[quote=Bohandas;7843614]>fling her sideways through the mud. presumably both ends don't need to be oriented the same way.[/quote]
+
+"Can't we just find like, a deep part of the mud to drop her in? Or toss her in sideways into it maybe? It's gotta be better then the concrete."
+
+[k]"At how fast she's falling? It'd be, like, the most lethal of all belly-flops. Besides, the mud is all full of re-bar, bricks, and dead people."[/k]
+
+[quote=Beastnix;7843542]>How many beds do you got?[/quote]
+
+"OK, so what about a bunch of mattresses? There's thirty six houses still in the Moment, and parts of two high-rises. I bet we could get-"
+
+[k]"Nooo..."[/k] says Kendra. [k]"That wouldn't work either."[/k]
+
+"Why not?"
+
+[k]"Mattresses don't compress enough. We need her to land on something that compresses [i]a lot[/i] in a [i]really[/i] short about of time. Also, we'd have to build a tower of mattresses thirty feet high, which would be really hard to do, even if it wouldn't still kill her."[/k]
+
+"Don't compress enough? They're squishy! That's what they're for!"
+
+[k]"Yeah but not squishy [i]enough[/i]. The point isn't how soft something is, she can land on something hard as long as it compresses. We need to slow her deceleration down over as large an amount of time as we can to reduce impact velocity."[/k]
+
+"So what could do that? Keep in mind that we have like two blocks of downtown Montreal to pull from, so those enormous air-filled pillow things for jumping off buildings are probably out of the question."
+
+[k]"We need something that is squishy, and ideally [i]soft/[/i] but still has [i]some[/i] structural support. Maybe something that [i]collapses[/i] when she hits it? I don't know."[/k]
+
+"I wish we had the internet," says Bina. Not for the first time.
+
+[k]"Even if we found something that did what we need, we [i]still[/i] have to slow her down somehow. She's falling, like, two hundred feet. She'll be at terminal velocity, and, like you said, we have no idea what position she'll be in when she hits. Even with one of those big air pillows, if she hit it head first..."[/k]
+
+"Wait..."
+
+[img]0832_b.png[/img]
+
+[img]0832_c.png[/img]
+
+"What if we didn't have to measure the angle? What if her velocity didn't matter?"
+
+[k]"What do you mean?"[/k]
+
+"What if we just reversed it - 
+
+[quote=Fuade;7846200][img]command_images/two_part_plan.gif[/img][/quote]
+
+- then grabbed her [i]again[/i] after she'd slowed down?"
+
+
+>>>DISPLAY_PICTURE:0832_b.png
+>>>NOTES:
+
+
+
+

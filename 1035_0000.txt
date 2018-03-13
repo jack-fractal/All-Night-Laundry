@@ -1,0 +1,48 @@
+>>>TITLE:In which everyone is a huuuuuge nerd
+>>>INDEX:1035
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Do you mean Amie? The girl who was with us?"[/k]
+
+"The one with the blue hair?"
+
+[k]"That's her."[/k]
+
+"Then yes."
+
+[img]1035_a.png[/img]
+
+"Uh... have I said something wrong?" asks Emmie. 
+
+"What time is it?"
+
+Emmie checks his phone he is still holding after having used it as a flash-light in the darkened hallways, "It's 3:45 in the afternoon."
+
+"Is that after we-"
+
+[k]"Yes. Way after. Would she-"[/k]
+
+"Just leave? I don't know."
+
+"She has been sitting in the waiting room for almost six hours," says Emmie. "It is not the most stimulating activity, and as you seemed to be out of danger and Kendra would not let her stay here in the room with you..."
+
+[k]"Did she [i]look[/i] bored the six times she came in to check on Bina?"[/k]
+
+"To be honest, when I met her she acted like someone err..."
+
+[k]"Like a little kid at Disney World?"[/k]
+
+"I was going to say 'someone on a mind altering substance' but I couldn't find a way to do it without it sounding judgmental."
+
+"Ooooh right!" says Bina. "Crap, Amie'd be all over this. She loves ti-iiis kind of thing. She's a huge nerd."
+
+"As a huge nerd, I will try not to be offended by that statement."
+
+
+>>>DISPLAY_PICTURE:1035_a.png
+>>>NOTES:
+
+
+
+

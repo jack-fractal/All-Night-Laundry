@@ -1,0 +1,32 @@
+>>>TITLE:In which Emmie hears something
+>>>INDEX:1157
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote="Batness"]Bina: keep talking to Gregor! That's what works in negotiations, *and* villains always like to talk about their plan. Or at least slip up when trying NOT to spill.[/quote]
+
+"Gregor -" Bina starts, but is immediately cut off. 
+
+"Hey!" calls Emmie 
+
+"What?" asks Bina.
+
+[quote="Fellow"]Aren't there more naughts in the building, ready to sneak up on you?[/quote]
+
+[quote='btp']> Wait...now that there's one less generator, you hear...is that Amie shouting?[/quote]
+
+[img]1157_a.png[/img]
+
+"You hear that? I hear yelling."
+
+"Oh no..." moans Castillo, leaning heavily on Emmie's shoulder.
+
+[e]"I'm gonna need those handcuffs [i]now[/i],"[/e] says Elizabeth.
+
+
+>>>DISPLAY_PICTURE:1157_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,32 @@
+>>>TITLE:In which Bina takes a peek
+>>>INDEX:1044
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Careful!"[/k] whispers Kendra.
+
+"Shh!" hisses Bina as she gets up on her knees to look.
+
+[img]1044_a.png[/img]
+
+[k]"What do you see?"[/k]
+
+"Amie's here! And Elizabeth."
+
+[k]"What are they doing?"[/k]
+
+[img]1044_b.png[/img]
+
+"Looks like they're arguing."
+
+[k]"Well we didn't expect them to be playing a friendly game of tennis."[/k]
+
+"No, what do we do now?"
+
+
+>>>DISPLAY_PICTURE:1044_b.png
+>>>NOTES:
+
+
+
+

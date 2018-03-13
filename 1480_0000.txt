@@ -1,0 +1,24 @@
+>>>TITLE:In which jQuery does it's thing
+>>>INDEX:1480
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[img]1480_a.png[/img]
+
+[img]1480_b.png[/img]
+
+
+>>>DISPLAY_PICTURE:1480_a.png
+>>>NOTES:
+
+[quote="Irene Huhtala Hartman"]Oh wow, finally caught up! New reader here. This is an amazing webcomic, and the first I've seen in this kind of format, with readers' suggestions taken into account instead of merely showing up in comments or on a message board.[/quote]
+
+Hi Irene! Thank you so much for reading! 
+
+I'm really glad you liked the interactivity. If you're interested in reading other interactive comics like this, there's a whole community of people who do things like this. If you'd like recommendations, ask in the comments and I'm sure you'll get a bunch of great new things to read. 
+
+For myself, I always recommend [url=http://mozai.com/quests/RubyQuest/]Rubyquest[/url], as it's one of the oldest examples of this kind of thing, and it's still really excellent. A warning for body horror though, as it is pretty grim in places. 
+
+:)
+
+

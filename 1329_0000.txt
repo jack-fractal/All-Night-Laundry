@@ -1,0 +1,32 @@
+>>>TITLE:In which Amie is stumped by their many flavours
+>>>INDEX:1329
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"How you doing over there Amie?"
+
+[img]1329_a.png[/img]
+
+"Amie? You OK?"
+
+Amie doesn't appear to hear her.
+
+"Amie?"[/k]
+
+"Huh?"
+
+[img]1329_b.png[/img]
+
+[k]"I asked if you were OK."[/k]
+
+"Uh - yeah. I can't - I can't figure out what flavour of rice crisp to get. I like the seaweed ones but there's all these other kinds too..."
+
+Despite what she just said about Bina, Kendra is getting a little worried about Amie.
+
+
+>>>DISPLAY_PICTURE:1329_b.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,30 @@
+>>>TITLE:In which the lack of envelopes is suspicious
+>>>INDEX:1450
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"The axe?" asks Amie, trying to keep up.
+
+"No! The wall! This wall, the one that saves my life over and over again."
+
+[img]1450_a.png[/img]
+
+"This thing's saved me more times then Kendra has, which is impressive for an inanimate object, as Kendra's getting close to double digits now. But this wall, there's nothing else like it anywhere. My past selves used it so much we ran out of envelopes. The proper kind anyway. Had to start using pink."
+
+"What's wrong with pink?" asks Amie.
+
+"Nothing's wrong with pink! I like pink! But that's a bit weird isn't it? Running out of envelopes. Why didn't I go buy more? I have money, I had a whole [i]world[/i] of money, and it's not like I was hurting for time. Heck, I think Six robbed a few banks, back when we had banks, just for the fun of it, so there shouldn't be any trouble buying them in the real world. And yet... we ran out of envelopes. I could see having trouble sourcing the medicine, hard to get that without a doctor, but envelopes as well?"
+
+Somehow Amie doesn't think she's expected to answer that question, but does anyway, "Probably not."
+
+"No," says Bina. "It's a bit funny, isn't it? A little bit [i]suspicious[/i]."
+
+
+>>>DISPLAY_PICTURE:1450_a.png
+>>>NOTES:
+
+Hey everyone! 
+
+I fiddled with the site a bit. Retcon pages now have links back to the retcons they cause (check out 96 for a good example) and which version of a scene you see is controlled by the "Primary Temporal Position" thing under the toolbar. If your PTA is [i]before[/i] a retcon moment, then you'll see the original version, if it's [i]after[/i] the retcon moment you'll see the retcon.
+
+

@@ -1,0 +1,34 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:954
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[e]"Uh... really?"[/e] says Elizabeth.
+
+[k]"Unless I can get her to a hospital in the next few hours, yeah. She's got a serious infection, and probably sepsis. She needs corticosteroids, high-strength antibiotics, and probably insulin, and she needs them now."[/k]
+
+[quote=Kíeros;7879981]> Elizabeth: "And you're that [i]calm[/i] about that?"[/quote]
+
+[e]"Well you seem pretty calm about all this."[/e]
+
+[k]"Do I [i]look[/i] calm?"[/k]
+
+[img]0954_a.png[/img]
+
+[e]"Ah, no, not exactly - but then -"[/e]
+
+[k]"My friend - the one upstairs, the dying one - she's got sort of a hero complex. She doesn't want me to tell you what's really going on because she thinks it would be dangerous."[/k]
+
+[e]"Hey! You [i]said[/i] you'd answer my questions."[/e]
+
+[k]"Yeah, well people lie, and you were right next to an all consuming wall of death when I said that."[/k]
+
+[e]"God dammit!"[/e]
+
+
+>>>DISPLAY_PICTURE:0954_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,40 @@
+>>>TITLE:In which Bina does her thing
+>>>INDEX:1343
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Lets go,"[/k] says Kendra.
+
+"You sure?" asks Bina. "You don't want to catch a quick movie or anything first? We could go shopping for shoes. Truth be told, I'm not a big fan of these crocs."
+
+[k]"Not now Bina,"[/k] says Kendra. [k]"Just do it.[/k]
+
+"Sorry," says Bina, catching the tone of Kendra's voice. "Doing the thing. Amie? Hold my umbrella."
+
+Bina does the time travel thing.
+
+[img]1343_a.png[/img] 
+
+"Please keep your hands and arms inside reality..."
+
+[img]1343_b.png[/img]
+
+"... and'a heeeeere we go!"
+
+[img]1343_c.gif[/img]
+
+
+>>>DISPLAY_PICTURE:1343_b.png
+>>>NOTES:
+
+[quote="Elle Enna"]Wait, the retcon went poof. What happened? I saw it last night.[/quote]
+
+Its still there. The code that controls if you can see a retcon or not checks how far you've read in the comic to see if you should be able to see the retcon yet. If you go back one page from here and then go to a retcon page, you should see all of them. 
+
+I can't figure out a better way of doing it unfortunately. If I make them always visible, that kind of ruins the gimmick, but if I make them invisible like this, then all these glitches pop up for people who have read the story, but their computer doesn't know it. 
+
+Anyone have a idea to solve this? It's really annoying.
+
+Also, I suggest any writers out there not to do this to your narrative. It's a headache.
+
+

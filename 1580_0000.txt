@@ -1,0 +1,20 @@
+>>>TITLE:In which there are multiple explosions
+>>>INDEX:1580
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+The drone hits the courtyard and explodes.
+
+[img]1580_a.png[/img]
+
+It then explodes again. 
+
+[img]1580_b.png[/img]
+
+
+>>>DISPLAY_PICTURE:1580_b.png
+>>>NOTES:
+
+
+
+

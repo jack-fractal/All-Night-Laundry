@@ -1,0 +1,54 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:946
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[e]"An angel."[/e]
+
+[k]"Yeah, he's not [i]entirely[/i] wrong exactly."[/k]
+
+[e]"[i]How[/i] isn't he wrong?" [/e]
+
+[k]"Well... it all sort of depends on how you define an angel. Are you feeling ok? You're not looking so great."[/k]
+
+[e]"My head really hurts, I need a drink, and I'm feeling a little nauseous."[/e]
+
+[k]"There's water back in the house, we could continue this there."[/k]
+
+Elizabeth makes a noncommittal grunting noise. 
+
+[k]"There is also [i]whisky[/i] back at the house."[/k]
+
+[e]"All right."[/e]
+
+[k]"Not going to fight me."[/k]
+
+[e]"I doubt I could even if I tried."[/e]
+
+[k]"Are you going to stab me with those scissors if I try to help you up?"[/k]
+
+[e]"I will graciously hold off on the stabbing for now."[/e]
+
+[img]0946_a.png[/img]
+
+[e]"So how do [i]you[/i] define an angel?"[/e]
+
+[k]"Hmm?"[/k]
+
+[e]"You said before, it all depends on how you define an-"[/e]
+
+[quote="Dave Rapp"]But he's actually working for a-
+
+[spoiler]...say it with me...
+
+[spoiler][color=#00ff00][b][size=5]GIANT BUG FROM SPACE![/size][/b][/color][/spoiler][/spoiler][/quote]
+
+[k]"Oh right, well... not being a giant bug from space would be a good start."[/k]
+
+
+>>>DISPLAY_PICTURE:0946_a.png
+>>>NOTES:
+
+
+
+

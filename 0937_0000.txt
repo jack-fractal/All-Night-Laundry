@@ -1,0 +1,20 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:937
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Hey!"[/k]
+
+[img]0937_a.png[/img]
+
+[k]"Hold on!"[/k]
+
+[img]0937_b.png[/img]
+
+
+>>>DISPLAY_PICTURE:0937_a.png
+>>>NOTES:
+
+
+
+

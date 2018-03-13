@@ -1,0 +1,63 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:469
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=curiousTerminal;7652686]Kendra, where are you in relation to the rest of the abandoned factory/camp?[/quote]
+
+Not as far as she'd have liked to get, but she couldn't keep going. She had to stop and deal with her shoulder.
+
+[quote=Kíeros;7652833]> So, anything new?[/quote]
+
+Not in the last five minutes or so. She thinks she lost them when she ducked through the last building. She hasn't heard anything.
+
+But she doesn't trust the quiet. 
+
+[img]0469_a.png[/img]
+
+Whatever they are, they are [i]persistent[/i].
+
+[quote=Maltor]>Well, you can't stay here.[/quote]
+
+No, she can't. Even assuming that she has given the whatevers the slip, the longer she waits the worse it's going to get.
+
+She knows that she should be getting on.
+
+[img]0469_b.png[/img]
+
+Delay never helps when you have something you've gotta do, and in this case, that is more true then usual. 
+
+She's just thinking it through one last time. Trying to figure out a way around the side affects.
+
+[quote=xooxu;7652688]>Oh.
+
+You know, I think I really never actually was afraid for Bina's life. I just sort of took for granted that she was the main character, so she would at least make it to the end.[/quote]
+
+Kendra's pretty sure that Bina thought that too.
+
+
+>>>DISPLAY_PICTURE:0469_b.png
+>>>NOTES:
+
+[quote=curiousTerminal;7652686]Oooh, Jack, the pixel art looks really good!
+If you want to try a painterly pixel thing as a future art style, [url=http://danfessler.com/blog/hd-index-painting-in-photoshop]there's a way you can do it with Photoshop adjustment layers[/url], assuming you use PS.[/quote]
+
+Aha! Yes. Thanks curiousTerminal. That is a cool tutorial. I've been meaning to try that technique for a while now. I am a big fan of fun Photoshop tricks.
+
+[quote=xooxu;7652688]Pixel art! I really like the pixel art. I think if you ever decide to turn All Night Laundry into a video game, a pixel art adventure would be the way to go.[/quote]
+
+Thanks Xooxu! I had a lot of fun with this. I'm not sure I'd make All Night Laundry into a video-game, even given the opportunity to do it. All Night Laundry, is, I feel, really [i]specific[/i] to the interactive fiction format. If I were going to change the medium, I'd have to rewrite the whole thing.
+
+That said, I have wanted to make an Adventure Game for a long time. They're some of my favorite games, and if I were going to do it, I'd probably make it look something like this.
+
+[quote=Vero;7652706][quote=jack-fractal;7652680]I 'ended' Chapter 5 twice. The chapters transitions are, like, entirely messed up. And the lengths are all different and aargh. 
+
+They're not even really chapters? They're more like Acts?[/quote]
+
+I'd say they're kinda interchangeable in the realms of adventure plots. Things can get unpredictable even for the author, that's not something many other mediums have to take into consideration. As long as each chapter has it's own goal towards the overarching plot, I'd say that's chapterly enough.[/quote]
+
+Thanks Vero .
+
+The interactivity thing has worked out [i]entirely[/i] differently then I thought it was going to work when I started this. Very tricky, but also very rewarding.
+
+

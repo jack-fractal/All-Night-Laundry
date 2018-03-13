@@ -1,0 +1,61 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:1001
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=wolftamer9;7893929]> How do you feel?[/quote]
+
+Angry.
+
+"You wore her face."
+
+Bina looks at her hand.
+
+[img]1001_a.png[/img]
+
+"I will kill you for that."
+
+
+>>>DISPLAY_PICTURE:1001_a.png
+>>>NOTES:
+
+[quote=wolftamer9;7893929]Daaaang! Got kinda close too, but I probably needed another hour or more at least, so it wasn't [i]that[/i] close. Got a lot of it done tonight though. Here's what I have at the moment, I'll show you when it's done:
+[img]fanart/wolftamer9_2016_02_14.png[/img]
+
+Art is hard. Life is pain.
+
+So congrats on 1000 updates, that's a pretty amazing accomplishment! I must say I envy and admire your tenacity. If I had a work ethic like yours, my webcomic would probably be online and in a decent amount of progress by now! You've got a great comic, Jack, I can't wait to see where it goes next.[/quote]
+
+Hey Wolftamer! That is a really cool picture. I love the character designs. I really wanted to wait until you'd entered, but we both ran out of time. 
+
+As for the contest!
+
+Because I am an enormous nerd, I did the drawing in python. My code is here:
+
+[code]from random import choice
+
+entrants = """
+Bohandas
+Tegerioreo
+Fuade
+Chizita
+2Cre@te
+rachelcp
+Wessolf27
+Dave Rapp
+""".strip().split("\n")
+
+print "And the winner is... %s" % choice(entrants)[/code]
+And the winner was... Dave Rapp.
+
+Now Dave didn't want the prize, being a Gimp user, so I had to find the person furthest from Dave in the list of entrants sorted alphabetically 
+
+[code]sorted(entrants,key=lambda s: s.lower())
+> ['2Cre@te', 'Bohandas', 'Chizita', 'Dave Rapp', 'Fuade', 'rachelcp', 'Tegerioreo', 'Wessolf27'][/code]
+Which leaves us with Dave as our winner and Wessolf27 as the recipiant of the prize. 
+
+Wessolf, please ping me over PM with your choice as to which piece of software (Clip Studio or Photoshop) you're interested in, as well as your e-mail address so I can deliver your prize.
+
+Thank you everyone who entered and thank you all for reading.
+
+

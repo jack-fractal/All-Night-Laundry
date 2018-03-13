@@ -1,0 +1,18 @@
+>>>TITLE:In which Bina goes up
+>>>INDEX:170
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[img]0170_a.png[/img]
+
+[img]0170_b.png[/img]
+
+[img]0170_c.png[/img]
+
+
+>>>DISPLAY_PICTURE:0170_b.png
+>>>NOTES:
+
+Hurray! That's the end of the non-interactivity.
+
+

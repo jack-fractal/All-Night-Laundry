@@ -1,0 +1,22 @@
+>>>TITLE:In which Gregor replaced his shovel
+>>>INDEX:1136
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"I think -"
+
+[img]1136_a.png[/img]
+
+"- ok -"
+
+[img]1136_b.png[/img]
+
+"- I think I figured it out."[/k]
+
+
+>>>DISPLAY_PICTURE:1136_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,32 @@
+>>>TITLE:In which Bina realizes she has no plan
+>>>INDEX:1045
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"I don't know!"
+
+[k]"Well what were you planning on doing when we got here?"[/k]
+
+"I assumed I'd have an idea on the way!"
+
+[k]"Grrrreat,"[/k] says Kendra. [k]"Does that [i]usually[/i] work out for you?"[/k]
+
+"Sometimes," says Bina. "Elizabeth looks really mad."
+
+[img]1045_a.png[/img]
+
+[k]"That's how she usually looks. I think she sort of defaults to angry."[/k]
+
+"Maybe I can signal her! Amie I mean."
+
+[k]"And do [i]what[/i]? The cops, at least, will have [i]guns[/i]."[/k]
+
+"Err... I... don't see any cops."
+
+
+>>>DISPLAY_PICTURE:1045_a.png
+>>>NOTES:
+
+
+
+

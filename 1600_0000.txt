@@ -1,0 +1,26 @@
+>>>TITLE:In which she doesn't like ladders
+>>>INDEX:1600
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"You know - you've come at a really awkward time Amie. If you'd landed half an hour ago and two floors down this would be much less complicated."
+
+Amie has nothing to say to this.
+
+"I'm going to have to run around like a lunatic if I don't deploy the sensors up here. I don't suppose you'll keep for half an hour? Or maybe you could wake up and explain what the heck you're doing?"
+
+[img]1600_a.png[/img]
+
+Amie remains resolutely unconscious. 
+
+[img]1600_b.png[/img]
+
+"I guessed not. Ah well, lets get you home. I can work around this... there's always another way. I just hope it isn't [i]ladders[/i] this time..."
+
+
+>>>DISPLAY_PICTURE:1600_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,66 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:395
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Do you think we should maybe look around, there these tents and - "
+
+[k]"Bina, the phone? We have to try the phone."[/k]
+
+"I know, I know, it's just... I keep expecting it to ring and for someone to say something scary or cryptic."
+
+[k]"Yeah."[/k]
+
+"Also it has no buttons. Have you noticed that?"
+
+[k]"I have. At least it's made of plastic."[/k]
+
+[img]0395_a.png[/img]
+
+[k]"I think it's just, like, for calling out of here, maybe. Do [i]you[/i] want to uhh..."[/k]
+
+Kendra gestures at the phone.
+
+Bina thinks about that for a second then shakes her head, "No. I haven't been having a lot of luck with technology lately, what with the whole arm thing. If I touched it, I expect it would explode, or we'd end up talking to a future version of ourselves who were [i]dying[/i] because they were holding a phone when it exploded, and then we'd have a moment of horrified realization when we realized that the phone was about to explode, and we were about to become our future dying-selves, and we couldn't avoid it because it'd already happened and - 
+
+Kendra cuts her off. [k]"Yeah, ok, I get it. How about I do it instead?"[/k]
+
+She picks up the receiver.
+
+[k]"It's ringing."[/k]
+
+"Did you pre- 
+
+[k]"No! It just started ringing the second I picked it up."[/k]
+
+[img]0395_b.png[/img]
+
+Bina can hear a click and then a voice speaks with a thick Quebecois accent. The line is bad. Tinny, and scratchy with static, but clear enough to easily understand.
+
+"Hey! Josh and Kate!"
+
+Kendra tries to cut in, to say hello, to explain that they are not Josh and Kate, but the voice just keeps talking. A recording.
+
+"You know how you're supposed to check in every half hour you're down in the work area? Maybe you should consider doing that hmm? You said you were almost done with the sandbags like [i]an hour[/i] ago and I want to go home."
+
+"Anyway, as you are still -shoveling dirt- I have decided to take my break and I'm heading out to grab a drink from the 24 hour place around the corner. I am bringing back one of the boxes of tiny doughnuts as well, so please be done by the time I am back. Then we can have doughnuts and maybe get some sleep tonight. You realize we have to be back here in, like, five hours anyway? I, personally, would like to spend as much of that intervening time unconscious in my own bed as I possibly can."
+
+There is the muffled clinking noise, and a rustle, as though the speaker were standing up from a chair. "OK. I am going now. If you guys have seriously decided that 4:00am, in the middle of a thunderstorm, was the right time to go exploring down there I am going to punch you. Both of you. Right in the nose."
+
+A tinny, electric, sigh.
+
+"Ok. I am gone."
+
+- click - 
+
+A cheerful voice, perky and corporate. [i]"After the tone, please record your message. When you have finished recording, hang up, or press pound for more options."[/i]
+
+[img]0395_c.png[/img]
+
+
+>>>DISPLAY_PICTURE:0395_b.png
+>>>NOTES:
+
+
+
+

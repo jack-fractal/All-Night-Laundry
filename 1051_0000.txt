@@ -1,0 +1,37 @@
+>>>TITLE:In which Elizabeth sort of explains
+>>>INDEX:1051
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=a52]>Instructions? From whom? Who knows about this?![/quote]
+"Instructions? Who from?"
+
+[e]"My boss," says Elizabeth. "Look -" [/e]
+
+She appears to be about to say something and instead pauses and takes a deep breath.
+
+[img]1051_a.png[/img]
+
+[e]"I am [i]handling[/i] this. OK? I have the device you left in the appartment, I have the main site locked down, I have a team looking for your 'guy with a shovel', and my bosses are sending backup. We are going to [i]stay here[/i] until that backup arrives."[/e]
+
+[k]"Wait, a team?"[/k]
+
+"What kind of team?" asks Bina. "Where are they?"
+
+[e]"A [i]swat[/i] team. I sent them into the incident site."[/e]
+
+[k]"When!?"[/k]
+
+[e]"Like, two hours ago. They'll find your Russian guy and they'll arrest him. This is a good thing! Don't you get it? This is [i]over[/i] for you two."[/e]
+
+"Ooh... [i]this[/i] is going to end well," says Bina in a deadpan monotone.
+
+[k]"Are you [i]insane[/i]!? You sent them in [i]before we left[/i]!"[/k]
+
+
+>>>DISPLAY_PICTURE:1051_a.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,38 @@
+>>>TITLE:In which Bina sleeps
+>>>INDEX:931
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"I should... I could try..."
+
+[k]"You [i]need[/i] to lay down."[/k]
+
+"But I -"
+
+[img]0931_a.png[/img]
+
+[k]"Here, there's a glass of water on the dresser. If you wake up at any point, I want you to drink all of it, OK? Even if you don't feel thirsty. Are you still cold? Do you want extra blankets?"[/k]
+
+"Not cold... too hot now."
+
+[k]"OK, then just lay down. I'll leave the blankets here in case you wake up and need them."[/k]
+
+"What about Elizabeth?"
+
+[k]"I'll look after her. No more sitting up. Sleep."[/k]
+
+[img]0931_b.png[/img]
+
+"Can't go to hospital," says Bina into the pillow. "Not... safe."
+
+[k]"Let me worry about that."[/k] says Kendra, [k]"Just sleep,"[/k]
+
+And, in just a few seconds, she does.
+
+
+>>>DISPLAY_PICTURE:0931_b.png
+>>>NOTES:
+
+
+
+

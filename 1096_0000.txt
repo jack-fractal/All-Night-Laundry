@@ -1,0 +1,67 @@
+>>>TITLE:In which Bina says "All right"
+>>>INDEX:1096
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"All right," says Bina.
+
+"What?"
+
+"I said alright, that's enough arguing. I'll go with Kendra."
+
+[k]"Woah, hey, you should stay with Amie. I'll - "[/k]
+
+"I seem to remember you telling me that you weren't going to leave me behind," says Bina, not looking at Kendra. "You walking that back on me now?"
+
+[k]"No, but-"[/k]
+
+"Good," says Bina. "So that's settled."
+
+[img]1096_a.png[/img]
+
+
+"What about you Emmie?"
+
+"I - I mean - Melissa is my friend," says Emmie. "I - I guess I will come with you."
+
+"You'd be safer with Amie."
+
+"Even so," says Emmie."
+
+"All right then."
+
+"Now wait a second-" starts Edwards. 
+
+"Do we really have time for people to be saying 'Now wait a second' in that particular argumentative tone of voice?" asks Bina, cutting her off. "Unless you're actually going to shoot us, we are going and we are going [i]now[/i]."
+
+"It's just [i]crazy[/i]," says Edwards. "You're all crazy."
+
+"Sure," says Bina. "But what was it about this situation that made you think that [i]any[/i] of this was [i]sane?[/i]"
+
+Bina turns to Amie in the doorway, "Are you going to be OK?"
+
+[img]1096_b.png[/img]
+
+"I - yeah," says Amie. "I think - I mean, yes. I'll be fine. We'll find out where they're coming from and stop them."
+
+"Good," says Bina. "The Naughts, they're strong, and fast, faster then they should be, but they're not smart. You can trap them, block them in, confuse them."
+
+"I know."
+
+"I know you know."
+
+Amie smiles at that.
+
+"One last thing," says Bina. "They might not be the sharpest knife in the drawer but they're not [i]alone[/i]. If I'm right, Gregor is down here somewhere, and if we're very [i]very[/i] unlucky, he's brought his dog with him. Be careful."
+
+And with that, everyone starts to move.
+
+
+>>>DISPLAY_PICTURE:1096_b.png
+>>>NOTES:
+
+Wooo! Three years! Aaaaah!
+
+Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa....
+
+

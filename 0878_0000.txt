@@ -1,0 +1,62 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:878
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=gjbivin;7859342]What goes up must come down -- you've got another chance, Bina![/quote]
+
+Aaaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[img]0878_a.png[/img]
+
+-aaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[img]0878_b.png[/img]
+
+-aaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[img]0878_c.png[/img]
+
+-aaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[quote=a52;7859350][img]command_images/dradle.jpg[/img][/quote]
+
+[img]0878_d.gif[/img]
+
+-aaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[img]0878_e.gif[/img]
+
+-aaaaaaaaaaaaaaaaaaaaaaaaaa-
+
+[img]0878_f.gif[/img]
+
+-aaaaaaaaaahhhhhhhhhhhhhhhh!
+
+
+>>>DISPLAY_PICTURE:0878_a.png
+>>>NOTES:
+
+[quote=K25fF;7859404]Possibly Relevant Question: How much change of acceleration can humans handle? Because Elizabeth there has just gone from falling downwards to falling upwards, a change of nearly 20 m/s^2, and from her perspective it was instantaneous.
+
+I mean, most people find a jerk of 2 metres per second cubed uncomfortable and over 6 m/s^3 intolerable (say elevator manufacturers), but Elizabeth is unconscious, so she won't care. I am concerned about how liquidised her organs will be, because hospital lifts limit jerk to less than 0.7m/s^3.
+
+Amusing fact: the next three derivatives of jerk are called snap (or jounce), crackle and pop.[/quote]
+
+I love the velocity derivatives, someone clearly had fun while naming them.
+
+You raise an excellent point but, aha, I have actually thought about this.
+
+Elizabeth's case is not as dire as it first appears when you look at the physics of it. As she exits the portal she retains her velocity but it's vector is inverted while her vector of acceleration remains the same.
+
+This is normally impossible. In three dimensional space, you have to decelerate in one direction to start accelerating in another direction, but our intrepid violators of physics have found a loophole using four dimensional teleportation. Her rate of acceleration remains constant throughout despite changing direction relative to her vector of movement.
+
+From one perspective, the transit through the portal 'nullifies' her gravitational acceleration along her velocity vector, while creating a new acceleration vector aligned to the current gravity, but that's not quite accurate, her new acceleration is exactly the same as the old one, it's just the relationship of her current velocity to her acceleration has changed.
+
+She goes from travelling downward while accelerating downward to travelling upward while still accelerating downward. She does this without any change in relative acceleration to account for the change in angle of velocity.
+
+No change in rates of acceleration means no jerk, means no liquefied organs or inconvenient splattering.
+
+That being said, it's probably best not to think about this too hard...
+
+

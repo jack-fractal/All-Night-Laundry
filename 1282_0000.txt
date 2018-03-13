@@ -1,0 +1,46 @@
+>>>TITLE:In which Bina opens a very important box
+>>>INDEX:1282
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Aaaah crap, looks like they had some people guarding this entrance. [i]'Had'[/i] being the operative word here - Wait! Amie don't -"[/k]
+
+The sound of someone trying to throw up on an empty stomach echoes down the tunnel. 
+
+[k]"You know, it's probably OK, at this point. Bina! What are you doing?"[/k]
+
+[quote="Juddy555"]>Relevant to the story or not, LOOT THE CHEST![/quote]
+
+[img]1282_a.png[/img]
+
+"Hmm? Oh, I'm um - I thought maybe there would be some useful stuff... in this box."
+
+[k]"Is there?"[/k]
+
+"Do we need an industrial fire extinguisher?"
+
+[k]"No."[/k]
+
+"What about a bunch of fire retardant blankets?"
+
+[k]"Are they big enough to block the tunnel?"[/k]
+
+"Not even close!"
+
+[k]"Great! Wait - is there any tape? This stuff is all full of gravel. I dunno if it'll stick properly again."[/k]
+
+"I don't see any... there's a bucket? Does that help?"
+
+[k]"No! Get over here!"[/k]
+
+"I have something in my foot!"
+
+[k]"Then get it out of your foot and [i]then[/i] get over here!"[/k]
+
+
+>>>DISPLAY_PICTURE:1282_a.png
+>>>NOTES:
+
+
+
+

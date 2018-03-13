@@ -1,0 +1,22 @@
+>>>TITLE:In which Kendra reremembers
+>>>INDEX:1341
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Wait... say that again."[/k]
+
+[img]1341_a.png[/img]
+
+"I said she's fine."
+
+[k]"[i]She[/i] is fine?"[/k]
+
+Kendra realizes that she has a blinding headache.
+
+
+>>>DISPLAY_PICTURE:1341_a.png
+>>>NOTES:
+
+
+
+

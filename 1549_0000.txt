@@ -1,0 +1,34 @@
+>>>TITLE:In which the pizza strikes back
+>>>INDEX:1549
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Kendra!" says Bina again. 
+
+"Are you OK?" asks Emmie.
+
+"The time machine ran outta batteries!" explains Amie. 
+
+[k]"Don't step in the pizza."[/k]
+
+"Gah!" says Emmie, stepping in the pizza.
+
+[img]1549_a.png[/img]
+
+[k]"Sorry! How long was I gone?"[/k]
+
+"You got pizza?" asks Amie. 
+
+[k]"Yeah, it was a whole big thing."[/k]
+
+"You were only gone about five minutes," says Emmie.
+
+"What went wrong?" asks Bina, who hasn't made it up the stairs yet.
+
+
+>>>DISPLAY_PICTURE:1549_a.png
+>>>NOTES:
+
+
+
+

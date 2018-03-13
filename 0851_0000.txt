@@ -1,0 +1,66 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:851
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"It's not going to be that easy Bina."[/k]
+
+"I'll be fine! I'm strong! I can do it. Look! I can do jumping jacks! You want me to do jumping jacks?"
+
+[k]"No, I don't want you to do jumping jacks. It should be me - but, we don't exactly have a choice here."[/k]
+
+"Err… why not?"
+
+[k]"In case you've forgotten, you're the only one who can power a time machine. I lack the necessary ‘woo woo'."[/k]
+
+"Oh!" says Bina, feeling a bit like an idiot. "Right."
+
+[k]"So how will you send a signal?"[/k]
+
+"I just need to make some paradox. See those lights? They'll light up whenever the flywheel starts taking paradox."
+
+[img]0851_a.png[/img] 
+
+[k]"That's it? Jeeze Bina. That won't be easy to do precisely, and if it blows a fuse -"[/k]
+
+"All I need is a piece of time. Anything that damages time registers as a paradox. So all I gotta do is crack one of the spare ones from one of the time machines downstairs and-"
+
+[k]"[i]Crack[/i] a piece of time?"[/k]
+
+"Well, yeah, I mean not all the way, just enough so-"
+
+[k]"That's like juggling the fuel rods at a nuclear reactor because you forgot your flashlight!"[/k]
+
+"It's not THAT bad. It's just-"
+
+[k]"Wait, thinking of flashlights. Doesn't the green light from your hand damage time whenever it's visible?"[/k]
+
+"Err… yeah?"
+
+[k]"So whenever you emit any of it, that'd show up on those paradox feedback lights, right?"[/k]
+
+"Well… yeah. I guess. Yeah."
+
+[k]"In that case, can't you just signal with a regular old flashlight or, you know, your [i]hand[/i]?"[/k]
+
+"Yeah! That'll be a lot easier!"
+
+[k]"And less likely to lead to [i]escalating shenanigans[/i]. We don't want a repeat of our last trip."[/k]
+
+"No we do not."
+
+[k]"So what's the signal?"[/k]
+
+"What?"
+
+[k]"The signal. We've got the world's most dangerous telegraph here. So what's the signal?"[/k]
+
+
+>>>DISPLAY_PICTURE:0851_a.png
+>>>NOTES:
+
+[quote=Dave]I have a strange desire to build those time machines in real life.[/quote]
+
+If you do, send me pics!
+
+

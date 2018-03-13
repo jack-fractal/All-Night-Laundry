@@ -1,0 +1,20 @@
+>>>TITLE:In which paths converge
+>>>INDEX:1149
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"More naughts?"[/k]
+
+"No, look."
+
+[img]1149_a.png[/img]
+
+[e]"What the hell is wrong with you Castillo?! Get back in cover!"[/e]
+
+
+>>>DISPLAY_PICTURE:1149_a.png
+>>>NOTES:
+
+
+
+

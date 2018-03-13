@@ -1,0 +1,44 @@
+>>>TITLE:In which Bina nearly makes it
+>>>INDEX:1043
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[img]1043_a.png[/img]
+
+"Aha!"
+
+[QUOTE=Wessolf27;7905813]Bina: Attempt to look through the door[/QUOTE]
+
+[img]1043_b.png[/img]
+
+[k]"Wait!"[/k] Kendra whispers.
+
+[QUOTE=Wessolf27;7905813]Kendra: Drag Bina away before they see her![/QUOTE]
+
+[img]1043_c.png[/img]
+
+[k]"This is not a plan!"[/k]
+
+"I know! It's reconnaissance!"
+
+[k]"Gah! Ok, well?"[/k]
+
+"Well what?"
+
+[k]"Did you reconnoiter anything?"[/k]
+
+"No! You kind of [i]grabbed me[/i] before I could see anything."
+
+[k]"Right, sorry."[/k]
+
+"I'm going to look now."
+
+[k][i]"Carefully! Please!"[/i][/k]
+
+
+>>>DISPLAY_PICTURE:1043_c.png
+>>>NOTES:
+
+
+
+

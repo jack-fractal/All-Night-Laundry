@@ -1,0 +1,40 @@
+>>>TITLE:In which Amie does not know train your science
+>>>INDEX:1279
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Bina,"[/k] whispers Kendra. [k]"Careful with the third rail!"[/k]
+
+"I got it!" says Bina. "No, don't [i]help[/i], you're going to make me trip, I'm good."
+
+"Wait," whispers Amie. "The subway doesn't turn here, what is this?"
+
+[img]1279_a.png[/img]
+
+[k]"It's a siding,"[/k] says Kendra.
+
+"A what?"
+
+[k]"A siding? You don't know what a siding is?"[/k]
+
+"I know the aluminium kind," says Amie. "But I'm guessing this is slightly different."
+
+[k]"It is different,"[/k] says Kendra.
+
+"Well I'm sorry I don't know [i]train science![/i]."
+
+[quote="Lutece"]Be in the Factory underground, back when Kendra and Bina were originally trying to escape.[/quote]
+
+"It's so the subways can pass each other," says Bina. "One of them pulls in here, the other one keeps going. Kendra, this has to be the place where the factory and the subway overlap."
+
+[k]"Yeah,"[/k] says Kendra. [k]"That's what I'm thinking. I wonder what would have happened if we'd come this way, rather than gone to get the Moment?"[/k]
+
+"Well, we're about to find out..." says Bina.
+
+
+>>>DISPLAY_PICTURE:1279_a.png
+>>>NOTES:
+
+
+
+

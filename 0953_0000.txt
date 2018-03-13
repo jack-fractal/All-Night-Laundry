@@ -1,0 +1,36 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:953
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[e]"I don't think this is a television at all."[/e]
+
+[img]0953_a.png[/img]
+
+[k]"It's not. Please don't touch it, it could do... pretty much anything."[/k]
+
+[e]"What is it then?"[/e]
+
+[k]"That's kind of hard to explain, we sort of inherited them, and they don't work anymore anyway. Sit, please. You shouldn't be up and about."[/k]
+
+[e]"But-"[/e]
+
+[k]"[i]Please[/i],"[/k] says Kendra, [k]"Sit."[/k] Something about her tone gets through to Elizabeth, who returns to the table.
+
+[img]0953_b.png[/img]
+
+[k]"How's your head?"[/k]
+
+[e]"Feels like someone hit me with a shovel. How's your friend?"[/e]
+
+Kendra considers trying to sugar coat it but can't be bothered. It's been a very long day.
+
+[k]"Sick, maybe dying."[/k]
+
+
+>>>DISPLAY_PICTURE:0953_b.png
+>>>NOTES:
+
+
+
+

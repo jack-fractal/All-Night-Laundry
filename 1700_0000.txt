@@ -1,0 +1,32 @@
+>>>TITLE:In which she finds at least one of them
+>>>INDEX:1700
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote="Rain Walker"]Did you hear that thing that just passed in the other hallway?[/quote]
+
+She heard something, she pays close attention to where she's placing her feet.
+
+What is she going to do if they grab her?
+
+Probably just get grabbed. She should have picked up a weapon or something. That umbrella seemed to work pretty good, she wishes she had one of those. 
+
+She'll just have to [i]not[/i] get grabbed. That's probably a better plan.
+
+She hears the floor creak in one of the rooms, crouching down, she risks a quick look.
+
+[img]1700_a.png[/img]
+
+The room is completely trashed, the door is inside in several pieces and it looks like the ceiling has fallen in, but at least one of the naughts is inside. 
+
+Great! That's... just great.
+
+
+>>>DISPLAY_PICTURE:1700_a.png
+>>>NOTES:
+
+1700! Woo!
+
+/* stares off into the distance */
+
+

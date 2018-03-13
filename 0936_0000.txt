@@ -1,0 +1,32 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:936
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=Beastnix;7875454]>She may attack, be on your guard[/quote]
+
+[k]"Elizabeth? Are you there?"[/k]
+
+[img]0936_a.png[/img]
+
+Nothing. 
+
+[quote=Luvyna;7875472]> Announce your presence and lack of ill-will as you enter. Don't be like Bina. Don't take a phone to the face.[/quote]
+
+[k]"Elizabeth? Listen, I'm here to help. I can explain what's going on... for the most part. You have a serious head injury!"[/k]
+
+There is a soft sound, like shifting gravel.
+
+[k]"Elizabeth?"[/k]
+
+[img]0936_b.png[/img]
+
+[k]"Crap! Wait!"[/k]
+
+
+>>>DISPLAY_PICTURE:0936_b.png
+>>>NOTES:
+
+
+
+

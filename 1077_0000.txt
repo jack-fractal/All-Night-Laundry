@@ -1,0 +1,22 @@
+>>>TITLE:In which there is mud
+>>>INDEX:1077
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"I don't see anything," says Edwards.
+
+[img]1076_b.png[/img]
+
+"Wait - just saw someone run down one of the hallways. Err... more people now. Don't see what they're running from though."
+
+"Is that [i]dirty water[/i] all over the floor out there?" says Castillo.
+
+A familiar smell, a smell of old dust and burnt meat, seeps into the room.
+
+
+>>>DISPLAY_PICTURE:1076_b.png
+>>>NOTES:
+
+
+
+

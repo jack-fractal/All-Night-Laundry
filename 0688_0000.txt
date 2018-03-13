@@ -1,0 +1,54 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:688
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"We should get going."[/k]
+
+"Eurgh," Bina groans.
+
+[k]"Come on, up you get. That mud is [i]freezing[/i]."[/k]
+
+"Fiiiiine!"
+
+[img]0688_a.png[/img]
+
+"Wait!"
+
+[k]"What?"[/k]
+
+"The TV!"
+
+[k]"What about it?"[/k]
+
+"It's knocked over."
+
+[k]"Uh huh...?"[/k]
+
+"I know what time it is! Oh crap! We gotta run!"
+
+[k]"What?"[/k]
+
+"We gotta get out of sight!"
+
+[k]"Bina-"[/k]
+
+[img]0688_b.png[/img]
+
+"Come on, quick! We never went over this way."
+
+[k]"Ohhh! You mean we're about to -[/k]
+
+"Yes! Shhh!"
+
+There is another flash of unlight from the tunnel.
+
+[img]0688_c.gif[/img]
+
+
+>>>DISPLAY_PICTURE:0688_c.gif
+>>>NOTES:
+
+
+
+

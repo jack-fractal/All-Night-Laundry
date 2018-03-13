@@ -1,0 +1,50 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:447
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"You're not starting at the beginning?"[/k]
+
+"No, you don't do this? Open a book in the middle to see what its really like?"
+
+[k]"Not really."[/k]
+
+"The first page, or first chapter, it doesn't really tell you how the book really is. Reading a page at random, that's how you figure out if it's any good."
+
+[k]"I think that mainly works for [i]fiction[/i], Bina. You really think that'll work for a journal?"[/k]
+
+"I'm willing to give it a shot!"
+
+Bina starts reading aloud.
+
+[img]0447_a.png[/img]
+
+The page starts in the middle of a sentence. 
+
+" - if, of course, I can trust 9's notes about probability manipulation circuits, and I think I can, this means that the Viewers, as Devices, are [i]by design[/i] limited in range."
+
+"The structures on the Viewers labled by 3 as 'signal filters' on the main diagram, are not filters at all. They're [i]clamps[/i]. They are, if 9's math is right, clamping the input range to 466.2 Hz or lower. This prevents the main receptors from getting any input from higher frequency anomalies."
+
+"If this is true, it means that a design without these clamps would be able to reach well beyond the single iteration back and forward available with these models. Unfortunately, they're welded into the main cascade array, which means I have no way of removing them without compromising the structure of the entire Device."
+
+"Why would 3 give us purposefully broken Devices? What was she hiding?"
+
+Bina stops reading. 
+
+[img]0447_b.png[/img]
+
+"Does [i]any[/i] of that mean anything to you?"
+
+[k]"Not really. It sounded like she's talking about something like a radio or a - [/k]
+
+The gondola shudders to a halt. 
+
+[e]"OK! I'm going to start swinging the boom arm now! OK? Hold on!"[/e]
+
+
+>>>DISPLAY_PICTURE:0447_b.png
+>>>NOTES:
+
+
+
+

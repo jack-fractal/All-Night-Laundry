@@ -1,0 +1,61 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:540
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Eurgh."
+
+[k]"What? Bad news? Do we need a particle accelerator or something?"[/k]
+
+"No, it's just, this book is laid out assuming that I have access to a bunch of other books. It's, like, it's mostly a sort of rambling refutation of, well, a bunch of different things. Theories, and design principles of these Device-things mostly, but I don't have the stuff that it's refuting. It's like listening to half an argument."
+
+[k]"So it's not going to be easy to figure out?"[/k]
+
+"Well... maaaaybe? I don't [i]know[/i]. I mean, there are diagrams of a lot of stuff. I think some of these are time machines, but I've only skimmed about a third of this and there's like, four... no, five? Five different models? Two of which she's labelled 'historical' which in the context of time machine's is possibly the most ridiculous label ever devised."
+
+[k]"So it's going to take a while. Dang."[/k]
+
+"Err..."
+
+That makes Bina pause.
+
+[img]0540_a.png[/img]
+
+She'd been trying to imply that it was probably impossible, but Kendra doesn't seem to want to take a hint.
+
+"I mean, judging by the parts - here, look "Flywheel Model" which is suggested as a 'low accuracy, low weight stationary model'. It's got like, seventeen components. I don't know what half of them are! 'This model's key innovation was the use of physical capacitors as paradox baffles.' I don't know what a capacitor is!"
+
+[k]"It's an electrical component. In normal stuff, like non-timey-wimey stuff, they store energy. Not long-term like a battery, short term. Like, if you need to provide a big burst of power but only intermittently, you might charge a capacitor from a low-voltage source but then - [/k]
+
+"How - how do you know that?"
+
+[k]"I told you. It's what I'm going to school for. I told you I'm going to school. Right?"[/k]
+
+"You told me you were going to school, but you didn't tell me what you were taking! You're taking electrical engineering!? That is fantastic! You deal with this!"
+
+[k]"What? No. I'm taking aeronautic engineering. Air-planes! Not electronics. I just took some elect - no, don't look at me like that - I'm only in second year and I'm used to having the internet! Don't give [i]me[/i] the book, I don't know how to make a time machine!"[/k]
+
+
+>>>DISPLAY_PICTURE:0540_a.png
+>>>NOTES:
+
+So this is one of those weird interactivity points, where there's a bunch of business that needs to happen, but there isn't a lot of interactivity. 
+
+I haven't figured out how to deal with these properly. If I were doing an adventure with variable updates, I'd just compile them into one big long sort of montage-style update and go with that, but piecemeal like this, doing as much as I have time to do in a single day, it feels weird.
+
+Anyone have any ideas?
+
+[quote=BreadProduct;7696453][quote=xooxu;7696423][quote=BreadProduct;7696311]You can boil them to reset the pack for later use. They are reusable.[/quote]
+
+Wait, reallllllly?? That's really awesome. I totally have to look into these more. How on earth do they work? I thought they were a chemical reaction, and that pressing on the "button" was actually like breaking a container, releasing the second chemical and causing a chain reaction. How does boiling them reset them??[/quote]
+
+
+[url]http://youtu.be/zNRk7z7UCGQ[/url][/quote]
+
+These things are really super neat! 
+
+I totally didn't know they were a thing until I started researching hypothermia for this adventure, but now I kind of want to get some? 
+
+I seldom go outside though, so I doubt they'd get much use...
+
+

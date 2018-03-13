@@ -1,0 +1,48 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:227
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Is that you kid?"[/k]
+
+"Yes! I'm coming over. Hold on. Don't look!"
+
+[k]"Uh, kid - I mean Bina, you saved my life up there, like, twice, and that gets you as much slack as I've got, but what's all this about with me not looking at you? If you've got a light, why can't we use it?"[/k]
+
+[img]0227_a.png[/img]
+
+"Nits complicated."
+
+[k]"Yeah, but -"[/k]
+
+[quote=K25fF;7454277]>Does anything around here look particularly unstable? Is there a safer (and drier) place for you to be?[/quote]
+
+"Let me book around a bit, ok? Just to tame sure that nothings going to malt on us."
+
+[k]"Malt on - oh. You mean [i]fall[/i] on us? Right, and I should just..."[/k]
+
+"Keep your hand over shore skies. I'll lever the light in a second."
+
+[k]"Lever it?"[/k]
+
+"Clover it. I mean - [i]cover[/i] it"
+
+[k]"OK."[/k]
+
+She doesn't sound convinced.
+
+"Then we can talk."
+
+[k]"In the... dark."[/k]
+
+"Yes. Sorry!"
+
+[k]"Uh huh." [/k]
+
+
+>>>DISPLAY_PICTURE:0227_a.png
+>>>NOTES:
+
+
+
+

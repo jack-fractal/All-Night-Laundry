@@ -1,0 +1,22 @@
+>>>TITLE:In which Bina hears something
+>>>INDEX:1123
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=btp]Meanwhile...[/quote]
+
+"You hear that?" asks Bina.
+
+"Hear what?" asks Emmie.
+
+[img]1123_a.png[/img]
+
+"I just - I thought I heard yelling."
+
+
+>>>DISPLAY_PICTURE:1123_a.png
+>>>NOTES:
+
+
+
+

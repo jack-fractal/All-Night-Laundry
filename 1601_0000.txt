@@ -1,0 +1,24 @@
+>>>TITLE:In which Amie awakens
+>>>INDEX:1601
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[img]1601_a.png[/img]
+
+[img]1601_b.png[/img]
+
+[img]1601_c.png[/img]
+
+[img]1601_d.png[/img]
+
+Amie wakes up.
+
+[img]1601_e.png[/img]
+
+
+>>>DISPLAY_PICTURE:1601_d.png
+>>>NOTES:
+
+
+
+

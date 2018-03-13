@@ -1,0 +1,38 @@
+>>>TITLE:In which they wait
+>>>INDEX:1756
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+So they wait. Eventually, Emmie takes off the duffel bag and puts it on the floor.
+
+[img]1756_a.png[/img]
+
+"So... should we, like, play cards or something? How long is this going to take?"
+
+"She said five minutes," says Bina.
+
+They wait some more.
+
+
+>>>DISPLAY_PICTURE:1756_a.png
+>>>NOTES:
+
+[quote="Austin Coté Williams"]I just started reading a few days ago and have finally caught up to the present!
+
+So are there rules that need to be followed for making suggestions, or... do we just get to shout out what ever comes to mind? And when am I allowed to go on my crazy conspiracy theory style rants about what I think is going on?[/quote]
+
+Hi Austin! I think Teksura and the others have answered most of your questions so I will simply say hurrah and welcome to the PTP!
+
+[quote="Crow"]Noooooooo I have caught up and am out of new comic to read! Tragedy! Calamity! But also yesss I can see if I can make suggestions maybe. So here goes:
+
+>Let's see what Aime is up to at the bottom of that chute[/quote]
+
+Hi Crow! Welcome to the PTP! You can definitely make your own suggestions! Please make more!
+
+[quote="Crow"]Also, as I have gone through the entire thing, I've seen a lot of typos and a lot of comments pointing out the typos, but only some of them fixed. Obviously it takes forever to get that shit back in order, have you considered getting someone you trust with the site to help and go back through to fix some of the more egregious errors? (like the very long period of time where all apostrophes and quotation marks turned into error characters)[/quote]
+
+The site has very flimsy architecture, under the hood. That said, I have been meaning to do a github / wiki / google docs integration that would let me open source edits in some way. 
+
+Github is the most convenient for [i]me[/i], but it's weird and complicated if you're not already setup to use it.
+
+

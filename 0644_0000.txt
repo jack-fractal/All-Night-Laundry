@@ -1,0 +1,42 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:644
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Hey!" says Bina, realizing that Kendra is starting to panic.
+
+[k]"Oh crap oh crap oh crap!"[/k]
+
+"Hey!"
+
+[k]"Maybe I - I - maybe - we should-"[/k]
+
+"Hey! Hey! Look at me. Look at me! You are not allowed to panic!"
+
+[img]0644_a.png[/img]
+
+"Did you screw up?"
+
+[k]"What?"[/k]
+
+"The machine. Did you screw it up?"
+
+[k]"I don't -"[/k]
+
+"Did you screw it up? Were you sloppy? Did you forget something?"
+
+[k]"What - no! I-"[/k]
+
+"I [i]thought[/i] not, because [i]you[/i] are not someone who screws up like that. So try again."
+
+[k]"What d-"[/k]
+
+"[i]Try! Again![/i]"
+
+
+>>>DISPLAY_PICTURE:0644_a.png
+>>>NOTES:
+
+
+
+

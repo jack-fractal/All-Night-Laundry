@@ -1,0 +1,52 @@
+>>>TITLE:In which Kendra remembers what she was going to say
+>>>INDEX:1207
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"No time like the present,"[/k] says Kendra, standing up. [k]"I'll go talk to Edwards and Castillo. You two can stay here and do the whole phone-call thing."[/k]
+
+Bina, mouth full of pizza again, nods. Amie asks, "You want me to come with?"
+
+[k]"Nah,"[/k] says Kendra. [k]"It's cool. I'm just going to tell them to knock Gregor out for a couple of hours. That'll keep him out of the picture until... well... all this stuff is finished."[/k]
+
+"You don't want to try to talk to him?" asks Amie.
+
+[k]"Not worth the risk,"[/k] says Kendra. [k]"Oh! I forgot."[/k]
+
+[img]1207_a.png[/img]
+
+[k]"Bina?"[/k]
+
+"Hrm?"
+
+[k]"This thing with the time machine, and I guess the thing with me and the cell-phone. I'm thinking they should be the last mucking about with time we do."[/k]
+
+
+>>>DISPLAY_PICTURE:1207_a.png
+>>>NOTES:
+
+[quote="ForestGardener"]Regarding Objective 3 from yesterday: My whole theory on the portal, all in one place.
+
+TL;DR at the top: I think we just need to make sure it was working as intended.
+
+Based on Melissa's account, Gregor physically brought the time machine to the generator room unaccompanied by naughts, hooked up the time machine, and then activated it when Melissa walked in. Melissa was not hypnotized by unlight, which means she did not see any directly. Thus the machine was not arcing unlight at first. Then the naughts streamed through the portal from the factory.
+
+It was assumed that in order for the portal to operate without accumulating paradox that the spatial distance between the two sides had to exceed the temporal distance. That is, (spatial distance)/(temporal distance) > (speed of light). Since unlight is paradox and since the time machine was arcing unlight when Kendra and Bina arrived, I assumed that the timing had drifted and that the rate of paradox was increasing. I am no longer so sure.
+
+The exposition on post 1129 suggests two mutually exclusive possibilities and implies that they are the only options. Or, rather, two directions to a singular outcome. All who went through the portal into the past would stay where the were, and all who went through to the future would be jerked back. Thus, either Gregor and the naughts in the hospital would have disappeared to the factory only, or the naughts who took captives to the factory and said captives would have returned to the generator room only.
+
+Neither of these happened. Instead, everyone returned to the side of the portal they were on when it activated.
+
+The Wikipedia article on spacetime divides the intervals between two events into three categories: Time-like [(spatial distance)/(temporal distance) < (speed of light)], where something slower than light could experience both events and where past and future is readily definable; Light-like [(spatial distance)/(temporal distance) = (speed of light)], the edge case where only a photon could experience both events; and Space-like [(spatial distance)/(temporal distance) > (speed of light)], where no causal relationship can exist and where "[g]enerally, the events are considered not to occur in each other's future or past."
+
+If the spatial distance between the two sides of the portal exceeded the temporal distance as we believed, then the two sides would be separated by a Space-like interval (except for through the portal, of course). In that case, then the people who deal heavily with the math of spacetime would say that neither side of the portal was the past or the future. They were functionally the same moment. Given what we know of time travel in All Night Laundry, I think this scenario fits the result best.
+
+This still does not explain why the machine was arcing later but not at the start. Wait. Oh. Perhaps Gregor was standing between Mel and the machine, blocking her view when he activated it. She would have only seen reflected unlight then (no effect). He could have then turned around without letting her see. Semi-confirmed: no mention of time machine.[/quote]
+
+This is excellent theory crafting ForestGardener. My hat is [i]off[/i]. 
+
+The question of why both Naughts [i]and[/i] Doctors ended up doing the Dorothy thing is one our intreped heroes have not asked yet. It might be a good idea to figure out how to arrange this unusual set of circumstances, before they start messing about with any time machines.
+
+There is a way.
+
+

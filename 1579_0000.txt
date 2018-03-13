@@ -1,0 +1,24 @@
+>>>TITLE:In which probability manipulation is a helluva drug
+>>>INDEX:1579
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+The aircraft, for it's part, falls out of the sky in a way it was specifically designed not to do.
+
+[img]1579_a.png[/img]
+
+Modern aircraft are shielded against lightning strikes. The average public airliner will be struck by lighting on an annual basis, and this one in particular was designed with the expectation of rough treatment. Despite that, no matter how well prepared you are, there is always a [i]chance[/i] something will go wrong. 
+
+Given a suitably motivated axis of probability, it can be almost inevitable.
+
+"There's a whole mountain!" says Emmie, far below, but coming up fast. "How can - it [i]can't[/i] be coming this way."
+
+Thankfully, nobody else on the ground listens to him.
+
+
+>>>DISPLAY_PICTURE:1579_a.png
+>>>NOTES:
+
+
+
+

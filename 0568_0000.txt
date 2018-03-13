@@ -1,0 +1,88 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:568
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote=xooxu;7714414]>What is the hand warmer doing in there? Is it insulating?[/quote]
+
+Not exactly. 
+
+The plans called for a variable strength resister to go into the diagram in parallel with the antenna for 'lateral n-tuning', as opposed to the 'direct n-tuning' which, in this device, is done by the hack-saw blade and the padded wire. She had hoped to be able to strip a thermostat for it's potentiometer, but the garage and the two trucks that occupy it appear to have been unheated. She considered venturing into the nearby buildings, the hack-job with the hand-warmer makes her very nervous, more nervous then anything else in her quick and dirty design, but she didn't. 
+
+She didn't want Bina to come back and find her gone. 
+
+The exact difference between 'lateral' and 'direct' n-tuning isn't clearly described, but she think 'direct' means 'through time' and 'lateral' means 'through space'. As though you'd turned reality 90 degrees and you're looking at all of three dimensional reality sort-of from the side. 
+
+That's how she's been thinking about it anyway, but she's pretty sure it's not that simple. The equations that this last and very angry version of Bina saw fit to include for 'n-tuning' involve a lot of bezier and parabolic equations. This, Kendra thinks, while deeply wishing she had a graphing calculator or at least her cell-phone, seems to imply that whatever field or manifold that Bina is talking about in the blue book, is [i]curved[/i]. 
+
+Possibly more than once.
+
+[img]0568_a.png[/img]
+
+She's not worried about that, much, assuming the 'Device' works at all. 
+
+They're aiming for a gap, a weak spot, the point at which Bina went back in time to get her. Weak spots are easy to 'tune' for, B12 describes them as being very hard to avoid. You only need precision if you're trying to 'breach', to open a way into an undamaged moment in time, which they're not. 
+
+Don't have the power to do that even if they wanted to. 
+
+[quote=elementaryMydear;7715015]> Can you explain what the piece of time is supposed to be doing there in the middle? I thought we needed two equidistant pieces of time.[/quote]
+
+It would be different if they had another shard. 
+
+There are other designs in the book that require less power, and are more stable, the other Bina's must have worked on these designs for months, if not longer.
+
+But they have what they have.
+
+This design is one of the simplest. It, hopefully, will use the time piece as an interface medium. Exposed to unlight, and assuming the few capacitors she managed to scavenge from the trucks don't catch fire, the shard will begin to drain the batteries and start increasing 'temporal entropy'. It will also start shedding 'paradox' down the wire and into the mud. 
+
+The book doesn't explain what happens if a human being comes in direct contact with either of these forces. 
+
+Kendra assumes that it would be bad.
+
+Paradox appears to behave similar to electrons, which Kendra finds a bit hard to credit. Why should such exotic particles behave in any kind of recognizable fashion? She doesn't know a great deal about subatomic theory, but that strikes her as very odd. 
+
+Of course, she has just built what is, theoretically, a functional time machine out of, not to put too fine a point on it, [i]garbage[/i], one hundred year old plumbing tape, and part of an elderly chair, so 'odd' is, in this case, relative.
+
+While entropy is increasing, changing the depth of the wires in the hot-pad, as well as moving the wrapped wire up and down the hack-saw blade should then some control over their destination. This is going to have to be done by ear. She doesn't know the conductivity of either of her two resistors, but the shard will apparently react to the tuning. She's not sure what that will look like, has looked through the entire journal twice hoping for a description, but there is nothing.
+
+They'll just have to wing it. 
+
+Once local entropy reaches a saturation point, Book-Bina describes this as 'the Pop', and making the enormous assumption that nothing has gone wrong, a portal of some kind should appear. 
+
+[quote=BreadProduct;7714990]>Well in the meantime, consider some backup plans[/quote]
+
+Her backup plan, assuming that she still has any fingers left if this thing goes boom, is tracking down that Russian guy and beating six kinds of tar out of him. Up till now, Kendra has only been aware of five kinds of tar that one can beat out of a person, but considering her level of motivation regarding this particular endeavour, she's confident that she and the Shovel Wielding Bastard can make that triumphant discovery together.
+
+After that, she's thinking rocket launchers. Lots of rocket launchers.
+
+Or maybe a nuclear bomb.
+
+If she feels like mixing it up a little.
+
+But that's in the future, and only if this thing doesn't do what it's supposed too. 
+
+[quote=wolftamer9;7714488]> So what do you need now? Is it ready, do you need more parts, or do you need Bina's help?[/quote]
+
+It's mostly done. She's taped down the last of the capacitors. God, she wishes she had a proper bread-board, or a soldering iron. Even if this thing works, it's going to fall completely to pieces the first time anyone drops it.
+
+She can delay no longer, has been fussing for the last few minutes, checking and double checking the connections but she cannot put it off any more. 
+
+She looks at the little watch, covered in little hearts. 
+
+[img]0568_b.png[/img]
+
+It is 8:50. Ten to nine. 
+
+Bina is out of time. Has been for five minutes. Half an hour, she'd said, then she's coming to get you, and to hell with time travel.
+
+Since the sound of Bina's sloshing footsteps had faded, there has been no sign of her or of anything.
+
+Nothing but her own movements, the quiet sounds of water, and the dark.
+
+
+>>>DISPLAY_PICTURE:0568_b.png
+>>>NOTES:
+
+
+
+

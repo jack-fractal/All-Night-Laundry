@@ -1,0 +1,32 @@
+>>>TITLE:In which Kendra brings some news
+>>>INDEX:1187
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"Hey, there you are."[/k]
+
+[img]1187_a.png[/img]
+
+"Is she-"
+
+[k]"In surgery."[/k]
+
+"Is it bad?"
+
+[k]"Bina, it's surgery."[/k]
+
+"Right," says Bina.
+
+[k]"Scoot over."[/k]
+
+[img]1187_b.png[/img]
+
+[k]"It's bad."[/k]
+
+
+>>>DISPLAY_PICTURE:1187_b.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,28 @@
+>>>TITLE:In which the nearby grocers is convenient
+>>>INDEX:1325
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"You know..."
+
+[img]1325_a.png[/img]
+
+"We could have just gone to the cafeteria."
+
+[k]"You want us to eat hospital cafeteria food?"[/k]
+
+"It's not that bad."
+
+[img]1325_b.png[/img]
+
+[k]"For [i]several days[/i]."[/k]
+
+"OK, yeah, it is that bad."
+
+
+>>>DISPLAY_PICTURE:1325_b.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,46 @@
+>>>TITLE:In which it's the one thing you can't wash off
+>>>INDEX:1427
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote="KSevcik"]"the girl who got impaled on the tree" has got to be the worst companion nickname ever.[/quote]
+
+"That sounds like... the [i]worst[/i] thing to be," says Emmie.
+
+"Really?" says Amie, in a tone that makes Emmie think about it for a second. 
+
+"Well, no. I suppose there [i]are[/i] worse things to be remembered for, but it still isn't really that great as far as epitaphs go. 'She was nine. She got stabbed by a tree.'"
+
+"It's [i]something[/i] at least," says Amie. She sets the glass of water down on the deck and looks away. "God, this robe [i]really[/i] sucks."
+
+"Do... you want to go break into houses now?" suggests Emmie, knowing she's not finished but not sure if she wants to continue. "That one over there has windows on the ground floor. I've never smashed a window before. It could be fun."
+
+"No I just - "
+
+[img]1427_a.png[/img]
+
+"Do you ever feel [i]tired[/i] of having to be yourself all the time? Like - waking up in the morning and thinking, god dammit, I have to be [i]this[/i] person again? It's, like, the one thing you can't wash off."
+
+
+>>>DISPLAY_PICTURE:1427_a.png
+>>>NOTES:
+
+[quote="a52"]Yheesh, sorry I let myself get so behind on this. Anyway, I'm caught up again now, and I'll do my best to stay that way.[/quote]
+
+Hey a52! I'm glad you caught up!
+
+[quote="smurfton"]On the archive page, could you specify the width and height of the images in the <img> element, or in a style? While there's no difference after the page has finished loading, it makes it so that images take up that amount of space before loading the contents, which prevents that period of time where they're all popping into existence and pushing things down the page.
+
+(unloaded images would still take up the same amount of space, but would be transparent until they finish)[/quote]
+
+Hey smurfton! Good idea, and also done. 
+
+I added the archive back in, and the image-based one is now called the 'Map'. I'm going to put up a google doc or something tomorrow to look into filling out all those "In which Bina does stuff..." entries, but I'm not entirely sure how to do it. 
+
+Is a spreadsheet the best way? I don't want people to argue about what to title individual entries, but I also don't want to just use a form because then people can't see which ones other people have already done and I'll just get a dozen duplicates of the first fifty comics.
+
+What do you all think?
+
+PS: This scene has been very tricky to write.
+
+

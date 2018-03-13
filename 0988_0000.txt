@@ -1,0 +1,32 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:988
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[e]"Are you serious? NOW you tell me this?!"[/e]
+
+[img]0988_a.png[/img]
+
+[k]"It's [i]time travel[/i]! Did you honestly think this was going to be [i]safe[/i]?"[/k]
+
+"Uh... so this is happening [i]now?[/i] Am I - "
+
+[k]"Yes! You're safe as long as you're outside the pylons."[/k]
+
+"OK good."
+
+[k]"Everyone close your eyes!"[/k]
+
+[img]0988_b.png[/img]
+
+"Wait! Wh- "
+
+[img]0988_c.gif[/img]
+
+
+>>>DISPLAY_PICTURE:0988_b.png
+>>>NOTES:
+
+
+
+

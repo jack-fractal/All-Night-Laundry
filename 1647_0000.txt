@@ -1,0 +1,32 @@
+>>>TITLE:In which Binas do stuff...
+>>>INDEX:1647
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[quote="Binaric Asterisk"]Amie> maybe you should mention that the hound can track the unlight[/quote]
+
+"I - OK, but you know it can smell you right? It's the unlight in your arm, they can -"
+ 
+"Only up close," says Bina, with a level of assurance that leads Amie to think this is a difference between loops and not just Four being uninformed. "And besides, they go that way."
+
+"You've been here before?"
+
+"Sure! This area now I'm... over there."
+
+Bina points.
+
+[img]1647_a.png[/img] 
+
+"And down there -"
+
+[img]1647_b.png[/img]
+
+"- but you can't see me from here 'cause I'm inside the building. Bit of a close call with Gregor in a few minutes, if I remember correctly, but that was last month so I'd have to check my notes."
+
+
+>>>DISPLAY_PICTURE:1647_a.png
+>>>NOTES:
+
+
+
+

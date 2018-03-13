@@ -1,0 +1,42 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:390
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"This place is bigger then I thought it would be."[/k]
+
+"T-they must have been down here f-for a while, to set-up the sandbags, and the pump like this."
+
+[k]"You're shivering, do you want the blanket back?"[/k]
+
+"In a b-bit, there might be s-something to wear around h-here, b-but I'll t-take one of the h-hot-pads. My h-hands are f-frozen again."
+
+[k]"Here you go. We've got uh... one, two, three of those left."[/k]
+
+"T-thanks."
+
+[img]0390_a.png[/img]
+
+They come to the line of sandbags.
+
+[k]"Here, let me help you over this."[/k]
+
+"I g-got it."
+
+Bina hauls herself over the damp bags. She has to dig her toes into the soles of her shoes [i]hard[/i] to keep the muck from tearing them off her feet as she breaks free.
+
+[img]0390_b.png[/img]
+
+Inside the sandbags there are a few centimetres of silty water, but the mud has not breached the wall.
+
+[quote=TheBurningFox;7607032]> Dead bodies: Begin[/quote]
+
+[k]"If they are all dead or zombies or something, I will seriously lose my shit,"[/k] says Kendra. [k]"Just warning you."[/k]
+
+
+>>>DISPLAY_PICTURE:0390_b.png
+>>>NOTES:
+
+
+
+

@@ -1,0 +1,94 @@
+>>>TITLE:In which Bina does stuff...
+>>>INDEX:826
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"OK... ok ok. I can figure this out."
+
+"How long do we have?"
+
+"You said about ten percent?"
+
+[k]"Yeah, I guess."[/k]
+
+"OK..." says Three leaning off screen and scribbling on a piece of paper. "So we've been talking for just over nine minutes, and if we assume the level of stress remains constant then... just under three hundred seconds. Before it completely falls apart."
+
+"Can't you just tell us how to reboot the Moment, and then we can come back and you can tell us the rest of -"
+
+"No! I - dammit! I sabotaged the Viewers! They'll never work for you again after this. I can't re-establish the bridge!"
+
+"What!? Why? Why would you do that!?"
+
+"I couldn't risk you looking forward again! This has to stop [i]here[/i]."
+
+"You don't [i]trust[/i] me? How could you -
+
+Kendra kneels down and puts a hand on her Bina's shoulder to stop her from saying anything else. They can't afford to start fighting now. [k]"If the Viewers won't work, how are we supposed to choose our exits?"[/k]
+
+"It's programmable. The Moment. I locked it to the basic macros for the other loops, but when the Viewers break it'll force a hard-reset. When it reboots, you'll be able to access it's primary interface, which is what the Viewers were manipulating anyway."
+
+[k]"OK, how do we do that?"[/k]
+
+"You use the controls inside of it."
+
+"Inside it? It's the size of a watch!"
+
+"I know it's the size of a watch! But it's only the size of a watch from the [i]outside[/i]."
+
+[quote=DS]> Well, where do we go to learn those things? Presuming we can't stay in touch with you.[/quote]
+
+[k]"OK, and, once we've done that. How do we program it?"[/k]
+
+"It isn't that hard. I've labelled everything. Bina should be able to figure it out without too much trouble. I just wish - dangit. I hope it's not broken. If it's broken I don't know what it's going to do."
+
+[quote=tegerioreo;7844593]Did you forget to factor in the mass of Kendra and Piotyr?[/quote]
+
+[quote=badatnamesbluhbluh;7844342]>It's the not-ghost dog, isn't it?[/quote]
+
+"Could it be Piotyr?" Bina asks. 
+
+[img]0826_a.gif[/img]
+
+"Could she be what's stressing the system?"
+
+"Piotyr? Wait, is that the [i]dog[/i]?"
+
+"Yeah."
+
+"From before? In the courtyard? [i]Gregor's[/i] dog? The one that is also the Hound?"
+
+"Yeeeep, that's her.!"
+
+"How is it [i]there[/i]? Did you... did you bring it with you when you went back to the laundromat?"
+
+"Kiiind of? She sort of climbed inside my dreams I think? Then when we got here, she sort of... climbed out?"
+
+"She what!?"
+
+"She wasn't in [i]your[/i] dreams?"
+
+"No! What are you even talking about? That's insane!"
+
+[k]"OK! Focus Bina's! Please! The whole dog thing is very interesting and probably important,"[/k] says Kendra. [k]"But I think we have a [i]serious[/i] problem here. You're saying we can't edit the Moment manually right [i]now[/i], correct?"[/k]
+
+"No, it's locked out until the Viewers break."
+
+[k]"Right, and when that happens, where is it going dump us? If we can't program it, and we can't use the Viewers..."[/k]
+
+"Oh! Yeah, don't worry about that. I programmed it to drop you back at your Primary Temporal Position," says Three. The capitol letters on the last three words of that sentence clanging into place like blocks of metal. "It will return you to the space-time coordinates where you activated the Moment. It's set to run a reverse vector macro."
+
+[k]"Uhh... that's going to be a problem."[/k]
+
+"It is?" asks Three.
+
+"Oh craaaap," says Bina, as she realizes where Kendra is going with this.
+
+[k]"Well,"[/k] says Kendra. [k]"Not to put too fine a point on it, but we were just about to [i]die[/i] when we activated it."[/k]
+
+
+>>>DISPLAY_PICTURE:0826_a.gif
+>>>NOTES:
+
+
+
+

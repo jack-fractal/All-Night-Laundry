@@ -1,0 +1,24 @@
+>>>TITLE:In which everything is fine
+>>>INDEX:1555
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"Well - do you think you're ready to add the cross-temporal stuff to the Moment?" asks Bina.
+
+[k]"Yeah - but I'm rubbish at coding. How about you sit down and fire it up, and I'll grab the duffelbag."[/k]
+
+"I can do that," says Emmie. "You two get started."
+
+"OK! Well! I dunno about any of that stuff, so I'll just be over by the railing!" says Amie. 
+
+[img]1555_a.png[/img]
+
+Everything is fine!
+
+
+>>>DISPLAY_PICTURE:1555_a.png
+>>>NOTES:
+
+
+
+

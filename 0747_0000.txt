@@ -1,0 +1,36 @@
+>>>TITLE:In which Bina doesn't want to know
+>>>INDEX:747
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+"So you can't fix them?"
+
+[quote=Fuade;7806789]I'd imagine it's built in such a way that you can't see the inside bits without breaking something[/quote]
+
+[k]"No - I mean, I'm not sure. I - I can't get [i]inside[/i] them to see what's wrong. I thought maybe I could go through underneath, but there's components wired into bottom of the case. I - christ."[/k]
+
+"Maybe you could build another one?"
+
+[k]"Bina - I told you. These things are [i]enormous[/i] entropy sinks. Aside from the Moment itself, these were the most expensive thing any of you ever made. We could go and smash a hundred new holes in time and not even come close to amount of entropy that went into these things. You only ever built two: One to look forward, and one to look back."[/k]
+
+"Right."
+
+[k]"Hmm… thinking of that. Total entropy remaining. I bet we could figure that out. Find out exactly how much power we've got left before the whole thing comes down. I think, I think yeah, I think Six wrote something about that but never actually did it. The math is funny, it's some kind of hyperplane manifold, but we might be able to -[/k]
+
+"Kendra, I-" Bina breaks into Kendra's enthusiasm, and immediately feels like an asshole doing it.
+
+[k]"Right, I forgot"[/k] says Kendra. [k]"You [i]don't want to know[/i]."[/k]
+
+[img]0747_a.png[/img]
+
+"Wait - Kendra. I'm sorry! I-"
+
+[k]"Go measure the Nothing. I'll make breakfast."[/k]
+
+
+>>>DISPLAY_PICTURE:0747_a.png
+>>>NOTES:
+
+
+
+

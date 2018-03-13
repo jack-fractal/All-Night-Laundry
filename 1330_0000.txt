@@ -1,0 +1,32 @@
+>>>TITLE:In which Kendra is extremely tired
+>>>INDEX:1330
+>>>REQUIRED_MINIMUM:0
+>>>POST:
+
+[k]"OK, well, how about we get the seaweed ones then?"[/k]
+
+"But-"
+
+[k]"I like them too -"[/k]
+
+Kendra has never eaten these things before. They look dry and a little weird.
+
+[k]"- and we'll get... these ones as well. Barbecue. Sounds good right?"[/k]
+
+[img]1330_a.png[/img]
+
+"I - yeah. Sure."
+
+[k]"Great! Can you get a big carton of two percent milk and meet me at the cash? We should be getting back to Bina."[/k]
+
+"Yeah, I - OK, yeah."
+
+[k]"Thanks."[/k]
+
+
+>>>DISPLAY_PICTURE:
+>>>NOTES:
+
+
+
+
