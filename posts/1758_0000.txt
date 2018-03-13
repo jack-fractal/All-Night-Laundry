@@ -46,6 +46,6 @@ Amie does, wincing a little as her hazmat suit bunches up around her knee.
 >>>DISPLAY_PICTURE:1758_a.png
 >>>NOTES:
 
-
+All right! So I've uploaded the scripts to github [url=https://github.com/jack-fractal/All-Night-Laundry]here.[/url] I'll see about finding tutorial resources for github if anyone does want to help me do some copy editing.
 
 
