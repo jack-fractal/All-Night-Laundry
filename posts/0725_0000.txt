@@ -7,17 +7,17 @@
 
 [quote=badatnamesbluhbluh;7795466]>Crouch, so your head isn't visible through the window.[/quote]
 
-[size=10][k]“Bina, what-”[/k]
+[size=10][k]"Bina, what-"[/k]
 
-“Stay down!”
+"Stay down!"
 
-[k]“Right, good idea, but we don’t even know if it can see.”[/k]
+[k]"Right, good idea, but we don't even know if it can see."[/k]
 
-“Well we don’t know that she [i]can’t[/i] see.”
+"Well we don't know that she [i]can't[/i] see."
 
 [img]0725_a.png[/img]
 
-[k]“All right, all right, I’m crawling. Let’s just get this thing and get out of here.”[/k][/size]
+[k]"All right, all right, I'm crawling. Let's just get this thing and get out of here."[/k][/size]
 
 
 >>>DISPLAY_PICTURE:0725_a.png

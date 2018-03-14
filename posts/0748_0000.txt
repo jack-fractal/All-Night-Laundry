@@ -5,9 +5,9 @@
 
 Eleven was the first one to start taking accurate measurements of the progress of the Nothing. 
 
-Before Nine, it wasn’t possible to get to the boundary without a space shuttle, and for Ten, it would have meant hours of driving every day, but for Eleven, and Twelve it was within walking distance, though Eleven sometimes rode a bike.
+Before Nine, it wasn't possible to get to the boundary without a space shuttle, and for Ten, it would have meant hours of driving every day, but for Eleven, and Twelve it was within walking distance, though Eleven sometimes rode a bike.
 
-Now it’s just down the block.
+Now it's just down the block.
 
 Bina retrieves the relevant equipment from beneath the porch. 
 
@@ -15,13 +15,13 @@ Bina retrieves the relevant equipment from beneath the porch.
 
 That equipment consists of one piece of sidewalk chalk (green), one pencil (hb,mechanical), one journal (moleskine), one leash (dog), and one beagle (possibly undead).
 
-“Come here you!”
+"Come here you!"
 
 Piotyr is a good dog. She knows what leashes mean. Leashes mean walkies! 
 
 [img]0748_b.png[/img]
 
-“Yes, yes, walkies! It’s lots of fun. We’re off to measure the end of the world.”
+"Yes, yes, walkies! It's lots of fun. We're off to measure the end of the world."
 
 
 >>>DISPLAY_PICTURE:0748_b.png
