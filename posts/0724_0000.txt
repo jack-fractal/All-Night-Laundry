@@ -15,9 +15,9 @@
 
 > Look in the globe.[/quote]
 
-[k]“Bina! What are you doing?”[/k]
+[k]"Bina! What are you doing?"[/k]
 
-[size=10]“Shh! I know where it is!”[/size]
+[size=10]"Shh! I know where it is!"[/size]
 
 
 >>>DISPLAY_PICTURE:0724_a.png

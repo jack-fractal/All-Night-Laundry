@@ -9,13 +9,13 @@
 
 Bina hears it too, a thin, quavering, metallic shriek.
 
-"Check the window. You can see the gate through there.”
+"Check the window. You can see the gate through there."
 
 [quote=BlueMoonHound;7792813]>Just get ahold of whatever it is and pull it out. Tell Kendra to check out the noise.[/quote]
 
 [k]"Fine, but you [i]stay down[/i]."[/k]
 
-"Right,”[/size] says Bina, [size=10]“I think... I’ve almost… got it!"[/size]
+"Right,"[/size] says Bina, [size=10]"I think... I've almost... got it!"[/size]
 
 Bina pulls the object from the hole.
 
@@ -31,6 +31,6 @@ There is not enough lego in the whole world for this.
 >>>DISPLAY_PICTURE:0720_a.png
 >>>NOTES:
 
-Dalm, I don’t - I can’t… I mean, what?
+Dalm, I don't - I can't... I mean, what?
 
 
