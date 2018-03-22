@@ -60,6 +60,11 @@ A cheerful voice, perky and corporate. [i]"After the tone, please record your me
 
 >>>DISPLAY_PICTURE:0395_b.png
 >>>NOTES:
+>>>EDITOR_COMMENTS: I'm not sure how your parser works and if I can just CREATE a new section for these files and just hope that it will be ignored. So you'll probably have to edit this file again to remove this section. But anyway...
+
+During the time frame that this page was first posted there was some confusion regarding the timeline. This was corrected in later comics, but is likely still present here. Either the quotes regarding time above ("five hours anyway?" and "decided that 4:00am, in the middle") need to be changed, or there need to be other changes later to imply that the message was left by someone leading the night crew (who also was abducted) (because there's no way that Elizabeth would just twiddle her thumbs while two of her team members were failing to report back for several hours) and that Elizabeth was only just discovering the situation when she arrived at the start of her work-day.
+
+I will leave it up to Zach to determine which of the above is preferable.
 
 
 

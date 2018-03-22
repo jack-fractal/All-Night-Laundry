@@ -7,7 +7,7 @@ After a few minutes of sorting, Kendra determines that these are their current s
 
 [img]0539_a.png[/img]
 
-"And one piece of time from about four hours ago."
+"And one piece of time from about two and a half hours ago."
 
 [k]"This seems... maybe insufficient if we're going to build a time machine."[/k]
 
@@ -22,7 +22,7 @@ After a few minutes of sorting, Kendra determines that these are their current s
 
 >>>DISPLAY_PICTURE:0539_a.png
 >>>NOTES:
-
+>>>EDITOR_COMMENTS: Page 855 tells us that the piece of time was from 6:15 AM; Page 568 tells us that Kendra finished the time machine at 8:50 AM and that Bina had left to distract the naughts 35 minutes previous to that, which means that the piece of time is closer to two and a half hours old at this point.
 
 
 
