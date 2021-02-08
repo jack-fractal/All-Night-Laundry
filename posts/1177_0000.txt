@@ -14,7 +14,7 @@
 
 I did some design work today for the site. Planning on using this as a background pattern.
 
-[img]https://dl.dropboxusercontent.com/u/45027642/Adventures/All%20Nite%20Laundry/arrows/fly_panel_design.png[/img]
+[img]arrows/fly_panel_design.png[/img]
 
 What do you all think?
 
