@@ -23,7 +23,7 @@
 
 [quote=xooxu;7637481]In which Bina makes all the cute faces - Updated[every single update]
 
-[img]https://dl.dropboxusercontent.com/u/95878520/binacutefaces.gif[/img]
+[url]https://static.wikia.nocookie.net/all-night-laundry/images/9/95/Binacutefaces.gif[/url]
 
 I swear, every update, I want to go, "Bina's face is so adorable here."[/quote]
 
@@ -41,3 +41,4 @@ This is fantastic!
 That sounds incredibly stressful Lacemaker. I hope you and your family can figure out a way to get her the help she needs.
 
 
+>>> EDITOR_COMMENTS: The original url for xooxu's image was [url]https://dl.dropboxusercontent.com/u/95878520/binacutefaces.gif[/url], which now returns a 404. Fortunately, there's a copy on the wikia site, so I've changed the link to that.
