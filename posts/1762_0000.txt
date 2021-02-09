@@ -5,7 +5,7 @@
 
 [quote="Austin Cote Williams"]Kendra: Realize what your encounter with Gergor on the mountain was all about[/quote]
 
-"Wait, is that what Gregor was looking for?" asks Kendra. "He said he was after a watch. That's a watch."
+[k]"Wait, is that what Gregor was looking for?"[/k] asks Kendra. [k]"He said he was after a watch. That's a watch."[/k]
 
 "Yeah," says Amie. "I mean - I think so, I haven't asked him. There can't be too many magical watches hanging around, right?"
 
@@ -13,7 +13,7 @@
 
 "No," says Amie. "No - I - I found it, after the whole nightmare thing in the basement."
 
-"Which basement?" asks Kendra. "And when? There have been [i]several[/i] events that meet that description."
+[k]"Which basement?"[/k] asks Kendra. [k]"And when? There have been [i]several[/i] events that meet that description."[/k]
 
 She explains about finding the watch in the dirty water of the flooded hospital basement, then picking it up and not telling anyone. 
 
@@ -27,11 +27,11 @@ She explains about finding the watch in the dirty water of the flooded hospital 
 
 "Communication," says Four. "I haven't had the time to study it, but I'm reasonably certain that it connects to the very bottom of the entropic well."
 
-"Oh Amie," says Kendra, thinking about the only entity they know for sure is down there. 
+[k]"Oh Amie,"[/k] says Kendra, thinking about the only entity they know for sure is down there.
 
 [img]1762_a.png[/img]
 
-"You [i]didn't[/i]."
+[k]"You [i]didn't[/i]."[/k]
 
 >>>DISPLAY_PICTURE:1762_a.png
 >>>NOTES:
