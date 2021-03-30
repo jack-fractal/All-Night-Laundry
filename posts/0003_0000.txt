@@ -49,8 +49,8 @@ Bina decides that it doesn't matter if the street light goes out. She can just t
 
 She heads into the laundromat.
 
-[quote=Unseen]>Go inside[/quote]
-[quote=Unseen]>Enter inside[/quote]
+[quote="Unseen Umpire"]>Go inside[/quote]
+[quote="Unseen Umpire"]>Enter inside[/quote]
 
 [img]0003_g.gif[/img]
 
