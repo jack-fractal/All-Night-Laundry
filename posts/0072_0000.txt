@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=The]> Examine the picture on the back-right of the desk.[/quote]
+[quote="The One Guy"]> Examine the picture on the back-right of the desk.[/quote]
 [quote=tegerioreo;7272649]Examine that picture on the desk behind you.[/quote]
 
 Bina picks up the photograph with her good hand.

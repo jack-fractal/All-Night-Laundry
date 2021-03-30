@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=The]> Drop it off the edge and let it sink into the mud.[/quote]
+[quote="The One Guy"]> Drop it off the edge and let it sink into the mud.[/quote]
 
 Hmm... that would be hidden, yes, but the drop would probably break it, and submerging it wouldn't be the best idea either. There's no fans on this model, but it's still got electrical contacts all over the place. A short somewhere would cancel Elizabeth's jump, causing her to splatter. 
 
