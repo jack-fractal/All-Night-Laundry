@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Maltor]>Open the envelope. Follow its instructions.[/quote]
+[quote="Maltor Drey"]>Open the envelope. Follow its instructions.[/quote]
 
 An excellent plan!
 

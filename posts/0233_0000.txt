@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Maltor]Isn't that the television?[/quote]
+[quote="Maltor Drey"]Isn't that the television?[/quote]
 
 [k]"Is that the TV from the laundromat?"[/k]
 

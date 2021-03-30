@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Maltor]>What's that weird box in the corner?[/quote]
+[quote="Maltor Drey"]>What's that weird box in the corner?[/quote]
 
 "Do you think it might be in the box of kibble?"
 

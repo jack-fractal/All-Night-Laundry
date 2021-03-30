@@ -77,7 +77,7 @@ It's getting dark.
 >>>DISPLAY_PICTURE:0201_a.png
 >>>NOTES:
 
-[quote=Maltor]Wait, are we looking for a doctor who specialises in time travel?[/quote]
+[quote="Maltor Drey"]Wait, are we looking for a doctor who specialises in time travel?[/quote]
 
 You have no idea how much I wanted to put a Dr. Who reference in on the fiftieth anniversary. I couldn't find a way to do it smoothly though, much to my disappointment.
 
