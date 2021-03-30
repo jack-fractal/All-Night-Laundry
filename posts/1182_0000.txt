@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote="Unclever Title"]>Naughts: Either collapse or vanish.[/quote]
+[quote="Unclever title"]>Naughts: Either collapse or vanish.[/quote]
 
 "Holy shit!"
 
