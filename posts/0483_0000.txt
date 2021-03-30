@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Morphimus;7659524]> Make sure you put the suit back on before investigating the noise.[/quote]
+[quote="Morphimus"]> Make sure you put the suit back on before investigating the noise.[/quote]
 
 Good idea. 
 
@@ -45,7 +45,7 @@ Mechanical perhaps, or insect-like.
 >>>DISPLAY_PICTURE:0483_b.png
 >>>NOTES:
 
-[quote=Kíeros;7659416]> Carefully peek outside to see what it was. No sense being uninformed.[spoiler]Okay, I wasn't able to get on here yesterday, but what's so scary about a black square that has everyone flipping out? Existential void comparisons notwithstanding, but I doubt that that would create such a immediate negative response.[/spoiler][/quote]
+[quote="Kíeros"]> Carefully peek outside to see what it was. No sense being uninformed.[spoiler]Okay, I wasn't able to get on here yesterday, but what's so scary about a black square that has everyone flipping out? Existential void comparisons notwithstanding, but I doubt that that would create such a immediate negative response.[/spoiler][/quote]
 
 I suspect that this is caused by it being a gif, and the rest of the update are png files? 
 

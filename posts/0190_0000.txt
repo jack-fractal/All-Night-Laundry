@@ -3,12 +3,12 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dregadude;7417249]>Lockpick. Now.[/quote]
-[quote=Corpseguide;7417220]> Ignore the footsteps and what they imply, you need to get free before the roof caves in![/quote]
-[quote=Kíeros;7417281]> So, are you going to try to get out sometime before the roof collapses?[/quote]
-[quote=KanjiGirl;7418567]Pick the lock![/quote]
-[quote=1412;7418845]Pick the lock out of the handcuffs![/quote]
-[quote=TecnoToad;7418872]
+[quote="Dregadude"]>Lockpick. Now.[/quote]
+[quote="Corpseguide"]> Ignore the footsteps and what they imply, you need to get free before the roof caves in![/quote]
+[quote="Kíeros"]> So, are you going to try to get out sometime before the roof collapses?[/quote]
+[quote="KanjiGirl"]Pick the lock![/quote]
+[quote="1412"]Pick the lock out of the handcuffs![/quote]
+[quote="TecnoToad"]
 Bina: pick the lock[/quote]
 
 YES! YES! TIME FOR PICKING!
@@ -21,7 +21,7 @@ OK. Ok. First the wire goes INTO the lock, then you bend it sideways.
 
 Then you pull it out of the lock and insert it at an angle. This is the fiddly part. There's these sorta grooves you have to -
 
-[quote=Lacemaker;7418569]Huh. Now I wonder where that green glow was coming from...[/quote]
+[quote="Lacemaker"]Huh. Now I wonder where that green glow was coming from...[/quote]
 
 Brilliant neon light streams down the staircase, a hazy wave of lime green. 
 
@@ -55,13 +55,13 @@ Getting closer.
 >>>DISPLAY_PICTURE:0190_c.png
 >>>NOTES:
 
-[quote=tegerioreo;7419296]Pull hand out of cuff so you can hold it more steadily for picking.[/quote]
+[quote="tegerioreo"]Pull hand out of cuff so you can hold it more steadily for picking.[/quote]
 
 Man, a loony-toons style adventure would be [i]awesome[/i].
 
 *writes notes*
 
-[quote=TecnoToad;7418872]finally caught up with this just holy frick this is great ok[/quote]
+[quote="TecnoToad"]finally caught up with this just holy frick this is great ok[/quote]
 
 Thanks!
 

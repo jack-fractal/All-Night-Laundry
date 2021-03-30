@@ -3,16 +3,16 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Wessolf27;7898988]Guess this means that you've got a way to explore the... pretty dark hospital... geez louise.[/quote]
+[quote="Wessolf27"]Guess this means that you've got a way to explore the... pretty dark hospital... geez louise.[/quote]
 
 Hah ha! Yeah! Just what she wanted...
 
-[quote=Sporothrix;7899078]> Bina: suddenly feel like you're in a horror game.
+[quote="Sporothrix"]> Bina: suddenly feel like you're in a horror game.
 > Bina: oh wait, you've been in a horror game since you went into the laundry place at god-knows-when.[/quote]
 
 If she were in a horror game, wouldn't she have more guns? She feels like she should have more guns, or maybe like a [i]sword[/i]. She's feeling dramatically under-served in the high-explosives department as well.
 
-[quote=Sporothrix;7899078]> Bina: swear under your breath while strapping the flashlight to the wrist of the non-spooky hand if possible.[/quote]
+[quote="Sporothrix"]> Bina: swear under your breath while strapping the flashlight to the wrist of the non-spooky hand if possible.[/quote]
 
 It does have a little loop strap thing. She loops her wrist through it, careful not to tangle it with the IV line. 
 
@@ -26,7 +26,7 @@ She considers taking the bag, just in case, but what would be the point?
 >>>DISPLAY_PICTURE:1018_a.png
 >>>NOTES:
 
-[quote=juddy555;7899248]After several months without anything to use the internet with, I can finally read my favorite fanventure again![/quote]
+[quote="juddy555"]After several months without anything to use the internet with, I can finally read my favorite fanventure again![/quote]
 
 Hey Juddy! Glad to see you again!
 

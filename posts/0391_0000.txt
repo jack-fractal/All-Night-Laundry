@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7607479]> Call out if anyone's there.[/quote]
+[quote="Kíeros"]> Call out if anyone's there.[/quote]
 
 "Hey! Hello?"
 
@@ -21,7 +21,7 @@ There is no response save the low, steady, rumble of the pump and the tiny hiss 
 >>>DISPLAY_PICTURE:0391_b.png
 >>>NOTES:
 
-[quote=Lacemaker;7607392]Yeah, that's right. I stayed up until 4 am just to reply to the All Night Laundry update.[/quote]
+[quote="Lacemaker"]Yeah, that's right. I stayed up until 4 am just to reply to the All Night Laundry update.[/quote]
 
 Aaah! Please tell me that was a joke!
 

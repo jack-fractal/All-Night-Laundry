@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Wessolf27;7900244]It's Kendra! That means you're not abandoned! Horray![/quote]
+[quote="Wessolf27"]It's Kendra! That means you're not abandoned! Horray![/quote]
 
-[quote=tegerioreo;7900442]Sounds like Kendra is alive enough to annoy someone.  That's good![/quote]
+[quote="tegerioreo"]Sounds like Kendra is alive enough to annoy someone.  That's good![/quote]
 
-[quote=juddy555;7900463]>Yay, Kendra lives![/quote]
+[quote="juddy555"]>Yay, Kendra lives![/quote]
 
-[quote=rachelcp;7900513]What are you waiting for enter at full speed!![/quote]
+[quote="rachelcp"]What are you waiting for enter at full speed!![/quote]
 
 "Kendra!"
 
@@ -40,7 +40,7 @@ Bina finds herself out of breath but unable to stop talking.
 >>>DISPLAY_PICTURE:1022_a.png
 >>>NOTES:
 
-[quote=tegerioreo;7900442]her actions affect other people[/quote]
+[quote="tegerioreo"]her actions affect other people[/quote]
 
 Merci! 
 

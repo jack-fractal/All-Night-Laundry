@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=CrimsonMage;7715677]>Nothing to do now. You can't do anything without Bina's light. Just keep looking, and calm yourself. Being panicked or uneasy or anxious won't help you right now. You just need patience.[/quote]
+[quote="CrimsonMage"]>Nothing to do now. You can't do anything without Bina's light. Just keep looking, and calm yourself. Being panicked or uneasy or anxious won't help you right now. You just need patience.[/quote]
 
 She is aware that she should be patient, that worrying just makes things worse, but try telling her brain that. It doesn't want to listen. 
 
 She checks the watch again. 9:02. Bina is twelve minutes late now.
 
-[quote=HeresyIncarnate;7715673]Kendra: Be an introspective worrier, wonder how the heck you got in this mess, marvel at how unbelievable it all is, and consider how on earth you became so attached to Bina in such a short amount of time.[/quote]
+[quote="HeresyIncarnate"]Kendra: Be an introspective worrier, wonder how the heck you got in this mess, marvel at how unbelievable it all is, and consider how on earth you became so attached to Bina in such a short amount of time.[/quote]
 
 Kendra knows how she got into this. 
 
@@ -71,9 +71,9 @@ She checks the watch. 9:15. Bina is now twenty five minutes late. Almost double 
 
 In five minutes she's going to climb down the ladder and go looking for her. It's probably pointless. Anything could have happened, and she could be almost anywhere by now in the mud, but Kendra has to try.
 
-[quote=xooxu;7715730]>If Kendra does decide to look for Bina at all, she should do it in waves. Go look in the immediate area for 5 minutes, come back and see if Bina's returned. If not, go back and look for 6 minutes and go a little further, and so on. Work in a generally spiral movement and stay within hearing distance of the garage.[/quote]
+[quote="xooxu"]>If Kendra does decide to look for Bina at all, she should do it in waves. Go look in the immediate area for 5 minutes, come back and see if Bina's returned. If not, go back and look for 6 minutes and go a little further, and so on. Work in a generally spiral movement and stay within hearing distance of the garage.[/quote]
 
-[quote=HeresyIncarnate;7715673]Kendra: If you do end up going after her, leave a note pointing out the way you went to try and follow her, just in case she makes it past you.[/quote]
+[quote="HeresyIncarnate"]Kendra: If you do end up going after her, leave a note pointing out the way you went to try and follow her, just in case she makes it past you.[/quote]
 
 She'll leave a note, it'll have to be in mud on the wall, as she has found no pens. She'll leave the Device as well, and walk in an expanding spiral... as much as she can, considering the terrain. She is not confident in this plan, but she can think of nothing else to do. 
 
@@ -93,7 +93,7 @@ Wait...
 >>>DISPLAY_PICTURE:0570_d.png
 >>>NOTES:
 
-[quote=Xindaris;7715650]Can't think of a good suggestion, but I did notice this while catching up:
+[quote="Xindaris"]Can't think of a good suggestion, but I did notice this while catching up:
 
 *to[/quote]
 

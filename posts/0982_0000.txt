@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tegerioreo;7887890]Verify that Bina is on the couch, and alive.[/quote]
+[quote="tegerioreo"]Verify that Bina is on the couch, and alive.[/quote]
 
 "Bina?"
 
@@ -23,7 +23,7 @@ Bina's voice is soft and scratchy.
 
 [img]0982_b.png[/img]
 
-[quote=Luvyna;7888182]> Examine Bina[/quote]
+[quote="Luvyna"]> Examine Bina[/quote]
 
 "Wait! Forget about that - what happened to you? Are you ok? You look really sick. [i]Are these two kidnapping you?![/i]?
 
@@ -51,7 +51,7 @@ Bina appears to have fallen asleep again.
 >>>DISPLAY_PICTURE:0982_a.png
 >>>NOTES:
 
-[quote=Bohandas;7887905]I'm reposting my previous fanart too:
+[quote="Bohandas"]I'm reposting my previous fanart too:
 
 [spoiler]
 [img]http://s20.postimg.org/ianrv1upp/All_Night_Laundry_Army_of_Darkness_5_scaled_B.jpg[/img]
@@ -63,13 +63,13 @@ Bina appears to have fallen asleep again.
 
 Sorry Bohandas, as much as I love these two (and I [i]do[/i] love them) I'm going to say this has to be new stuff to qualify for the raffle doohicky. Otherwise there'd a bunch of people I'd have to track down and I don't even know if they check the forums anymore. 
 
-[quote=Fuade;7887939]I'm doin' the laundry thing
+[quote="Fuade"]I'm doin' the laundry thing
 
 [spoiler][img]http://i.imgur.com/LZHjJx4.gif[/img][/spoiler][/quote]
 
 This is... I don't... Fuade, this is amazing. Thank you. You are entered.
 
-[quote=Chizita;7887966]Typo: You may want to close the [noparse][i][/i][/noparse] tags around "...like the X-files?"
+[quote="Chizita"]Typo: You may want to close the [noparse][i][/i][/noparse] tags around "...like the X-files?"
 
 [spoiler]Characters of "Something Slimey" doin' the laundry. 
 
@@ -79,7 +79,7 @@ The Monumental Swamp Laundromat must make a killing, considering that you can't 
 
 I do want to close those tags! Thanks! And your adventure looks delightful! Thank you. You are entered. 
 
-[quote=2Cre@te;7887983]> "What happened to Bina?"
+[quote="2Cre@te"]> "What happened to Bina?"
 
 EDIT: Alright, here's my entry:
 [spoiler][img]http://puu.sh/mKlg5/f3fcda929e.png[/img]

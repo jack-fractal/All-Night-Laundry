@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=gjbivin;7859342]What goes up must come down -- you've got another chance, Bina![/quote]
+[quote="gjbivin"]What goes up must come down -- you've got another chance, Bina![/quote]
 
 Aaaaaaaaaaaaaaaaaaaaaaaaaaa-
 
@@ -19,7 +19,7 @@ Aaaaaaaaaaaaaaaaaaaaaaaaaaa-
 
 -aaaaaaaaaaaaaaaaaaaaaaaaaa-
 
-[quote=a52;7859350][img]command_images/dradle.jpg[/img][/quote]
+[quote="a52"][img]command_images/dradle.jpg[/img][/quote]
 
 [img]0878_d.gif[/img]
 
@@ -37,7 +37,7 @@ Aaaaaaaaaaaaaaaaaaaaaaaaaaa-
 >>>DISPLAY_PICTURE:0878_a.png
 >>>NOTES:
 
-[quote=K25fF;7859404]Possibly Relevant Question: How much change of acceleration can humans handle? Because Elizabeth there has just gone from falling downwards to falling upwards, a change of nearly 20 m/s^2, and from her perspective it was instantaneous.
+[quote="K25fF"]Possibly Relevant Question: How much change of acceleration can humans handle? Because Elizabeth there has just gone from falling downwards to falling upwards, a change of nearly 20 m/s^2, and from her perspective it was instantaneous.
 
 I mean, most people find a jerk of 2 metres per second cubed uncomfortable and over 6 m/s^3 intolerable (say elevator manufacturers), but Elizabeth is unconscious, so she won't care. I am concerned about how liquidised her organs will be, because hospital lifts limit jerk to less than 0.7m/s^3.
 

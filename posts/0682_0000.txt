@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Alcastar;7770609]our best chance is probably to find another portal, and a way to get to it.[/quote]
+[quote="Alcastar"]our best chance is probably to find another portal, and a way to get to it.[/quote]
 
 [k]"All right, if we're not going through there, we need another exit."[/k]
 
@@ -11,7 +11,7 @@
 
 [k]"Come on, let's go find one. I want to get out of here."[/k]
 
-[quote=BreadProduct;7770394]There is that hole that Piotyr fell through.[/quote]
+[quote="BreadProduct"]There is that hole that Piotyr fell through.[/quote]
 
 "Yeah, let's see if we can find one nearby. Let's [i]not[/i] take the one that Piotyr took, not if we can avoid it."
 

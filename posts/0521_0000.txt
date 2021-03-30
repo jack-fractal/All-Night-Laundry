@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7680016]>Bina: Horatio's behavior sounds naughty.[/quote]
+[quote="tronn"]>Bina: Horatio's behavior sounds naughty.[/quote]
 
 "Oh no! I'm sorry! I thought they'd all follow me!"
 
@@ -17,9 +17,9 @@
 
 Kendra fills Bina in on the rest of what happened on her way back to camp.
 
-[quote=tronn;7677043]>Bina: How on Earth he got down when the crane is out of operation? Maybe there's another way up![/quote]
+[quote="tronn"]>Bina: How on Earth he got down when the crane is out of operation? Maybe there's another way up![/quote]
 
-[quote=BreadProduct;7677044]All he did was turn the crane off. What's stopping him from turning it back on?[/quote]
+[quote="BreadProduct"]All he did was turn the crane off. What's stopping him from turning it back on?[/quote]
 
 "Was the crane down while you were there? I bet that's how Gregor got down here." 
 
@@ -93,7 +93,7 @@ Bina, while attempting to minimize the danger, explains about getting stuck in t
 >>>DISPLAY_PICTURE:0521_b.png
 >>>NOTES:
 
-[quote=Xindaris;7680454]Hmm.."I hope this this is sharp"?[/quote]
+[quote="Xindaris"]Hmm.."I hope this this is sharp"?[/quote]
 Merci.
 
 

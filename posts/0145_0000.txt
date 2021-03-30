@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7370636]> Try to see what's causing the flickering.[/quote]
+[quote="Kíeros"]> Try to see what's causing the flickering.[/quote]
 
 Uh....
 
@@ -11,7 +11,7 @@ Uh....
 
 Wow. That is probably not a good sign. 
 
-[quote=tegerioreo;7371250][W]ave your freakishly glowing hand around over the computer.  That will probably have some exciting and potentially useful effect.[/quote]
+[quote="tegerioreo"][W]ave your freakishly glowing hand around over the computer.  That will probably have some exciting and potentially useful effect.[/quote]
 
 It doesn't seem to be DOING anything to the computer, really, but it's distorting the screen like a magnet. A green magnet. 
 

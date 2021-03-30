@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Lacemaker;7828549]What exactly are we doing?[/quote]
+[quote="Lacemaker"]What exactly are we doing?[/quote]
 
 "Well, I dunno. I guess we should figure out [i]what[/i] we're trying to do first."
 

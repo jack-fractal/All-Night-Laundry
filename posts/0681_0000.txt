@@ -27,7 +27,7 @@ Bina decides not to mention that she was also abandoning Kendra while she had be
 
 "No!"
 
-[quote=wolftamer9;7770004]> Oh oh OH. So that's when this is. This is too early, Gregor will catch you if you go here, plus you'll waste the battery! You need to find another hole![/quote]
+[quote="wolftamer9"]> Oh oh OH. So that's when this is. This is too early, Gregor will catch you if you go here, plus you'll waste the battery! You need to find another hole![/quote]
 
 "Gregor's, like, [i]right[/i] behind me. I manage to sneak across the construction site and break into the trailer. That's where I both find and DON'T find the dead guy (because I screwed that whole thing up real bad). Then I go back in time, find the wall with all the writing on it, and get paradox sickness."
 
@@ -37,7 +37,7 @@ Bina says all that in one breath, "Then Gregor finds me and carries me back to t
 
 "[i]And[/i] I think he... resurrects Piotyr? Maybe? I'm not sure, but I think Piotyr un-died again during that time as well. Soo..."
 
-[quote=Kíeros;7770311]> So, uh, if you wait for a bit, will stuff pass?[/quote]
+[quote="Kíeros"]> So, uh, if you wait for a bit, will stuff pass?[/quote]
 
 [k]"Well we don't want to wait here for another half hour,"[/k] says Kendra.
 
@@ -75,7 +75,7 @@ There is another bloop.
 >>>DISPLAY_PICTURE:0681_a.png
 >>>NOTES:
 
-[quote=tronn;7770082]Those are really nice kitties, jack-fractal! Very lifelike![/quote]
+[quote="tronn"]Those are really nice kitties, jack-fractal! Very lifelike![/quote]
 
 Thanks tronn!
 

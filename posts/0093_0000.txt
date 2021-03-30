@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=epoxy;7305333]> Turn around, pull your hair out of your eyes and look through the window and into the courtyard! And if that doesn't do anything, open the door![/quote]
+[quote="epoxy"]> Turn around, pull your hair out of your eyes and look through the window and into the courtyard! And if that doesn't do anything, open the door![/quote]
 
 She wants to run. Even the courtyard with the TV, and the wires, and strange dead air was better then this whirlwind.
 
-[quote=Kíeros;7305303]> Go and comfort Piotr.[/quote]
-[quote=epoxy;7305333]> Make sure Piotr is with you.[/quote]
-[quote=Dregadude;7305354]>Hug Piotr to shield the poor dog[/quote]
+[quote="Kíeros"]> Go and comfort Piotr.[/quote]
+[quote="epoxy"]> Make sure Piotr is with you.[/quote]
+[quote="Dregadude"]>Hug Piotr to shield the poor dog[/quote]
 
 But she's not leaving the dog. 
 
@@ -31,7 +31,7 @@ Her grandmothers scarf. It feels the wind too.
 >>>DISPLAY_PICTURE:0093_a.jpg
 >>>NOTES:
 
-[quote=Dregadude;7305387]Is... is this fanart? I think it counts as fanart?[/quote]
+[quote="Dregadude"]Is... is this fanart? I think it counts as fanart?[/quote]
 
 Of course it counts as fanart!
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=musicalEmpathist;7781675]Kendra> Realize what Bina realized before- this whole place is just repeated over and over[/quote]
+[quote="musicalEmpathist"]Kendra> Realize what Bina realized before- this whole place is just repeated over and over[/quote]
 
 [k]"It's the same building!"[/k]
 
@@ -11,7 +11,7 @@
 
 "I know."
 
-[quote=musicalEmpathist;7782511]>Kendra: Be amazed at the repetition[/quote]
+[quote="musicalEmpathist"]>Kendra: Be amazed at the repetition[/quote]
 
 [k]"No, I mean, the [i]same[/i] building."[/k]
 
@@ -45,7 +45,7 @@ She looks around.
 >>>DISPLAY_PICTURE:0703_b.png
 >>>NOTES:
 
-[quote=musicalEmpathist;7782511]
+[quote="musicalEmpathist"]
 Of course sweetheart, I can probably speak for all of us when I say I'm always here if you need to talk/vent/cry/whatever. And if you're stressing out so much, don't worry about posting for us, we can wait. Work is a bit more important to be focusing on, don't you think?[/quote]
 
 Unlike Bina, I really [i]am[/i] good. I was just trying to do too many things at once. Thank you though.

@@ -9,7 +9,7 @@
 
 "It's just-"
 
-[quote=Fuade;7860864]So one of you brought medical supplies right[/quote]
+[quote="Fuade"]So one of you brought medical supplies right[/quote]
 
 [k]"Do you have the medkit? There's some blood here, we're going to need the gauze."[/k]
 
@@ -33,7 +33,7 @@ Over Kendra's swearing and the sound of boxes against boxes, she hears a familia
 >>>DISPLAY_PICTURE:0884_a.png
 >>>NOTES:
 
-[quote=a52;7860858]I'm beginning to suspect the [i]real[/i] reason this is taking so long is you can't decide whether she is actually alive or not, Jack.[/quote]
+[quote="a52"]I'm beginning to suspect the [i]real[/i] reason this is taking so long is you can't decide whether she is actually alive or not, Jack.[/quote]
 
 So this is kinda interesting.
 

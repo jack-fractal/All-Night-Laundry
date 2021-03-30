@@ -3,21 +3,21 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=curiousFellow;7894228]>They didn't take the bandage off your arm, did they?[/quote]
+[quote="curiousFellow"]>They didn't take the bandage off your arm, did they?[/quote]
 
 Looks like they did, whoever they are. The bandages are fresh and made of thick medical gause attached with clear plastic tape. 
 
-[quote=Wessolf27;7894168]Bina: Try to see if anything on your body still hurts. If you can move, maybe you should try looking for Kendra and Elizabeth.[/quote]
+[quote="Wessolf27"]Bina: Try to see if anything on your body still hurts. If you can move, maybe you should try looking for Kendra and Elizabeth.[/quote]
 
 Her arm, the bad one, feels like it always does: entirely normal. After her dream she'd thought maybe... but no. No dripping ooze. That's a bonus.
 
 Her knees still hurt, but the pain is distant, like something viewed through frosted glass. She's on some pretty effective painkillers. The burned stretched feeling on her face has vanished, and the hot buzz in her head and shoulders is fading.
 
-[quote=a52;7894282]That... is a very good point. We don't want any hypnotized surgeons running around, but I don't know how Kendra could have convinced them to not check it for infection or something.[/quote]
+[quote="a52"]That... is a very good point. We don't want any hypnotized surgeons running around, but I don't know how Kendra could have convinced them to not check it for infection or something.[/quote]
 
 Bina remembers that Kendra was going to try to take her to a hospital. Looks like she sort of made it... maybe. This looks like a hospital room, but overhead light is off, and Bina can hear no sounds outside her door.
 
-[quote=tegerioreo;7894151]IT'S CLOBBERIN TIME!
+[quote="tegerioreo"]IT'S CLOBBERIN TIME!
 
 Just as soon as you figure out how to get this bizarrely heavy sheet off of you.[/quote]
 
@@ -43,7 +43,7 @@ She is reasonably certain she might be able to stand.
 >>>DISPLAY_PICTURE:1002_b.png
 >>>NOTES:
 
-[quote=rachelcp;7893957]Congratulations On 1000 posts!!!
+[quote="rachelcp"]Congratulations On 1000 posts!!!
 
 warning flashing animation
 [spoiler][img]http://i.imgur.com/MoyKmP9.gif[/img][/spoiler][/quote]

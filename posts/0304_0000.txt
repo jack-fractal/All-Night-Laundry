@@ -3,11 +3,11 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Lacemaker;7532352]Campfires with friends and stories and marshmallows are the [i]best[/i] kind.[/quote]
+[quote="Lacemaker"]Campfires with friends and stories and marshmallows are the [i]best[/i] kind.[/quote]
 
 They are!
 
-[quote=meganopteryx;7532429]Bina: skip past the story telling and get to the point that she clearly wants to use to humiliate you somehow. Might as well just get it over with quickly.[/quote]
+[quote="meganopteryx"]Bina: skip past the story telling and get to the point that she clearly wants to use to humiliate you somehow. Might as well just get it over with quickly.[/quote]
 
 I tried!
 
@@ -51,8 +51,8 @@ I didn't.
 
 "I don't believe you," said Brielle, "No, no! Don't get offended. I don't think you're lying, I just don't think you'd do it. Not if it came right down to it. It's easy not to be scared when you're [i]here[/i] and not, you know, not [i]there[/i]."
 
-[quote=meganopteryx;7532429]So let me guess, you snuck into the bakery/factory to find out? And got arrested for trespassing...[/quote]
-[quote=xooxu;7532256]>You totally broke into the factory, didn't you. You did. You so totally did that I will call you a liar if you say you didn't.[/quote]
+[quote="meganopteryx"]So let me guess, you snuck into the bakery/factory to find out? And got arrested for trespassing...[/quote]
+[quote="xooxu"]>You totally broke into the factory, didn't you. You did. You so totally did that I will call you a liar if you say you didn't.[/quote]
 
 Of course.
 
@@ -92,7 +92,7 @@ And that is, eventually, what we did.
 >>>DISPLAY_PICTURE:0304_a.png
 >>>NOTES:
 
-[quote=xooxu;7532256]Well, I sort meant it as a play on telling scary stories, but I actually like Goosebumps, and meant it as a compliment. ... I didn't get the name wrong did I?[/quote]
+[quote="xooxu"]Well, I sort meant it as a play on telling scary stories, but I actually like Goosebumps, and meant it as a compliment. ... I didn't get the name wrong did I?[/quote]
 
 Goosebumps! Right! Yes. I [i]knew[/i] I knew that name from somewhere! Ah, it all makes sense now. Sorry!
 

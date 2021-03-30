@@ -3,21 +3,21 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7496356]> Tell Kendra the entire timeline as you remember it.[/quote]
+[quote="Kíeros"]> Tell Kendra the entire timeline as you remember it.[/quote]
 
 Not now! There isn't enough time. She barely managed to get Kendra up to the part where she escaped from the sugar factory using her grandmothers scarf, and that had taken twenty minutes. She does need to get Kendra up to date, but now is not the time.
 
-[quote=tronn;7496654]>Check the other room.[/quote]
+[quote="tronn"]>Check the other room.[/quote]
 
 "That door leads to the basement, right?"
 
 [k]"Mmmmhmmm, there's some hanging plastic and some stairs. That's it."[/k] murmers Kendra, listening at the door, [k]"I still don't hear any thumping, but I think I hear you talking to Mr. Shovel. God, this is super weird."[/k]
 
-[quote=Dregadude;7496117]>Is that dog food and a water bowl in the corner? Is Gregor feeding the not-dog?[/quote]
+[quote="Dregadude"]>Is that dog food and a water bowl in the corner? Is Gregor feeding the not-dog?[/quote]
 
 They're far too small for the not-dog, but they'd be about the right size for a beagle. These must be Piotyr's.
 
-[quote=Dregadude;7496117]>Resist urge to drink dog water.[/quote]
+[quote="Dregadude"]>Resist urge to drink dog water.[/quote]
 
 No need. There is no water.
 
@@ -39,17 +39,17 @@ Bina is pretty sure that if she could just figure that out, this whole confusing
 >>>DISPLAY_PICTURE:0270_a.png
 >>>NOTES:
 
-[quote=Alcastar;7496304]I have been studying up on temporal paradoxes!
+[quote="Alcastar"]I have been studying up on temporal paradoxes!
 
 Jack-Fractal, you are very clever.[/quote]
 
 Thanks!
 
-[quote=tronn;7496654]Try to rest and get well soon, jack-fractal![/quote]
+[quote="tronn"]Try to rest and get well soon, jack-fractal![/quote]
 
 Thanks tronn. I'm trying. Whatever this is, it is severely kicking my butt.
 
-[quote=TheBurningFox;7496430]> Wait a second...  The two on the couch said that Bina was smacked with a shovel, even though she never did... Is that going to happen now?[/quote]
+[quote="TheBurningFox"]> Wait a second...  The two on the couch said that Bina was smacked with a shovel, even though she never did... Is that going to happen now?[/quote]
 
 The bit about being hit by a shovel was Mr. Petrovich (or Podolsky, as I occasionally called him, I messed up his name and I've been meaning to go back and standardize) describing his own abduction. It had nothing to do with Bina. I've seen a few people mention this, so I [post=7247448]went back and checked.[/post]
 

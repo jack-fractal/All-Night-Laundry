@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dregadude;7602012]>Change the subject. Kendra sounds cold, maybe you should talk about warmth.[/quote]
+[quote="Dregadude"]>Change the subject. Kendra sounds cold, maybe you should talk about warmth.[/quote]
 
 "Are you cold?"
 
@@ -31,7 +31,7 @@ Bina stops walking and struggles out of the backpack.
 >>>DISPLAY_PICTURE:0383_a.png
 >>>NOTES:
 
-[quote=xooxu;7602656]Just curious if there is anything from that [url=http://mspaforums.com/showthread.php?54354-All-Night-Laundry-THREAD-1-Chapters-1-4/page58&p=7383708#post7383708]retcon you were in the middle of updating[/url] that might be useful to know for suggestions?[/quote]
+[quote="xooxu"]Just curious if there is anything from that [url=http://mspaforums.com/showthread.php?54354-All-Night-Laundry-THREAD-1-Chapters-1-4/page58&p=7383708#post7383708]retcon you were in the middle of updating[/url] that might be useful to know for suggestions?[/quote]
 
 Not really, no. Which is why I didn't feel it was really important to finish. B12 gives Bina the injection and then leaves.
 

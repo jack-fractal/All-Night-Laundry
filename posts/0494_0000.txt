@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7664585]I'm not very good with geography, which locations are the three buildings shown on the picture?[/quote]
+[quote="tronn"]I'm not very good with geography, which locations are the three buildings shown on the picture?[/quote]
 
 [img]0494_a.png[/img]
 
@@ -11,7 +11,7 @@
 >>>DISPLAY_PICTURE:0494_a.png
 >>>NOTES:
 
-[quote=HighwayWizard;7664634]Dang I missed out on the nope gif party. OH WELL.
+[quote="HighwayWizard"]Dang I missed out on the nope gif party. OH WELL.
 [spoiler][img]http://i.imgur.com/bjF5tNc.gif[/img][/spoiler]
 >Do not stop, do pass go, do collect 200 nopes.[/quote]
 

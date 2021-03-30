@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=TobiasMoon;7729089]Keep taking deep breaths, and when you feel ready, open the door.[/quote]
+[quote="TobiasMoon"]Keep taking deep breaths, and when you feel ready, open the door.[/quote]
 
 I'm ready now. I can deal with this.
 
 I open the door.
 
-[quote=SNORKELBITCHMEGAHITLER;7729426]>Piotr: appear[/quote]
+[quote="SNORKELBITCHMEGAHITLER"]>Piotr: appear[/quote]
 
 There is a blur and then beagle happens.
 
@@ -17,13 +17,13 @@ There is a blur and then beagle happens.
 
 Ah! Ah ah!
 
-[quote=tegerioreo;7729638]Piotr:  Slobber adorably.[/quote]
+[quote="tegerioreo"]Piotr:  Slobber adorably.[/quote]
 
 Hello to you too! Ah! So lickey!
 
 [img]0592_b.png[/img]
 
-[quote=musicalEmpathist;7729510]It's cute widdle Piotr and you're okay!![/quote]
+[quote="musicalEmpathist"]It's cute widdle Piotr and you're okay!![/quote]
 
 So Lash DID take care of you huh? Did she take good care of you!?
 
@@ -51,7 +51,7 @@ What's up little dog? I cannot cuddle you if you're all the way over there!
 >>>DISPLAY_PICTURE:0592_c.png
 >>>NOTES:
 
-[quote=tronn;7729443][quote], but the fight attendant,[/quote]
+[quote="tronn"][quote], but the fight attendant,[/quote]
 Canadian airlines are [i]rough.[/i][/quote]
 
 Merci!

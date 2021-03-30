@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=a52;7710446]>You are so, so fucked.[/quote]
+[quote="a52"]>You are so, so fucked.[/quote]
 
 SO FUCKED!
 
 God, she is so so SO dead! 
 
-[quote=wolftamer9;7710223]> I hate to say it, but it sounds like you only have one option. Wriggle out and stave off death for a couple of minutes at least.[/quote]
+[quote="wolftamer9"]> I hate to say it, but it sounds like you only have one option. Wriggle out and stave off death for a couple of minutes at least.[/quote]
 
 No choice, she's gotta slide out of the suit. It's not a good idea, even if it works, but it's better then drowning. 
 
@@ -25,9 +25,9 @@ She tries to wriggle, her trapped hand screams in protest. She just has to -
 
 It's [i]loose[/i].
 
-[quote=BreadProduct;7710544]Fish around for a hard object to put between the door and the floor.[/quote]
+[quote="BreadProduct"]Fish around for a hard object to put between the door and the floor.[/quote]
 
-[quote=musicalEmpathist;7710564]Well thank you, good sir, for the kind and encouraging words of wisdom XD
+[quote="musicalEmpathist"]Well thank you, good sir, for the kind and encouraging words of wisdom XD
 
 Bina> Survive, you can do this. You've gotten yourself out of worse. If you can lift the door even the tiniest bit so you can wriggle out, try it. I've been pinned under things like this before, maybe not as heavy nor drowning in mud, but similar. Wave your free hand around for any sort of debris you can shove under the door to keep it open if you're not strong enough yourself.[/quote]
 
@@ -83,7 +83,7 @@ Her flag, of course, undoubtedly, would be [i]green[/i].
 >>>DISPLAY_PICTURE:0561_b.png
 >>>NOTES:
 
-[quote=xooxu;7710853][strike]So, um, I meant to post this earlier so it might actually be considered, haha.[/strike]
+[quote="xooxu"][strike]So, um, I meant to post this earlier so it might actually be considered, haha.[/strike]
 
 Here's what I would try to do. It probably wouldn't actually work, but hey. It's worth a try.
 

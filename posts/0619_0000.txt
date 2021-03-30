@@ -44,7 +44,7 @@ So I reach out.
 
 [img]0619_c.png[/img]
 
-[quote=BreadProduct;7744457]>Take Scarf[/quote]
+[quote="BreadProduct"]>Take Scarf[/quote]
 
 And I take the scarf.
 
@@ -52,7 +52,7 @@ And I take the scarf.
 >>>DISPLAY_PICTURE:0619_b.png
 >>>NOTES:
 
-[quote=royalPawn;7745015](Small error in the coloring here.)[/quote]
+[quote="royalPawn"](Small error in the coloring here.)[/quote]
 
 Merci!
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7754902]>Bina. Bina, Bina! You need to do the green thing.[/quote]
+[quote="BreadProduct"]>Bina. Bina, Bina! You need to do the green thing.[/quote]
 
 [k]"Bina?"[/k] asks Kendra. [k]"You need to do the green thing."[/k]
 

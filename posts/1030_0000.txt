@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=CrimsonMage;7902811]>Wait, [b][i]Amie[/i][/b]?[/quote]
+[quote="CrimsonMage"]>Wait, [b][i]Amie[/i][/b]?[/quote]
 
 "Wait, AMIE!?"
 
@@ -35,7 +35,7 @@ Bina, choking on more questions, acquiesces.
 >>>DISPLAY_PICTURE:1030_a.png
 >>>NOTES:
 
-[quote=Wessolf27;7902713]Kendra's speech before the picture isn't bolded.[/quote]
+[quote="Wessolf27"]Kendra's speech before the picture isn't bolded.[/quote]
 
 Merci!
 

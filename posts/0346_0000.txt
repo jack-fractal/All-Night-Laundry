@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Morphimus;7575338]> So how do you play this game??[/quote]
+[quote="Morphimus"]> So how do you play this game??[/quote]
 
 I'LL SHOW YOU!
 
@@ -13,7 +13,7 @@ See? He opens the door and then -
 
 I RUN THROUGH HIS LEGS AND OUT INTO THE OTHER PLACE!
 
-[quote=tegerioreo;7575498]([s]Gregor[/s] Pack Leader:  Do not seem to be having much fun.)[/quote]
+[quote="tegerioreo"]([s]Gregor[/s] Pack Leader:  Do not seem to be having much fun.)[/quote]
 
 "Oh no! Piotyr! Again!? This is third time today!"
 
@@ -51,7 +51,7 @@ I am the best at GAME!
 >>>DISPLAY_PICTURE:0346_b.png
 >>>NOTES:
 
-[quote=curiousTerminal;7575344]Am I the only one who gets shunted a few posts up from where the new post actually is? When this updated just now I got put to "you smell like smells"[/quote]
+[quote="curiousTerminal"]Am I the only one who gets shunted a few posts up from where the new post actually is? When this updated just now I got put to "you smell like smells"[/quote]
 
 Yes, I'm getting that too, started happening recently, within the last few days.
 

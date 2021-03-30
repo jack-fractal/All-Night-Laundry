@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Xander;7730944]If you wanna get to the cockpit, you need to go the other way. The seats face toward the front and the cockpit.[/quote]
+[quote="Xander"]If you wanna get to the cockpit, you need to go the other way. The seats face toward the front and the cockpit.[/quote]
 
 Right. 
 
@@ -13,7 +13,7 @@ Which is the way that Piotyr seems to want to go.
 
 Through these curtains. 
 
-[quote=Fuade;7729897]Wait wait wait hold up, first things first.  As of right now we know three very important things
+[quote="Fuade"]Wait wait wait hold up, first things first.  As of right now we know three very important things
 
 1.  Everyone mysteriously vanished from the plane
 2.  Planes require people to fly them

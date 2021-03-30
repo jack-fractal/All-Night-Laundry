@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=curiousFellow;7892500]>Where's Piotr?[/quote]
+[quote="curiousFellow"]>Where's Piotr?[/quote]
 
 Wait... I'm missing - where's my dog?
 
@@ -25,7 +25,7 @@ I stick my spoon into the static. It's thick and viscous, like oily tar.
 
 And I don't want this...
 
-[quote=Wessolf27;7892855]>No, this isn't right on so many levels. You shouldn't trust this place.[/quote]
+[quote="Wessolf27"]>No, this isn't right on so many levels. You shouldn't trust this place.[/quote]
 
 "Why won't you eat? Don't you trust me? Are you... scared of me?"
 
@@ -53,7 +53,7 @@ I... like things the way they are now.
 
 "With you here, and me, five hundred kilometers away."
 
-[quote=badatnamesbluhbluh;7892785]>Lash always has good ideas. But is that Lash?[/quote]
+[quote="badatnamesbluhbluh"]>Lash always has good ideas. But is that Lash?[/quote]
 
 Are you even you? Is any of this really happening?
 
@@ -63,7 +63,7 @@ I need some air.
 >>>DISPLAY_PICTURE:0997_b.gif
 >>>NOTES:
 
-[quote=Wessolf27;7892855]P.S. Working on something for the contest, am I still eligible?[/quote]
+[quote="Wessolf27"]P.S. Working on something for the contest, am I still eligible?[/quote]
 
 You are, but only for two more days. We are day 997 today, and day 999 is the last one for submissions.
 

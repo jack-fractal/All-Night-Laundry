@@ -3,9 +3,9 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=meganopteryx;7542120]>Just get out of that room as quickly as possible, you don't want to be around whatever is making the noise.[/quote]
-[quote=Morphimus;7542002]> Head upstairs and look for the oven already![/quote]
-[quote=xooxu;7542032]>Yeah, just hurry up. This place isn't ... good.[/quote]
+[quote="meganopteryx"]>Just get out of that room as quickly as possible, you don't want to be around whatever is making the noise.[/quote]
+[quote="Morphimus"]> Head upstairs and look for the oven already![/quote]
+[quote="xooxu"]>Yeah, just hurry up. This place isn't ... good.[/quote]
 
 That's what we did.
 
@@ -37,7 +37,7 @@ Sam looks like she doesn't want to answer, so I do. "Yes! There totally were!"
 
 [color=#A62A00]"Yeah, yeah, but we never saw who it was. We ran into the cops first."[/color]
 
-[quote=xooxu;7542032]>How did the cops know to look at the factory, anyway?[/quote]
+[quote="xooxu"]>How did the cops know to look at the factory, anyway?[/quote]
 
 [color=#C10087]"What were the cops even doing out there anyway? That doesn't make any sense."[/color]
 
@@ -77,17 +77,17 @@ She kept wriggling away from me and barking.
 >>>DISPLAY_PICTURE:0313_a.png
 >>>NOTES:
 
-[quote=Lacemaker;7542737]Another teensy weensy little typo.[/quote]
+[quote="Lacemaker"]Another teensy weensy little typo.[/quote]
 
 Thank you lacemaker! You are marvelous.
 
-[quote=Lacemaker;7542737]I get it now, Piotyr was barking in the bedroom, not at the factory. That explains it! (Kind of embarrassing it took me that long though...)[/quote]
+[quote="Lacemaker"]I get it now, Piotyr was barking in the bedroom, not at the factory. That explains it! (Kind of embarrassing it took me that long though...)[/quote]
 
 No need to be embarassed. That update originally had another image in it, so that the conversation where Piotyr was barking was clearly set in the bedroom. 
 
 I had to cut it for time constraints and it made that section less clear then I'd like.
 
-[quote=Dalmationer;7543069]Damn, jac frac you are really good at making me feel /really really unnerved/[/quote]
+[quote="Dalmationer"]Damn, jac frac you are really good at making me feel /really really unnerved/[/quote]
 
 Thank you, I think. This is the only section of this whole story that has spooked me out while writing it.
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7634000]>In case any weird mojo happens be prepared to drive a truck at a moments notice.[/quote]
+[quote="BreadProduct"]>In case any weird mojo happens be prepared to drive a truck at a moments notice.[/quote]
 
 Bina braces for weird shenanigans. If the previous night had taught her anything, it's that weird stuff always happens when she's doing something potentially dangerous.
 
@@ -37,7 +37,7 @@ Outside she hears a pop and a hiss.
 >>>DISPLAY_PICTURE:0435_c.png
 >>>NOTES:
 
-[quote=Corpseguide;7634060][quote]Kenra's invites further explanation,[/quote]I think you might have left a word out[/quote]
+[quote="Corpseguide"][quote]Kenra's invites further explanation,[/quote]I think you might have left a word out[/quote]
 
 You are correct! Merci!
 

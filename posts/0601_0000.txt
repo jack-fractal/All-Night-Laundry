@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Xindaris;7734542]>Well it wasn't your idea to number everyone in the first place, and if you go back and try to do something else [i]now[/i] it's just going to be even more confusing, right?[/quote]
+[quote="Xindaris"]>Well it wasn't your idea to number everyone in the first place, and if you go back and try to do something else [i]now[/i] it's just going to be even more confusing, right?[/quote]
 
 "Hey! I'm not the one who came up with the idea! Wait, no. I mean, I did, but I wasn't me at the time and - 
 
@@ -23,7 +23,7 @@ My head is starting to hurt.
 
 [img]0601_a.png[/img]
 
-[quote=BreadProduct;7734080][spoiler][img]0087_a.jpg[/img][/spoiler]
+[quote="BreadProduct"][spoiler][img]0087_a.jpg[/img][/spoiler]
 
 The lady above is named Josephine Dubois. This looks like a much younger Josephine.[/quote]
 
@@ -47,7 +47,7 @@ She laughs to herself, a private joke. "That's one thing they don't tell you abo
 >>>DISPLAY_PICTURE:0601_b.png
 >>>NOTES:
 
-[quote=Alcastar;7734386][quote=Beastnix;7734148]>she's challenging you to a pokemon battle[/quote]
+[quote="Alcastar"][quote="Beastnix"]>she's challenging you to a pokemon battle[/quote]
 
 Pokemon: Laundry Edition
 

@@ -3,8 +3,8 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7220223]> Having fallen, realise what has happened and get away.[/quote]
-[quote=loneVision;7220754]> Roll away! KEEP ROLLIN'![/quote]
+[quote="Kíeros"]> Having fallen, realise what has happened and get away.[/quote]
+[quote="loneVision"]> Roll away! KEEP ROLLIN'![/quote]
 
 [img]0037_a.jpg[/img]
 
@@ -30,7 +30,7 @@ No! No it ISN'T.
 
 It's DOING something to you! Get ahold of yourself Bina!
 
-[quote=Dregadude;7220317]>Bina: suddenly find the power to close your eyes, now that you've been knocked off balance.[/quote]
+[quote="Dregadude"]>Bina: suddenly find the power to close your eyes, now that you've been knocked off balance.[/quote]
 
 [img]0037_b.jpg[/img]
 
@@ -38,7 +38,7 @@ Bina tries again.
 
 She throws every ounce of effort she has into it that she's got, the muscles of her forehead burn and she...
 
-[quote=Crowstone;7215793]STOOPPP
+[quote="Crowstone"]STOOPPP
 STOP THIS STOP[/quote]
 
 [img]0037_c.jpg[/img]
@@ -57,7 +57,7 @@ Eyes...
 >>>DISPLAY_PICTURE:0037_a.jpg
 >>>NOTES:
 
-[quote=ICan'tGiveCredit;7220240]Hmmm
+[quote="ICan'tGiveCredit"]Hmmm
 
 > Let the lasers touch your eyes to gain...
 

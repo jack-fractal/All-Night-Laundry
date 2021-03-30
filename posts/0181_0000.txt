@@ -11,7 +11,7 @@ Kendra keeps talking and Bina realizes that she's not really talking to her. She
 
 "He was like... resigned? Like he was hoping it wouldn't happen, but he was expecting it anyway."[/k]
 
-[quote=Dregadude;7409017]>Bina: does the building seem to be getting any more unstable?[/quote]
+[quote="Dregadude"]>Bina: does the building seem to be getting any more unstable?[/quote]
 
 Bina checks the support beam. 
 
@@ -47,7 +47,7 @@ Something is [i]digging[/i] at her. It's like little bits of her are all screami
 >>>DISPLAY_PICTURE:0181_a.png
 >>>NOTES:
 
-[quote=Morphimus;7408948]> Bina: Sing this song
+[quote="Morphimus"]> Bina: Sing this song
 [spoiler][video=youtube;gnwywMpPbjg]http://www.youtube.com/watch?v=gnwywMpPbjg[/video][/spoiler]
 She'll know what you mean.[/quote]
 
@@ -55,7 +55,7 @@ She'll know what you mean.[/quote]
 
 What in the heck is THAT?
 
-[quote=Morphimus;7408948]Also:
+[quote="Morphimus"]Also:
 [img]http://i.imgur.com/1KRFODD.png[/img]
 
 This is not the last one of these.[/quote]

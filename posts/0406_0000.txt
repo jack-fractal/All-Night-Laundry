@@ -3,15 +3,15 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7616805]>WAIT! Test to see if it works before use![/quote]
-[quote=HighwayWizard;7616807]>Whoa, careful. Didn't your mother ever tell you not to shower in strange and unusual showers without testing them out first?[/quote]
+[quote="BreadProduct"]>WAIT! Test to see if it works before use![/quote]
+[quote="HighwayWizard"]>Whoa, careful. Didn't your mother ever tell you not to shower in strange and unusual showers without testing them out first?[/quote]
 
 "Maybe we should test it first!"
 
 [k]"Uhh..."[/k]
 
-[quote=Viiranen;7616854]The game's called: What's that liquid in there?[/quote]
-[quote=Morphimus;7617138]> Yeah, we definitely want to test it out first. Maybe put something in there and then turn it on. Better safe than power blasted with deadly, deadly liquid that only [i]looks[/i] like water.[/quote]
+[quote="Viiranen"]The game's called: What's that liquid in there?[/quote]
+[quote="Morphimus"]> Yeah, we definitely want to test it out first. Maybe put something in there and then turn it on. Better safe than power blasted with deadly, deadly liquid that only [i]looks[/i] like water.[/quote]
 
 "It might not be water! It could be more goo! Or WORSE goo! Or something!"
 
@@ -36,8 +36,8 @@ Bina hits the switch.
 >>>DISPLAY_PICTURE:0406_c.png
 >>>NOTES:
 
-[quote=HighwayWizard;7616807]also slight error here: "Is their water in the tank?" should be "Is there water in the tank?"[/quote]
-[quote=Kofiman;7616906]Also, 'nozzles'[/quote]
+[quote="HighwayWizard"]also slight error here: "Is their water in the tank?" should be "Is there water in the tank?"[/quote]
+[quote="Kofiman"]Also, 'nozzles'[/quote]
 
 Thanks!
 

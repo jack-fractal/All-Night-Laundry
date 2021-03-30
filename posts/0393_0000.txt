@@ -3,9 +3,9 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7608270]>Bina: Does that suspiciously ax cut looking cut look like it was cut with an ax?[/quote]
+[quote="tronn"]>Bina: Does that suspiciously ax cut looking cut look like it was cut with an ax?[/quote]
 
-[quote=BreadProduct;7608276]That cut looks like just about the size of a spade.[/quote]
+[quote="BreadProduct"]That cut looks like just about the size of a spade.[/quote]
 
 "You think that looks like something done with, taking a wild leap here, a shovel?"
 
@@ -15,7 +15,7 @@
 
 [k]"Meee too."[/k]
 
-[quote=Dalmationer;7608252]Does that phone work? If not, you can maybe salvage some wire from it to fix the thing?[/quote]
+[quote="Dalmationer"]Does that phone work? If not, you can maybe salvage some wire from it to fix the thing?[/quote]
 
 "I don't suppose you know how to fix that," says Bina.
 
@@ -31,7 +31,7 @@
 
 [k]"We cannot, in fact, turn it off."[/k]
 
-[quote=tegerioreo;7608395]Read the note.  And don't touch the sparking wire.[/quote]
+[quote="tegerioreo"]Read the note.  And don't touch the sparking wire.[/quote]
 
 "Well that's just lovely. I wonder what the note says. Who wants to bet its more cryptic bulls - 
 

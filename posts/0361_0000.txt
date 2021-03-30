@@ -3,11 +3,11 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7586565]That note is really good news, because it means that while all this time travel stuff is weird, it follows rules - rules you can learn.[/quote]
+[quote="tronn"]That note is really good news, because it means that while all this time travel stuff is weird, it follows rules - rules you can learn.[/quote]
 
 That IS good news. 
 
-[quote=CrimsonMage;7586480]>She mentioned a road and a truck, which should be OUTSIDE. If you need to get to this Moment, getting out of here is your main objective.[/quote]
+[quote="CrimsonMage"]>She mentioned a road and a truck, which should be OUTSIDE. If you need to get to this Moment, getting out of here is your main objective.[/quote]
 
 "She's talking about a truck, and a road... I think we need to get outside, to the street."
 
@@ -17,7 +17,7 @@ That IS good news.
 
 [k]"I'm serious! I mean, it's so [i]nice[/i]."[/k]
 
-[quote=Dregadude;7586525]>Chug hot chocolate and pack up. It's probably time to get a move on.[/quote]
+[quote="Dregadude"]>Chug hot chocolate and pack up. It's probably time to get a move on.[/quote]
 
 "I'm just saying we should go now!"
 
@@ -29,7 +29,7 @@ That IS good news.
 
 "But we need to move!"
 
-[quote=tegerioreo;7587055]Say "I just need a moment."
+[quote="tegerioreo"]Say "I just need a moment."
 
 Chuckle lamely.[/quote]
 
@@ -61,7 +61,7 @@ Chuckle lamely.[/quote]
 >>>DISPLAY_PICTURE:0361_a.png
 >>>NOTES:
 
-[quote=Dregadude;7586525]this was already my favorite adventure, and then you had to go and throw fourth dimensional stuff in there HOW DID YOU KNOW I LOVE THAT STUFF <3[/quote]
+[quote="Dregadude"]this was already my favorite adventure, and then you had to go and throw fourth dimensional stuff in there HOW DID YOU KNOW I LOVE THAT STUFF <3[/quote]
 
 I have done science!
 

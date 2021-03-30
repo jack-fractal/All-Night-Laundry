@@ -3,11 +3,11 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7725097]>What are you watching?[/quote]
+[quote="BreadProduct"]>What are you watching?[/quote]
 
 A line on the runway. One of the yellow ones. 
 
-[quote=elementaryMydear;7725543]> Can you move the camera a little so we can see?[/quote]
+[quote="elementaryMydear"]> Can you move the camera a little so we can see?[/quote]
 
 Sure.
 
@@ -33,7 +33,7 @@ But it doesn't matter. It's done. I'm done. I am on this plane.
 
 I am doing this. 
 
-[quote=CrimsonMage;7725515]>Can you elaborate in, uh, thought-speech what's going on then?[/quote]
+[quote="CrimsonMage"]>Can you elaborate in, uh, thought-speech what's going on then?[/quote]
 
 Oh that's easy enough to explain. I've just made the worst mistake of my entire life, and there's nothing I can do to take it back.
 
@@ -41,9 +41,9 @@ Oh that's easy enough to explain. I've just made the worst mistake of my entire 
 >>>DISPLAY_PICTURE:0584_a.png
 >>>NOTES:
 
-[quote=curiousTerminal;7725104]Jack, you can use Google Docs to make a survey! And it can automatically put the answers to the questions in another doc for you. I've used it a few times for school and it's pretty easy to use and pick up.[/quote]
+[quote="curiousTerminal"]Jack, you can use Google Docs to make a survey! And it can automatically put the answers to the questions in another doc for you. I've used it a few times for school and it's pretty easy to use and pick up.[/quote]
 
-[quote=xooxu;7725106]Google Drive has a survey thing that's completely free and has some cool options, you just need a gmail/google+ account.[/quote]
+[quote="xooxu"]Google Drive has a survey thing that's completely free and has some cool options, you just need a gmail/google+ account.[/quote]
 
 Aha! That is so convenient! Merci. I will use this.
 

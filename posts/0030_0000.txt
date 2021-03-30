@@ -3,9 +3,9 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Morphimus;7209485]> Ask them how you got here. Maybe they know.[/quote]
-[quote=Dregadude;7209484]>Ask the man about Gregor.[/quote]
-[quote=Kyky25;7209401]>Say hello.[/quote]
+[quote="Morphimus"]> Ask them how you got here. Maybe they know.[/quote]
+[quote="Dregadude"]>Ask the man about Gregor.[/quote]
+[quote="Kyky25"]>Say hello.[/quote]
 
 [img]0030_a.gif[/img]
 

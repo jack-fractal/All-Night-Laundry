@@ -23,7 +23,7 @@
 
 [k]"You think it'll work? We can take the crane down and-"[/k]
 
-[quote=tegerioreo;7769928]Good a place as any.  Step through and get yo' adventure on!  The Moment has to be somewhere around here.[/quote]
+[quote="tegerioreo"]Good a place as any.  Step through and get yo' adventure on!  The Moment has to be somewhere around here.[/quote]
 
 "Uh huh, let me - Wait!"
 
@@ -41,7 +41,7 @@ There is a bloop.
 >>>DISPLAY_PICTURE:0124_b.jpg
 >>>NOTES:
 
-[quote=Bohandas;7769931]>through the looking glass. or pool as the case may be. At least the other side seems intact.
+[quote="Bohandas"]>through the looking glass. or pool as the case may be. At least the other side seems intact.
 
 I really like this comic. It kind of reminds me of a combination of [i]Moving Pictures[/i], [i]The Thief of Time[/i], and [i]The Hounds of Tindalos[/i], but still mysterious and original.[/quote]
 

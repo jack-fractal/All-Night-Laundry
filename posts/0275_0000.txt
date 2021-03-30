@@ -11,11 +11,11 @@
 
 "Ah, right. Yeah."
 
-[quote=meganopteryx;7500987]> Do you remember seeing a clock like that outside of this office? Maybe someone else brings it in? Or you have to go get it...[/quote]
+[quote="meganopteryx"]> Do you remember seeing a clock like that outside of this office? Maybe someone else brings it in? Or you have to go get it...[/quote]
 
 [k]"Crap! Do you think it might be downstairs? I could - "[/k]
 
-[quote=tronn;7501147]>Bina: Check under the small desk, there seems to be something under there.[/quote]
+[quote="tronn"]>Bina: Check under the small desk, there seems to be something under there.[/quote]
 [quote="The One Guy"]> Look under the safe that you don't know is a safe.[/quote]
 
 Bina, fishes around beneath the strange metal table, feels something and grabs it.
@@ -64,7 +64,7 @@ OK. She wasn't expecting THAT.
 >>>DISPLAY_PICTURE:0275_a.png
 >>>NOTES:
 
-[quote=meganopteryx;7500987]Psst, Jack, the color thing is messed up on the first statement.[/quote]
+[quote="meganopteryx"]Psst, Jack, the color thing is messed up on the first statement.[/quote]
 Aha! Missed that. Thanks Megan!
 
 

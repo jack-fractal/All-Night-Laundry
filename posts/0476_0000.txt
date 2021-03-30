@@ -3,23 +3,23 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7655862]>Kendra: Have you tried to communicate with any of the not-Binas wandering around?[/quote]
+[quote="tronn"]>Kendra: Have you tried to communicate with any of the not-Binas wandering around?[/quote]
 
 They're not real talkative.
 
-[quote=CrimsonMage;7655822]>Where's Bina? What happened to her?[/quote]
+[quote="CrimsonMage"]>Where's Bina? What happened to her?[/quote]
 
 Assuming that nothing has gone wrong in the last fifteen minutes, she should be circling around one of the towers back the way Kendra came. 
 
 There was a lot of junk around the base of the tower, lots of collapsed buildings and rubble to break up lines of site. They'd decided that it was probably the best place for Bina to head in order if she wanted to lose their new friends.
 
-[quote=ArcusofBrambles;7655922]What's that orange thing?[/quote]
+[quote="ArcusofBrambles"]What's that orange thing?[/quote]
 
 It's a problem.
 
 And an opportunity.
 
-[quote=xooxu;7656197]I'm pretty sure the orange thing is a flag marker, like the ones Bina and Kendra saw before they reached camp.[/quote]
+[quote="xooxu"]I'm pretty sure the orange thing is a flag marker, like the ones Bina and Kendra saw before they reached camp.[/quote]
 
 It's also that as well.
 
@@ -37,7 +37,7 @@ If Bina's wrong about how all this works, Kendra's going to have to leg it prett
 >>>DISPLAY_PICTURE:0476_a.png
 >>>NOTES:
 
-[quote=tronn;7655862]Haha improved resolution![/quote]
+[quote="tronn"]Haha improved resolution![/quote]
 OK, I actually laughed at this. :)
 
 

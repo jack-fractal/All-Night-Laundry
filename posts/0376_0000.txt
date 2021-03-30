@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Viiranen;7596387]Bina: Do the glowy thing.[/quote]
+[quote="Viiranen"]Bina: Do the glowy thing.[/quote]
 
 "Hooooah boy...."
 
@@ -11,7 +11,7 @@ The cracks are everywhere. Running over and through and into each other in crazy
 
 [img]0376_a.png[/img]
 
-[quote=Viiranen;7596941][quote=Viiranen;7596387]Keldra: Forget to look away.[/quote]
+[quote="Viiranen"][quote="Viiranen"]Keldra: Forget to look away.[/quote]
 Still this.[/quote]
 
 [k]"Jeesus, does it always look like this?"[/k]

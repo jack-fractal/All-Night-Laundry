@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=wolftamer9;7635039]> Great! So what's inside?[/quote]
+[quote="wolftamer9"]> Great! So what's inside?[/quote]
 
 Bina fumbles for a few seconds with the damaged latch before she gets the glove-box open.
 
 [img]0437_a.png[/img]
 
-[quote=Kíeros;7635042]> Grab all the stuff inside; you can look at it later.[/quote]
+[quote="Kíeros"]> Grab all the stuff inside; you can look at it later.[/quote]
 
 "Ack!"
 
@@ -17,7 +17,7 @@ Bina fumbles for a few seconds with the damaged latch before she gets the glove-
 
 [k]"Did you find anything?"[/k]
 
-[quote=Viiranen;7635050]> You got the thing![/quote]
+[quote="Viiranen"]> You got the thing![/quote]
 
 "Yeah! Hold on! Just, gimme a second!"
 

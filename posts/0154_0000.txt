@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7381441]> Do you know anyone you see?[/quote]
+[quote="Kíeros"]> Do you know anyone you see?[/quote]
 
 One of them. 
 
@@ -27,7 +27,7 @@ You checked. I happen to know this, because I had my people DOUBLE CHECK before 
 >>>DISPLAY_PICTURE:0154_a.jpg
 >>>NOTES:
 
-[quote=Dregadude;7381008][quote=Corpseguide;7380949]> Bina! Move your head so we can see too![/quote]
+[quote="Dregadude"][quote="Corpseguide"]> Bina! Move your head so we can see too![/quote]
 okay I laughed[/quote]
 
 Me too!

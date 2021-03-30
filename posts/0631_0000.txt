@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=HeresyIncarnate;7750681]>Bina: Inquire as to WHY exactly you are moving this cabinet?[/quote]
+[quote="HeresyIncarnate"]>Bina: Inquire as to WHY exactly you are moving this cabinet?[/quote]
 
 It's to block the door! 
 
@@ -23,7 +23,7 @@ Come on! Come on!
 >>>DISPLAY_PICTURE:0631_b.png
 >>>NOTES:
 
-[quote=Alcastar;7750914]> The best way to ignore pain, is to focus. Not on a passing thought, but rather an action or goal. Be the most [url=http://www.merriam-webster.com/dictionary/stalwart]stalwart[/url] bina, there will ever be.
+[quote="Alcastar"]> The best way to ignore pain, is to focus. Not on a passing thought, but rather an action or goal. Be the most [url=http://www.merriam-webster.com/dictionary/stalwart]stalwart[/url] bina, there will ever be.
 
 Be
 

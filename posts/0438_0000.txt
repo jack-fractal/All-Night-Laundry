@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7635471]> Get out so you can both see what was there at the same time.[/quote]
+[quote="Kíeros"]> Get out so you can both see what was there at the same time.[/quote]
 
 "I'm coming out now."
 
@@ -13,11 +13,11 @@
 
 [img]0438_a.png[/img]
 
-[quote=Dalmationer;7635568]What's the cool blue thingie[/quote]
+[quote="Dalmationer"]What's the cool blue thingie[/quote]
 
 [k]"Is this the journal?"[/k]
 
-[quote=Lacemaker;7635058] Bina> Find journal and a stash of your favorite type of candy. [/quote]
+[quote="Lacemaker"] Bina> Find journal and a stash of your favorite type of candy. [/quote]
 
 "I think so, and there's water and pumpkin seeds too!"
 

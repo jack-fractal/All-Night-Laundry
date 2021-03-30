@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7508820]> It's okay; you can probably rest now. Maybe.[/quote]
+[quote="Kíeros"]> It's okay; you can probably rest now. Maybe.[/quote]
 
 Bina can't move. She knows she has to, she knows that if they stay here out in the cold they'll freeze to death.
 
@@ -43,11 +43,11 @@ The arm that Bina is holding (She's holding Kendra's arm? She doesn't remember d
 >>>DISPLAY_PICTURE:0284_a.png
 >>>NOTES:
 
-[quote=Dalmationer;7508678]this adventure is probably in my top three adventure's on this forum.
+[quote="Dalmationer"]this adventure is probably in my top three adventure's on this forum.
 It's like
 a proper[i] adventure.[/i][/quote]
 
-[quote=Dregadude;7508746]This.[/quote]
+[quote="Dregadude"]This.[/quote]
 
 [quote=Anthano]yeah I'll say it once and I'll say it again this is fantastic and your devotion to updating every day is super inspiring keep it up ;v;[/quote]
 

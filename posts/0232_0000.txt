@@ -5,7 +5,7 @@
 
 "You can open your eyes now."
 
-[quote=KanjiGirl;7458708]Well, cover your hand to see if it's real. Besides, if there's actually someone there, you don't want to scare them with your hand.[/quote]
+[quote="KanjiGirl"]Well, cover your hand to see if it's real. Besides, if there's actually someone there, you don't want to scare them with your hand.[/quote]
 
 [k]"So it's safe?"[/k]
 
@@ -25,8 +25,8 @@ There is a long silence.
 
 "Lets just... be careful. It might might also be Gregor, and I don't want to meet him very much either."
 
-[quote=Chizita;7458731]Peek around the corner, and be quiet.[/quote]
-[quote=Lacemaker;7458785]Desperately hope the "real light" is not green.[/quote]
+[quote="Chizita"]Peek around the corner, and be quiet.[/quote]
+[quote="Lacemaker"]Desperately hope the "real light" is not green.[/quote]
 
 Bina peers around the corner. 
 
@@ -38,7 +38,7 @@ OK, so on the plus side, the light isn't [i]green[/i].
 >>>DISPLAY_PICTURE:0232_a.png
 >>>NOTES:
 
-[quote=meganopteryx;7458787]Also, fanart:
+[quote="meganopteryx"]Also, fanart:
 [img]http://img41.imageshack.us/img41/7103/3jdv.gif[/img] 
 Beware of hypnotic effect.[/quote]
 Eee! Thank you!

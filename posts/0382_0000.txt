@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7601432]> Bina: Tell Kendra why on the way out.[/quote]
+[quote="Kíeros"]> Bina: Tell Kendra why on the way out.[/quote]
 
 Bina tells Kendra about her brief jump back to the factory and about the people she saw.
 
@@ -67,7 +67,7 @@ Bina tells Kendra about her [i]second[/i] weird dream involving the beagle. She 
 >>>DISPLAY_PICTURE:0382_b.png
 >>>NOTES:
 
-[quote=Xindaris;7601437]Ah, sorry. I thought since it was colored differently, very similar to how grandma's scarf was, that it might be a thing that was going to be kept when leaving the dream. And it's possible I'd still think she might leave with it if the images were intact, because I don't know all the rules of exiting a dream with an item, so it would be a "maybe it's Important enough that it doesn't matter you dropped it" idea.[/quote]
+[quote="Xindaris"]Ah, sorry. I thought since it was colored differently, very similar to how grandma's scarf was, that it might be a thing that was going to be kept when leaving the dream. And it's possible I'd still think she might leave with it if the images were intact, because I don't know all the rules of exiting a dream with an item, so it would be a "maybe it's Important enough that it doesn't matter you dropped it" idea.[/quote]
 
 Yeah, that does make sense, but during her last dream, Bina was missing some of the components necessary to bring a dream thing into the real world. 
 

@@ -3,8 +3,8 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=wolftamer9;7644924]> Bina, do him the favor of translating what she said.[/quote]
-[quote=xooxu;7645100]>Bina: numbly translate for Gregor. "[size=10]She said you're a monster...[/size]"[/quote]
+[quote="wolftamer9"]> Bina, do him the favor of translating what she said.[/quote]
+[quote="xooxu"]>Bina: numbly translate for Gregor. "[size=10]She said you're a monster...[/size]"[/quote]
 
 "She said you're a monster."
 
@@ -14,7 +14,7 @@
 
 "Why did you do it!? Why!?" 
 
-[quote=Lacemaker;7644963]Is that a protective hero-hug I see? Kendra, you may want to keep a tight grasp on that wildcat, because once she snaps from grief to rage Gregor is in for a [i]world[/i] of pain.[/quote]
+[quote="Lacemaker"]Is that a protective hero-hug I see? Kendra, you may want to keep a tight grasp on that wildcat, because once she snaps from grief to rage Gregor is in for a [i]world[/i] of pain.[/quote]
 
 [img]0453_b.png[/img]
 
@@ -34,7 +34,7 @@
 >>>DISPLAY_PICTURE:0453_c.png
 >>>NOTES:
 
-[quote=royalPawn;7645093]^ Seconding that.
+[quote="royalPawn"]^ Seconding that.
 
 EDIT: dammit[/quote]
 

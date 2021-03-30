@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=curiousFellow;7897059]>The naughts may be able to find you, but they'll have to go through the city to get to you. You know they're not here yet because you can't hear screaming. Well, that's unless dead people in the hospital start turning, anyhow.[/quote]
+[quote="curiousFellow"]>The naughts may be able to find you, but they'll have to go through the city to get to you. You know they're not here yet because you can't hear screaming. Well, that's unless dead people in the hospital start turning, anyhow.[/quote]
 
 Haha! Ha! Yeah! That totally doesn't sound like a thing that would happen.
 
@@ -37,7 +37,7 @@ Bina is breathing fast, in ragged gasps.
 >>>DISPLAY_PICTURE:1012_a.png
 >>>NOTES:
 
-[quote=computationalAlchemist;7897058]+1 reader![/quote]
+[quote="computationalAlchemist"]+1 reader![/quote]
 
 Hallo! Thank you for reading!
 

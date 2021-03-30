@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dalmationer;7810539]>Attempt conversation.[/quote]
+[quote="Dalmationer"]>Attempt conversation.[/quote]
 
 [img]0755_a.png[/img]
 
@@ -19,7 +19,7 @@ This is going so well.
 >>>DISPLAY_PICTURE:0755_b.png
 >>>NOTES:
 
-[quote=SNORKELBITCHMEGAHITLER;7810843]I'm caught up again! Hooray![/quote]
+[quote="SNORKELBITCHMEGAHITLER"]I'm caught up again! Hooray![/quote]
 Hurray!
 
 

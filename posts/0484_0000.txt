@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Lacemaker;7660085]You could make your own noise back at it, and see if it responds. That is, if you still don't know if it's friend or foe. If you already know it's a foe, explore the bathroom; see if there's another exit.[/quote]
+[quote="Lacemaker"]You could make your own noise back at it, and see if it responds. That is, if you still don't know if it's friend or foe. If you already know it's a foe, explore the bathroom; see if there's another exit.[/quote]
 
 The bathroom is too tiny to explore. If she reaches out, Kendra can touch all four walls.
 
@@ -25,7 +25,7 @@ Unfolded in a very threatening way.
 
 So Kendra had thrown a cinder-block at it.
 
-[quote=xooxu;7660093]>So you don't have anything on you that you can use as a weapon? [/quote]
+[quote="xooxu"]>So you don't have anything on you that you can use as a weapon? [/quote]
 
 But she doesn't have any cinder-blocks here. She's got the flash-light, that might do in a pinch, but it's a [i]tiny[/i]. Metal, yeah, but one of the [i]small[/i] mag-lights, like they use in CSI. 
 
@@ -55,7 +55,7 @@ She pulls her legs up, making herself small.
 
 But when has [i]that[/i] ever worked? 
 
-[quote=xooxu;7660093]>I would not advise waiting it out, because then you're going to trick yourself into thinking it's safe — when there is no guarantee that it is — and you're essentially trapped here with no escape plan, no visibility, and no defenses. Who knows what these things are capable of, or what their patterns are, or if it's just this one or an entire horde right behind it. The best thing to assume is that we are not safe and probably won't be for the foreseeable future, and that we have no idea what to expect yet. Try to get away from those port-a-potties so you can better assess the situation and get in a better position.[/quote]
+[quote="xooxu"]>I would not advise waiting it out, because then you're going to trick yourself into thinking it's safe — when there is no guarantee that it is — and you're essentially trapped here with no escape plan, no visibility, and no defenses. Who knows what these things are capable of, or what their patterns are, or if it's just this one or an entire horde right behind it. The best thing to assume is that we are not safe and probably won't be for the foreseeable future, and that we have no idea what to expect yet. Try to get away from those port-a-potties so you can better assess the situation and get in a better position.[/quote]
 
 I mean really Kendra, when has that EVER worked for you? 
 
@@ -71,7 +71,7 @@ When was the last time that ever worked for [i]anyone[/i]?
 >>>DISPLAY_PICTURE:0484_a.gif
 >>>NOTES:
 
-[quote=Kíeros;7659951]Out of curiosity, I took said image, copied it into paste, selected a random pixel and basic color, ran color replacement on it, and repeated the last two steps until I ran out of palette colors. What resulted was this.
+[quote="Kíeros"]Out of curiosity, I took said image, copied it into paste, selected a random pixel and basic color, ran color replacement on it, and repeated the last two steps until I ran out of palette colors. What resulted was this.
 [img]http://i.imgur.com/EX20Dof.png[/img]
 I'm going to guess that the light blue thing descending from the sky is the mysterious hand that everyone was flipping out about, and that this doesn't look as scary as the actual image looks.[/quote]
 

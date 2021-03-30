@@ -7,7 +7,7 @@
 
 "Eurgh. I'm trying to think of a good place to start!"
 
-[quote=tegerioreo;7815604]TELL IT!!  For Piotyr's sake, JUST TELL IT ALREADY[/quote]
+[quote="tegerioreo"]TELL IT!!  For Piotyr's sake, JUST TELL IT ALREADY[/quote]
 
 [k]"Just start [i]somewhere[/i] Bina. This is getting ridiculous! What is this big secret?"[/k]
 
@@ -29,7 +29,7 @@ Bina flops onto her back.
 >>>DISPLAY_PICTURE:0765_a.png
 >>>NOTES:
 
-[quote=Xindaris;7815264]"helicopters into thunderstorms storms"[/quote]
+[quote="Xindaris"]"helicopters into thunderstorms storms"[/quote]
 
 Thankee sai!
 
