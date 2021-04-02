@@ -7,13 +7,13 @@
 
 [k]"I know, I saw"[/k] says Kendra, [k]"You almost bumped into me."[/k]
 
-[quote=Kíeros;7600557]> Tell her you jumped through time. [i]Again[/i].[/quote]
+[quote="Kíeros"]> Tell her you jumped through time. [i]Again[/i].[/quote]
 
 "No! I mean through time, again. Like, I touched one of the cracks, it went pop and woosh! Back in time."
 
 [k]"Really? Oh crap! You're not going to have another seizure are you?"[/k]
 
-[quote=Viiranen;7600623]Bina: Inexplicably, [i]don't[/i] have a seizure. Again.[/quote]
+[quote="Viiranen"]Bina: Inexplicably, [i]don't[/i] have a seizure. Again.[/quote]
 
 "Uh... doesn't look like it."
 
@@ -23,8 +23,8 @@
 
 [k]"No! I mean, like, I'm glad you're fine, but [i]why[/i] not? None of this time stuff makes any sense. What happened?"[/k]
 
-[quote=ArcusofBrambles;7601161]NOW is it time to go and get out of this cold?[/quote]
-[quote=meganopteryx;7601222]>Skedaddle[/quote]
+[quote="ArcusofBrambles"]NOW is it time to go and get out of this cold?[/quote]
+[quote="meganopteryx"]>Skedaddle[/quote]
 
 "I think I know why, but can we go? I mean, I'll tell you, but I just want to [i]go[/i]. You know? I really don't like this place."
 
@@ -60,7 +60,7 @@
 >>>DISPLAY_PICTURE:0381_a.png
 >>>NOTES:
 
-[quote=Xindaris;7600540]>Just mutter that you accidentally went backwards for a second and [i]check for the phone from the dream[/i][/quote]
+[quote="Xindaris"]>Just mutter that you accidentally went backwards for a second and [i]check for the phone from the dream[/i][/quote]
 
 Sorry, I know you've suggested this a few times now, but Bina didn't get to keep Lash's phone. She lost it, along with her bag and dress, by the time she'd turned the corner in the dream laundromat. 
 

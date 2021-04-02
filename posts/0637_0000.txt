@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7753108]> Can we get a percent on sureness of no explosion?[/quote]
+[quote="Kíeros"]> Can we get a percent on sureness of no explosion?[/quote]
 
 "Errr," Bina is not filled with confidence. "Exactly how sure are you that it's not going to go boom?"
 
@@ -11,7 +11,7 @@
 
 It'll have to do.
 
-[quote=wolftamer9;7753037]> What's it hooked up too?[/quote]
+[quote="wolftamer9"]> What's it hooked up too?[/quote]
 
 Bina points at the wire taped to the ceiling.
 
@@ -65,7 +65,7 @@ There's a long pause. Neither of them want to be the one to say it.
 
 Then they both speak at once. 
 
-[quote=wolftamer9;7753037]> Come on, let's do this already![/quote]
+[quote="wolftamer9"]> Come on, let's do this already![/quote]
 
 [k]"So should we - [/k]
 
@@ -81,7 +81,7 @@ Another pause.
 >>>DISPLAY_PICTURE:0637_a.png
 >>>NOTES:
 
-[quote=rachelcp;7753085]typo
+[quote="rachelcp"]typo
 [quote]"[b]If[/b] looks brilliant!" says Bina should be "[b]It[/b] looks brilliant!" says Bina [/quote][/quote]
 
 Ah! Thank you!

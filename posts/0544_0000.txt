@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote='?[GimeurCookie];7700067']> Run to the camp but say that if they have to split up again they'll meet here again.[/quote]
+[quote="GimeurCookie"]> Run to the camp but say that if they have to split up again they'll meet here again.[/quote]
 
 [k]"We should go together!"[/k]
 
@@ -11,7 +11,7 @@
 
 [k]"It's not safe. He's [i]dangerous[/i]. Besides -[/k]
 
-[quote=wolftamer9;7699848]> Go to camp. You still have to get that X-Ray gun, don't think we've forgotten.[/quote]
+[quote="wolftamer9"]> Go to camp. You still have to get that X-Ray gun, don't think we've forgotten.[/quote]
 
 [k]- there's useful stuff there that I think we can use."[/k]
 

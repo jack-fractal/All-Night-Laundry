@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tegerioreo;7902111]
+[quote="tegerioreo"]
 
 Group:  Get Bina to bed.
 
@@ -21,7 +21,7 @@ Bina: Protest weakly.[/quote]
 
 [k]"Why?"[/k]
 
-[quote=tegerioreo;7903097]Bina's knees:  Don't look right.[/quote]
+[quote="tegerioreo"]Bina's knees:  Don't look right.[/quote]
 
 "Because they're a mess."
 

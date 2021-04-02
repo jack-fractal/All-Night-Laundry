@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7845286]> Three: "Was there [i]any[/i] time you weren't in imminent danger?"
+[quote="Kíeros"]> Three: "Was there [i]any[/i] time you weren't in imminent danger?"
 > Bina: "Uh... no?"[/quote]
 
 "Has there been [i]any[/i] period of time in which you [i]haven't[/i] been in mortal danger?" asks Three, her voice dry and sounding bone tired.
@@ -22,11 +22,11 @@
 
 [k]"I don't think that counts."[/k]
 
-[quote=wolftamer9;7844622]> Do some frantic battle planning, then.[/quote]
+[quote="wolftamer9"]> Do some frantic battle planning, then.[/quote]
 
 "Eurgh. OK!" says Three. "You're going to have to extract yourselves somehow. I [i]think[/i] you can probably escape into the -"
 
-[quote=meganopteryx;7845179]> How do we go back to our Primary Temporal Position? Was there some sort of timer on that thing? [/quote]
+[quote="meganopteryx"]> How do we go back to our Primary Temporal Position? Was there some sort of timer on that thing? [/quote]
 
 "Wait!" says Bina, "Tell us what 'Primary temporal position' is and how we get back to it!"
 

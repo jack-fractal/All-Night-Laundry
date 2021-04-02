@@ -3,14 +3,14 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=FreyAlfheim;7359843]
+[quote="FreyAlfheim"]
 > Don't get distracted. Keep an eye on Gregor and keep sneaking.[/quote]
-[quote=Kíeros;7359730]> Okay, let's [i]not[/i] distract ourselves with bodybags.[/quote]
+[quote="Kíeros"]> Okay, let's [i]not[/i] distract ourselves with bodybags.[/quote]
 
 No time for that. The box of bodybags goes back on the pile of stuff. 
 
-[quote=FreyAlfheim;7359843]> If you can grab a gas mask quickly and quietly, do. It might be necessary later. Don't put it on unless you're sure you'll need it - it'll muffle your senses and we need to be aware of what Gregor is doing.[/quote]
-[quote=Corpseguide;7359729]> Put on the gas mask. They're there for a reason![/quote]
+[quote="FreyAlfheim"]> If you can grab a gas mask quickly and quietly, do. It might be necessary later. Don't put it on unless you're sure you'll need it - it'll muffle your senses and we need to be aware of what Gregor is doing.[/quote]
+[quote="Corpseguide"]> Put on the gas mask. They're there for a reason![/quote]
 
 It would take too long to put one on now, but she picks up one of the filter masks. 
 
@@ -22,11 +22,11 @@ She's never worn one of these things before. Hopes it fits.
 
 Right now there's no time to fiddle with the intimidating number of straps on the back, so she decides to just carry it with her for the moment.
 
-[quote=tegerioreo;7359893]Just keep sneaking.  Try not to think about the graveyard of deformed Green Lady victims which they have undoubtedly discovered.[/quote]
+[quote="tegerioreo"]Just keep sneaking.  Try not to think about the graveyard of deformed Green Lady victims which they have undoubtedly discovered.[/quote]
 
 La la la. She's not listening to you!
 
-[quote=Beastnix;7359900]>Don't think about the thunder[/quote]
+[quote="Beastnix"]>Don't think about the thunder[/quote]
 
 Or the thunder! La la la - 
 
@@ -48,7 +48,7 @@ Faaaaaaaaantastic...
 >>>DISPLAY_PICTURE:0136_b.jpg
 >>>NOTES:
 
-[quote=Chizita;7359951]Wonder where the heck the bandages went from your arm?!!?!! Oh nooooooooooo![/quote]
+[quote="Chizita"]Wonder where the heck the bandages went from your arm?!!?!! Oh nooooooooooo![/quote]
 Thank you! 
 
 I missed those. All fixed.

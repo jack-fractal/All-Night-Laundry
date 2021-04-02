@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=ICan'tGiveCredit;7458157]==>[/quote]
+[quote="ICan'tGiveCredit"]==>[/quote]
 
 [k]"You know, I think I met her?"[/k]
 
@@ -51,7 +51,7 @@ Bina and Kendra continue down the tunnel. The floor slopes upward, not a lot, bu
 
 "I don't think this place got the memo."
 
-[quote=Kíeros;7457219]> Kendra: Realise that Bina is speaking perfectly.
+[quote="Kíeros"]> Kendra: Realise that Bina is speaking perfectly.
 > Bina: Don't.[/quote]
 
 [k]"You know you're, uh, speaking ok now? No more messed up words."[/k]

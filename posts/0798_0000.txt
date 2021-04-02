@@ -3,11 +3,11 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BlueMoonHound;7833675]Do you see that walkway?[/quote]
+[quote="BlueMoonHound"]Do you see that walkway?[/quote]
 
 Right! Yes. The walkway! Good idea. 
 
-[quote=tegerioreo;7833923]Set up sniper nest on walkway.[/quote]
+[quote="tegerioreo"]Set up sniper nest on walkway.[/quote]
 
 It would be the perfect vantage.
 
@@ -21,7 +21,7 @@ In the dark...
 
 [img]0798_a.png[/img]
 
-[quote=tegerioreo;7833923]Relax.  Breathe deeply.  You can do this.[/quote]
+[quote="tegerioreo"]Relax.  Breathe deeply.  You can do this.[/quote]
 
 No problem!
 

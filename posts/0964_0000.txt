@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Beastnix;7882884]>Saying she needs pictures to prove it right?[/quote]
+[quote="Beastnix"]>Saying she needs pictures to prove it right?[/quote]
 
 [k]"You mean... it doesn't matter unless you can prove it?"[/k]
 
@@ -39,11 +39,11 @@ Elizabeth pauses, realizing she's started yelling again. [e]"Anyway, after that,
 >>>DISPLAY_PICTURE:0964_a.png
 >>>NOTES:
 
-[quote=Medinoc;7882901]Note: It should be "[u]than[/u] I am entirely comfortable with"[/quote]
+[quote="Medinoc"]Note: It should be "[u]than[/u] I am entirely comfortable with"[/quote]
 
 Thank you! That has been messing me up since grade school. 
 
-[quote=Lacemaker;7883067]At the beginning of this magical journey, I thought I understood what was going on. A girl just wants to do her laundry, but oh no! Spooky things!
+[quote="Lacemaker"]At the beginning of this magical journey, I thought I understood what was going on. A girl just wants to do her laundry, but oh no! Spooky things!
 
 Then, there was a very large period of time when I thought there would be no understanding of this story. I just accepted that there was never going to be any explanation, it would be Dr. Who all over again, where I just nodded my head and pretended to understand the time travel and just sat back and enjoyed character development and great quips without really getting the plot. 
 

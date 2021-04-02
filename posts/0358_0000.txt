@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dregadude;7584272]>Breathe onto your hands and rub them together to try and warm them? Or are they just sore?[/quote]
+[quote="Dregadude"]>Breathe onto your hands and rub them together to try and warm them? Or are they just sore?[/quote]
 
 [k]"What'd you do to your hands?"[/k]
 
@@ -39,7 +39,7 @@
 
 Bina doesn't say anything to that.
 
-[quote=Corpseguide;7584407]>Once Kendra is up try and find a gel pack that isn't frozen and hold it between your hands[/quote]
+[quote="Corpseguide"]>Once Kendra is up try and find a gel pack that isn't frozen and hold it between your hands[/quote]
 
 [k]"Dang, it is still freezing down here. Get over here under the blanket again, or we're going to have to figure out what the plural for hypothermia is. Are there any more hot-pads?"[/k]
 
@@ -53,7 +53,7 @@ Bina doesn't say anything to that.
 >>>DISPLAY_PICTURE:0358_a.png
 >>>NOTES:
 
-[quote=1412;7584740][quote=Kytin;7584432]Um... Possibly your hands are hurting because you have grown claws?[/quote]
+[quote="1412"][quote="Kytin"]Um... Possibly your hands are hurting because you have grown claws?[/quote]
 I think that's just an art thing... hopefully.
 Or not, because having claws is cool.[/quote]
 Yes, that was just an art thing. 

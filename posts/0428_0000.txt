@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=xooxu;7630841]>"Did you not get our message?"[/quote]
+[quote="xooxu"]>"Did you not get our message?"[/quote]
 
 "Uh, we tries to leave a message."
 
@@ -47,7 +47,7 @@ The static [i]is[/i] just as bad, but now the voice sounds flatter and tinny. Bi
 
 "Ack! Sorry! Uh, sorry, that was me."
 
-[quote=Kíeros;7630724]> Tell them that you [...] would [i]really like[/i] to get out.[/quote]
+[quote="Kíeros"]> Tell them that you [...] would [i]really like[/i] to get out.[/quote]
 
 "Look, we know it's a dangerous situation! That's why we'd really like to [i]leave[/i] this situation as quickly as we possibly can!"
 
@@ -61,7 +61,7 @@ The static [i]is[/i] just as bad, but now the voice sounds flatter and tinny. Bi
 
 [e][i]"Is that another person? How many of you are down there?"[/i][/e]
 
-[quote=Lacemaker;7630877]Answer the nice person's question. Your name is Bina, and you are trapped here with your friend Kendra and are very lost and possibly in need of medical attention.[/quote]
+[quote="Lacemaker"]Answer the nice person's question. Your name is Bina, and you are trapped here with your friend Kendra and are very lost and possibly in need of medical attention.[/quote]
 
 "There's just the two of us. My name is Bina Miryala, I'm a student at McGill, and I'm with Kendra here. She's a traffic enforcement officer - 
 
@@ -85,7 +85,7 @@ When the voice comes back it sounds different, flat, accusing, [e][i]"[b]What[/b
 
 Wooo! Thanks Professor! I hope you're enjoying it.
 
-[quote=tronn;7630662]Seconding this. Also, this entire sequence made me laugh, well played![/quote]
+[quote="tronn"]Seconding this. Also, this entire sequence made me laugh, well played![/quote]
 
 Yay! It is always nice to know that, when you're trying to be funny, you're actually succeeding.
 

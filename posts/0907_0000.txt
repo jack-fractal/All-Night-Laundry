@@ -3,8 +3,8 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=1412;7866912]>Do that thing.[/quote]
-[quote=wolftamer9;7867203]I'm... [i]pretty sure[/i] those shouldn't be doing that.
+[quote="1412"]>Do that thing.[/quote]
+[quote="wolftamer9"]I'm... [i]pretty sure[/i] those shouldn't be doing that.
 
 > Do the thing.[/quote]
 [quote=DS]> DO THE MOMENTY THING![/quote]
@@ -19,7 +19,7 @@ Bina does the thing.
 >>>DISPLAY_PICTURE:0907_a.gif
 >>>NOTES:
 
-[quote=royalPawn;7867252][quote] <terrible spelling>[/quote]
+[quote="royalPawn"][quote] <terrible spelling>[/quote]
 That's not right, is it?[/quote]
 
 Merci my friend!

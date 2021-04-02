@@ -3,17 +3,17 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7768747]> Please be something nice and sensible. Please be something nice and sensible.[/quote]
+[quote="Kíeros"]> Please be something nice and sensible. Please be something nice and sensible.[/quote]
 
 [k]"It's... I don't know,"[/k] she shrugs, [k]"Floating wood?"[/k]
 
-[quote=xooxu;7768753]A giant, rotting tree.[/quote]
+[quote="xooxu"]A giant, rotting tree.[/quote]
 
 [k]"Like rotten branches of a tree or something?"[/k] she doesn't sound entirely sure of herself. [k]"An [i]enormous[/i] tree."[/k]
 
 [img]0678_a.png[/img]
 
-[quote=Kíeros;7768747]> Fail to be something nice and sensible.[/quote]
+[quote="Kíeros"]> Fail to be something nice and sensible.[/quote]
 
 [k]"No, wait, not branches. Roots. The roots of a tree gone all septic. A whole bunch of them. It's not very -"[/k]
 
@@ -29,7 +29,7 @@ And Bina realizes that she hasn't exactly looked around yet.
 >>>DISPLAY_PICTURE:0678_a.png
 >>>NOTES:
 
-[quote=Bohandas;7768901]You know, ever since her hand went freaky (or rather when I first read that part about a week to a week and a half ago) I've been thinking of something like this:
+[quote="Bohandas"]You know, ever since her hand went freaky (or rather when I first read that part about a week to a week and a half ago) I've been thinking of something like this:
 
 [spoiler][img]http://s20.postimg.org/ianrv1upp/All_Night_Laundry_Army_of_Darkness_5_scaled_B.jpg[/img][/spoiler][/quote]
 

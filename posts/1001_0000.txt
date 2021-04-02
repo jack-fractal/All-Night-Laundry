@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=wolftamer9;7893929]> How do you feel?[/quote]
+[quote="wolftamer9"]> How do you feel?[/quote]
 
 Angry.
 
@@ -19,7 +19,7 @@ Bina looks at her hand.
 >>>DISPLAY_PICTURE:1001_a.png
 >>>NOTES:
 
-[quote=wolftamer9;7893929]Daaaang! Got kinda close too, but I probably needed another hour or more at least, so it wasn't [i]that[/i] close. Got a lot of it done tonight though. Here's what I have at the moment, I'll show you when it's done:
+[quote="wolftamer9"]Daaaang! Got kinda close too, but I probably needed another hour or more at least, so it wasn't [i]that[/i] close. Got a lot of it done tonight though. Here's what I have at the moment, I'll show you when it's done:
 [img]fanart/wolftamer9_2016_02_14.png[/img]
 
 Art is hard. Life is pain.

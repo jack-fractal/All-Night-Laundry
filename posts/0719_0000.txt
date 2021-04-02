@@ -3,11 +3,11 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=wolftamer9;7792158]> You're gonna unlight 'er up, aren't you?[/quote]
+[quote="wolftamer9"]> You're gonna unlight 'er up, aren't you?[/quote]
 
 "You mean use the unlight?"
 
-[quote=Xander;7792187]The unlight might be helpful, yes... But this close to the botfly?[/quote]
+[quote="Xander"]The unlight might be helpful, yes... But this close to the botfly?[/quote]
 
 "I don't know if it's safe so close to the-"
 
@@ -21,7 +21,7 @@
 
 [k]"Don't think about it that way. Just ask yourself, if you were going to send something important to yourself, where would you put it?"[/k]
 
-[quote=BreadProduct;7790264]Look for the calendar hole.[/quote]
+[quote="BreadProduct"]Look for the calendar hole.[/quote]
 
 "In the wall, I guess. Where the calendar was."
 

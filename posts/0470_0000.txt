@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Kíeros;7653214]> So, what happened after you jumped?[/quote]
+[quote="Kíeros"]> So, what happened after you jumped?[/quote]
 
 There had been a moment of weightlessness combined with transcendent terror, and then she'd landed.
 
@@ -15,7 +15,7 @@ She tried not to think. She just started climbing down. She remembers thinking t
 
 Then she heard Bina screaming.
 
-[quote=Sporothrix;7653035]> Did you actually [i]see[/i] Bina fall to her death?[/quote]
+[quote="Sporothrix"]> Did you actually [i]see[/i] Bina fall to her death?[/quote]
 
 She'd been on the rails of the gondola. Kendra could see that she had been getting ready to jump but then...
 
@@ -55,7 +55,7 @@ No.
 
 None of that matters, because it's not going to have happened. 
 
-[quote=Morphimus;7653038]> Kendra: Don't be alone.[/quote]
+[quote="Morphimus"]> Kendra: Don't be alone.[/quote]
 
 A buzzing, clicking noise echoes softly in the stillness. 
 
@@ -65,7 +65,7 @@ Crap! It's one of them.
 >>>DISPLAY_PICTURE:0470_d.png
 >>>NOTES:
 
-[quote=tronn;7653140]Haha pixel arts!
+[quote="tronn"]Haha pixel arts!
 
 Also, having two Act fives is obviously due to [i]time shenanigans[/i] and clever planning by jack-fractal.
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=1412;7865565]Continue to get as far away from this place as possible.[/quote]
+[quote="1412"]Continue to get as far away from this place as possible.[/quote]
 
 She does, until she runs out of away.
 
@@ -39,7 +39,7 @@ And if she's lucky, it might even work...
 >>>DISPLAY_PICTURE:0901_a.png
 >>>NOTES:
 
-[quote=curiousTerminal;7865729]900 days! Only 100 more to go before the next "big' milestone!
+[quote="curiousTerminal"]900 days! Only 100 more to go before the next "big' milestone!
 
 <snop_for_evisceration>[/quote]
 

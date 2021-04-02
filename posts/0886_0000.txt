@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Maddparrot;7861342]Is the door locked?[/quote]
+[quote="Maddparrot"]Is the door locked?[/quote]
 
 Yes, thank all the gods who are listening...
 

@@ -3,9 +3,9 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Xander;7637460]Kendra: Ok, so what if they let you go? Are you just gonna leave Bina to fend for herself? After everything she's done for you?[/quote]
+[quote="Xander"]Kendra: Ok, so what if they let you go? Are you just gonna leave Bina to fend for herself? After everything she's done for you?[/quote]
 
-[quote=AweshumeT;7637469]If necessary, lie in order to get Bina to stay with you / Remain close to her.[/quote]
+[quote="AweshumeT"]If necessary, lie in order to get Bina to stay with you / Remain close to her.[/quote]
 
 [k]"I'm not leaving you behind."[/k]
 
@@ -21,7 +21,7 @@
 >>>DISPLAY_PICTURE:0441_c.png
 >>>NOTES:
 
-[quote=xooxu;7637481]In which Bina makes all the cute faces - Updated[every single update]
+[quote="xooxu"]In which Bina makes all the cute faces - Updated[every single update]
 
 [img]https://dl.dropboxusercontent.com/u/95878520/binacutefaces.gif[/img]
 
@@ -32,7 +32,7 @@ This is fantastic!
 [spoiler]I love how you included the one of her getting hit by a [i]phone[/i]. That is hilarious![/spoiler]
 
 
-[quote=Lacemaker;7637485]Look, I'm going to be really honest and serious here for a moment. My grandma has diabetes. 
+[quote="Lacemaker"]Look, I'm going to be really honest and serious here for a moment. My grandma has diabetes. 
 
 [snip]
 

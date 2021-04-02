@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dregadude;7602678]>Examine shard.[/quote]
+[quote="Dregadude"]>Examine shard.[/quote]
 
 Bina can't really do that right now. Before they started walking, Bina put the shard inside the thermos. She then put the thermos inside the backpack, and she's just handed the backpack to Kendra. Besides, she doesn't think it's a good idea to fiddle with it while walking through mud that may or may not be full of dead people.
 
@@ -11,7 +11,7 @@ Bina can't really do that right now. Before they started walking, Bina put the s
 
 "I am [i]not[/i] taking the backpack."
 
-[quote=Kíeros;7602765]> Kendra: Begrudgingly take it.[/quote]
+[quote="Kíeros"]> Kendra: Begrudgingly take it.[/quote]
 
 [k]"I know! OK. I get it. That wasn't what I was saying."[/k]
 
@@ -33,7 +33,7 @@ Bina can't really do that right now. Before they started walking, Bina put the s
 
 [k]"Oh, right. [/k]
 
-[quote=Viiranen;7602852]Something: Be found in the mud.[/quote]
+[quote="Viiranen"]Something: Be found in the mud.[/quote]
 
 [k]"What I was saying was, 'Hey! That piece of plastic over there sure doesn't look 100 years old."[/k]
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=The]> Well, none of the equipment is running and the power is off, so unless [i]you[/i] do something to light the place up, a fire seems unlikely.  Otherwise it would have caught fire while just sitting there waiting to be renovated.  It's apparent flammability is probably nothing to worry about.[/quote]
+[quote="The One Guy"]> Well, none of the equipment is running and the power is off, so unless [i]you[/i] do something to light the place up, a fire seems unlikely.  Otherwise it would have caught fire while just sitting there waiting to be renovated.  It's apparent flammability is probably nothing to worry about.[/quote]
 
 "Is that, I mean, is that something you have to worry about?" asks Bina.
 
@@ -37,7 +37,7 @@ Derailed, Melissa seems to pull herself together, "Right! Pull up those terrible
 >>>DISPLAY_PICTURE:1025_a.png
 >>>NOTES:
 
-[quote=curiousFellow;7901227]Bold text is Kendra, right? She probably isn't supposed to be addressing herself.[/quote]
+[quote="curiousFellow"]Bold text is Kendra, right? She probably isn't supposed to be addressing herself.[/quote]
 
 Ah! Merci. Thank you.
 

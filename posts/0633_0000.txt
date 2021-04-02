@@ -19,7 +19,7 @@ It takes a few seconds for Bina to catch up with that sentence. "You don't know 
 
 [k]"We're going to have to walk to wherever the Moment is, and I thought you should get as much rest as you could before we uh... try to do that whole thing."[/k]
 
-[quote=Kíeros;7751412]> Do you have anything more, and hopefully closer, that could block the door?[/quote]
+[quote="Kíeros"]> Do you have anything more, and hopefully closer, that could block the door?[/quote]
 
 "Do we have anything else to block this door with? I don't think I can really - "
 
@@ -29,7 +29,7 @@ It takes a few seconds for Bina to catch up with that sentence. "You don't know 
 
 "It's mostly OK. I think we're good."[/k]
 
-[quote=CrimsonMage;7751314]>Well, you're conscious now. It's time to time travel.[/quote]
+[quote="CrimsonMage"]>Well, you're conscious now. It's time to time travel.[/quote]
 
 "So, time machine time?"
 

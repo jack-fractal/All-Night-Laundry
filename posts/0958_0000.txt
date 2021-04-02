@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=xooxu;7880900]>Kendra: Literally nobodies. People Gregor got involved. But who knows, [i]fate[/i] seems to have something to do with you two. You can tell her what you do and everything, but she's probably expecting the answer to explain in what authority you're withholding information.[/quote]
+[quote="xooxu"]>Kendra: Literally nobodies. People Gregor got involved. But who knows, [i]fate[/i] seems to have something to do with you two. You can tell her what you do and everything, but she's probably expecting the answer to explain in what authority you're withholding information.[/quote]
 
 [k]"We're... nobodies. I'm a parking enforcement agent and Bina's a waitress. We're both students, I think Bina's at Concordia for journalism and I'm at McGill for Aerospace Engineering. Stuff has... happened since we got all mixed up with this, but we're regular people."[/k]
 
@@ -13,7 +13,7 @@
 
 [e]"Argh, fine. Ask your question."[/e]
 
-[quote=xooxu;7880900]Ask her who she works for. Is there a specific branch of the Canadian government? Private contractor or institution? University research team? What?[/quote]
+[quote="xooxu"]Ask her who she works for. Is there a specific branch of the Canadian government? Private contractor or institution? University research team? What?[/quote]
 
 [k]"Who do you work for?"[/k]
 

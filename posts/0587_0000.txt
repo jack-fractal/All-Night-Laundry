@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=badatnamesbluhbluh;7726408]>....So how's that arm?[/quote]
+[quote="badatnamesbluhbluh"]>....So how's that arm?[/quote]
 
 My hand is fine. If I don't think about it, it doesn't hurt nearly at all.
 
@@ -27,7 +27,7 @@ You can get used to [i]anything[/i], given enough time.
 >>>DISPLAY_PICTURE:0587_a.gif
 >>>NOTES:
 
-[quote=Alcastar;7727235]Art:
+[quote="Alcastar"]Art:
 [img]http://i.imgur.com/zxVa47k.png[/img]
 
 lets face it i'm only here for the laundry anymore[/quote]

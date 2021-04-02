@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dalmationer;7831091]Where do the wires that are going into the house and down the street lead?[/quote]
+[quote="Dalmationer"]Where do the wires that are going into the house and down the street lead?[/quote]
 
 Power and [i]more[/i] power. The Viewers devour electricity in enormous quantities while running. They're using the stove sockets from two houses, and the dryer socket from a third. They have adequate power, just no working Devices. 
 
@@ -43,7 +43,7 @@ These parts she's looking at are the parts of the design that Twelve was complai
 
 If Three didn't want them to take the Viewers apart she should have made sure they kept working. The phrase wraps its way around her brain in a hazy loop. If she didn't want them to take the Viewers apart...
 
-[quote=tegerioreo;7830971]The various components might need to be arranged in a [i]meaningful[/i] configuration, relative to each other and the people using them.[/quote]
+[quote="tegerioreo"]The various components might need to be arranged in a [i]meaningful[/i] configuration, relative to each other and the people using them.[/quote]
 
 They don't [i]look[/i] much like filters, but then again they don't look much like clamps either. They look, almost, like something else. Something familiar.
 
@@ -71,7 +71,7 @@ If she had [i]wanted[/i] them to take them apart...
 >>>DISPLAY_PICTURE:0792_c.png
 >>>NOTES:
 
-[quote=RCE;7830557]+1 Reader, this is awesome![/quote]
+[quote="RCE"]+1 Reader, this is awesome![/quote]
 
 Aaah! Thank you for reading!
 

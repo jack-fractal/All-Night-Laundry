@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dregadude;7450515]>I get the feeling that you should DEFINITELY not point that at Kendra. At the risk of blinding, brainwashing, or vaporising her.[/quote]
+[quote="Dregadude"]>I get the feeling that you should DEFINITELY not point that at Kendra. At the risk of blinding, brainwashing, or vaporising her.[/quote]
 
 A very good point. She keeps the beam pointing at the mud for the moment.
 
@@ -21,7 +21,7 @@ Bina hears the noise of something snapping and then another splash.
 
 [k]"Yes, yes, I'm - ouch - I'm fine. I just sat on some... wow, hello splinters. Ouch. Great. Just great. I'm ok though. Mostly ok. Ouch. Try not to sit on anything made of wood. They may, you know, break... sometimes. And stick you with lots of splinters! Ow. Aaand I'm covered in mud again. I am getting soooo many tetanus shots when I get out of here. So many."[/k]
 
-[quote=Zylo;7450545]> Look around with your flashlight arm.[/quote]
+[quote="Zylo"]> Look around with your flashlight arm.[/quote]
 
 "Right."
 
@@ -57,7 +57,7 @@ Oh. OOOoooh! She's been heading in the wrong direction. Hurray!
 
 OK, if she's right about the tunnel then, judging by the roof, she should be going [i]that[/i] way. In front of her. Rather than [i]behind[/i] her, which is the way she WAS going.
 
-[quote=Beastnix;7450676]>That's not enough light though, wait did something shift just now?[/quote]
+[quote="Beastnix"]>That's not enough light though, wait did something shift just now?[/quote]
 
 There is another heavy crunching noise, and then a wet slurping as something else slides into the mud. Some pebbles clatter down the slopes of rubble.
 
@@ -79,7 +79,7 @@ Her ticket should be well and truly punched, shouldn't it? There is an awful lot
 >>>DISPLAY_PICTURE:0223_e.png
 >>>NOTES:
 
-[quote=Ulthuanelf;7450585]I swear that green light is breaking the fourth wall.
+[quote="Ulthuanelf"]I swear that green light is breaking the fourth wall.
 Whenever there's an update I just end up staring at it instead of thinking of commands.[/quote]
 That's sort of spooky.... 
 

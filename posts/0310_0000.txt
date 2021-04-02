@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tegerioreo;7539324]Everybody knows:  When the angles are wrong, GTFO.  Haven't you read your Lovecraft??[/quote]
+[quote="tegerioreo"]Everybody knows:  When the angles are wrong, GTFO.  Haven't you read your Lovecraft??[/quote]
 
 It wasn't like that! It wasn't [i]magic[/i] wrongness. It was just the buildings weren't placed right. They were too close together, and they didn't follow the hillside properly.
 
@@ -11,7 +11,7 @@ There was no parking lot. No power-lines. Just these big brick buildings in the 
 
 And they weren't all on a grid either, some of them were placed as though they'd just been shoved in wherever they would fit. 
 
-[quote=meganopteryx;7539460]>well! follow her in, as long as you stick together things should be alright, right?[/quote]
+[quote="meganopteryx"]>well! follow her in, as long as you stick together things should be alright, right?[/quote]
 
 Good idea!
 
@@ -27,7 +27,7 @@ So I ran to catch up with Sam.
 
 [img]0310_a.png[/img]
 
-[quote=Maltor]>Bina: take control of the story. If it's going to be told either way, you might as well have some control over it.[/quote]
+[quote="Maltor Drey"]>Bina: take control of the story. If it's going to be told either way, you might as well have some control over it.[/quote]
 
 I tried, but - 
 
@@ -75,7 +75,7 @@ No voices.
 >>>DISPLAY_PICTURE:0310_a.png
 >>>NOTES:
 
-[quote=wolftamer9;7539121]
+[quote="wolftamer9"]
 > Come on, Bina, you just have to ask yourself a simple question: [url=https://soundcloud.com/they-might-be-giants/am-i-awake]Am I Awake?[/url]
 
 (I saw the link and couldn't help myself, sorry.)[/quote]

@@ -3,9 +3,9 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote='✭[GimeurCookie];7901053']> Finally, your growth spurt finally hit![/quote]
+[quote="GimeurCookie"]> Finally, your growth spurt finally hit![/quote]
 
-[quote=Beastnix;7901065]>someone calling you fat is the funniest thing that's happened on this adventure[/quote]
+[quote="Beastnix"]>someone calling you fat is the funniest thing that's happened on this adventure[/quote]
 
 [k]"Bina, are you crying again? No, wait - you're [i]giggling[/i]?"[/k]
 
@@ -41,7 +41,7 @@
 >>>DISPLAY_PICTURE:1024_a.png
 >>>NOTES:
 
-[quote=a52;7901011]Emmanuel looks a lot like Kendra minus hair[/quote]
+[quote="a52"]Emmanuel looks a lot like Kendra minus hair[/quote]
 
 Hair! Right. Gah,  yeah, that's just not a very good design.... lemme fix that some.
 

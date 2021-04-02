@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=MrBear;7850874]Kendra> Bina was totally 100% invested behind this plan and nothing could go wrong, how do you feel about this?[/quote]
+[quote="MrBear"]Kendra> Bina was totally 100% invested behind this plan and nothing could go wrong, how do you feel about this?[/quote]
 
 [k]"So, wait, the plan now involves [i]three[/i] time machines?"[/k]
 
@@ -29,7 +29,7 @@ Bina had been down in the basement kicking and prodding the various time machine
 >>>DISPLAY_PICTURE:0848_a.png
 >>>NOTES:
 
-[quote=tegerioreo;7850951]Be more [b]THAN[/b] enough.[/quote]
+[quote="tegerioreo"]Be more [b]THAN[/b] enough.[/quote]
 
 Merci mon ami.
 

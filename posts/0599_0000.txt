@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=badatnamesbluhbluh;7733141]>What can you see behind the wall from this angle?[/quote]
+[quote="badatnamesbluhbluh"]>What can you see behind the wall from this angle?[/quote]
 
 Errr, not much. 
 
 I'm just going to go take a look. 
 
-[quote=wolftamer9;7733142]> Enough observation, go see who's piloting this ship.[/quote]
+[quote="wolftamer9"]> Enough observation, go see who's piloting this ship.[/quote]
 
 It's going to be another me. I just [i]know[/i] it. It better be twelve again and not something ridiculous.
 
@@ -47,11 +47,11 @@ Then I realize that I [i]recognize[/i] that voice. I've heard it before.
 >>>DISPLAY_PICTURE:0599_a.png
 >>>NOTES:
 
-[quote=a52;7733144][quote]it [b]look[/b] very tasty[/quote][/quote]
+[quote="a52"][quote]it [b]look[/b] very tasty[/quote][/quote]
 
 Merci!
 
-[quote=badatnamesbluhbluh;7733141]"Theenking"?[/quote]
+[quote="badatnamesbluhbluh"]"Theenking"?[/quote]
 
 I'm leaving that one in. That one's on purpose.
 

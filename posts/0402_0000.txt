@@ -5,7 +5,7 @@
 
 "Come have a look at this map."
 
-[quote=Sporothrix;7614363]> Any idea where you came from/through in that mess of squares?[/quote]
+[quote="Sporothrix"]> Any idea where you came from/through in that mess of squares?[/quote]
 
 [k]"What am I looking at here? Which way did we come in?"[/k]
 
@@ -45,13 +45,13 @@
 
 [k]"Everything on the tables is. I haven't checked the boxes yet."[/k]
 
-[quote=The]> There's a [url=http://en.wikipedia.org/wiki/Metro_(rapid_transit)]metro[/url] on the map!  After taking care of business here, that may be your way out![/quote]
+[quote="The One Guy"]> There's a [url=http://en.wikipedia.org/wiki/Metro_(rapid_transit)]metro[/url] on the map!  After taking care of business here, that may be your way out![/quote]
 
 "Ok, I think we can get out here. See? Metro. I bet that's a subway tunnel or something."
 
 [img]0402_e.png[/img]
 
-[quote=tegerioreo;7614429]You'd think if all this had been here when the Metro was dug, somebody else would have known about it before now...[/quote]
+[quote="tegerioreo"]You'd think if all this had been here when the Metro was dug, somebody else would have known about it before now...[/quote]
 
 [k]"Yeah, but... I mean, if it were a subway tunnel, wouldn't someone have found it? I mean..."[/k]
 
@@ -63,7 +63,7 @@
 >>>DISPLAY_PICTURE:0402_e.png
 >>>NOTES:
 
-[quote=Viiranen;7614284]Bina: Also Wong (The nice-ish lady stuck to the TV) lied to you (I think). Her names right there. She said she was working on a building(?), when in reality she was in charge of this thing instead. What ever [i]this[/i] is... [Either that or I'm remembering everything wrong][/quote]
+[quote="Viiranen"]Bina: Also Wong (The nice-ish lady stuck to the TV) lied to you (I think). Her names right there. She said she was working on a building(?), when in reality she was in charge of this thing instead. What ever [i]this[/i] is... [Either that or I'm remembering everything wrong][/quote]
 
 You're remembering it sort of wrong, specifically her name. The name of the woman on the couch is Sun-ja Hyung, not Wong. She might have been lying to Bina, but, if she was, it would not be the way you are thinking.
 

@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7674933]Nothing is more spooky than absolutely nothing happening.[/quote]
+[quote="BreadProduct"]Nothing is more spooky than absolutely nothing happening.[/quote]
 
 Yeeeeeep. This isn't ominous at all.
 
 [img]0514_a.png[/img]
 
-[quote=wolftamer9;7675050]> Take a closer look at that big X. Did you or Kendra make it? Is it new or old?[/quote]
+[quote="wolftamer9"]> Take a closer look at that big X. Did you or Kendra make it? Is it new or old?[/quote]
 
 Kendra made it. They'd only had a few seconds because the Wigglers had been pretty much on their heels, but she'd been adamant about marking the building. 
 
@@ -19,7 +19,7 @@ Bina's not sure why. It doesn't make it any more visible or anything. It's the o
 
 It's mostly dried now, but still clear and visible, even from a distance.
 
-[quote=Kíeros;7674999]> Call out to see if she's nearby.[/quote]
+[quote="Kíeros"]> Call out to see if she's nearby.[/quote]
 
 The quiet is getting to her, she doesn't want to shout but she risks a loud whisper. 
 
@@ -35,7 +35,7 @@ There is no response.
 >>>DISPLAY_PICTURE:0514_a.png
 >>>NOTES:
 
-[quote=1412;7675043]TYPOCHECK!
+[quote="1412"]TYPOCHECK!
 there's an "excited" that should probably be "exited".
 Unless Bina's actions have thrilled the pipe so much that it is on the edge of its seat, that is.[/quote]
 

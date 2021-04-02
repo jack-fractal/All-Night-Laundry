@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=juddy555;7856619]>Bina: "Then later when we look back, we might think that this is the clearest and the best decision."[/quote]
+[quote="juddy555"]>Bina: "Then later when we look back, we might think that this is the clearest and the best decision."[/quote]
 
 "Don't worry Kendra!"
 
@@ -27,7 +27,7 @@
 >>>DISPLAY_PICTURE:0867_b.png
 >>>NOTES:
 
-[quote=juddy555;7856619]I think that is supposed to be Kendra there, right?[/quote]
+[quote="juddy555"]I think that is supposed to be Kendra there, right?[/quote]
 
 Aha! Thank you!
 

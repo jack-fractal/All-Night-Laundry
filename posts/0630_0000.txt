@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=a52;7750026]>Pretend to push, but actually hoard stuff from the shelves[/quote]
+[quote="a52"]>Pretend to push, but actually hoard stuff from the shelves[/quote]
 
 Bina thinks Kendra has already looked through this stuff, but there might be some useful things left. She thinks there's maybe a hammer or something under some of the - 
 
@@ -19,9 +19,9 @@ Eurgh. Her hands. She hasn't been very nice to them recently, and she left the g
 
 She decides to try pushing first - 
 
-[quote=tegerioreo;7749807]Go around to the other side and sort of [i]lean[/i] against it.  That's helping a little, right?[/quote]
+[quote="tegerioreo"]Go around to the other side and sort of [i]lean[/i] against it.  That's helping a little, right?[/quote]
 
-[quote=wolftamer9;7749903]> Help Kendra and push the shelf in the best way you can, which I assume is leaning on it slightly while not losing your balance.[/quote]
+[quote="wolftamer9"]> Help Kendra and push the shelf in the best way you can, which I assume is leaning on it slightly while not losing your balance.[/quote]
 
 - if that doesn't work she'll just lean on it with her face. That'll help a little. Right?
 
@@ -29,7 +29,7 @@ The layers of chipped paint make it feel nobbley under the hands.
 
 [k]"One."[/k]
 
-[quote=Kofiman;7750281]You know, Bina, you seem to be suprisingly unaffected by all your wounds.
+[quote="Kofiman"]You know, Bina, you seem to be suprisingly unaffected by all your wounds.
 
 Are you still missing a tooth?[/quote]
 
@@ -43,7 +43,7 @@ It is pretty weird. She feels pretty all right.
 
 Like, you know, [i]considering[/i].
 
-[quote=rachelcp;7749715]>move around and attempt to push just to be reminded with excruciating agony of your major injuries to your arms and more recently ribs[/quote]
+[quote="rachelcp"]>move around and attempt to push just to be reminded with excruciating agony of your major injuries to your arms and more recently ribs[/quote]
 
 Ah crap!
 
@@ -57,7 +57,7 @@ OK! Ow! Yes! This hurts!
 >>>DISPLAY_PICTURE:0630_a.png
 >>>NOTES:
 
-[quote=a52;7750026]Jack, are you still doing that thing where you only take thirteen minutes per panel? If so, holy shit. These last few panels are really detailed, and I commend you for that, whether or not you're timing yourself.[/quote]
+[quote="a52"]Jack, are you still doing that thing where you only take thirteen minutes per panel? If so, holy shit. These last few panels are really detailed, and I commend you for that, whether or not you're timing yourself.[/quote]
 
 Jeepers no! I [i]never[/i] really did that. It was mostly a mental trick to get myself to push past my own obsessive perfectionism and actually start the damned thing.
 

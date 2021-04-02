@@ -3,19 +3,19 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Morphimus;7378774]> Look around the room again. Is anything different?[/quote]
+[quote="Morphimus"]> Look around the room again. Is anything different?[/quote]
 
 [img]0152_a.jpg[/img]
 
 Well there's a distinct lack of dead-guy. Which is good.
 
-[quote=AlexMdle;7379009]>Ascertain local time.[/quote]
+[quote="AlexMdle"]>Ascertain local time.[/quote]
 
 The light creeping around the closed blinds looks like sunlight.
 
 So... daytime?
 
-[quote=nuclearInsanity;7379043]Time travel.
+[quote="nuclearInsanity"]Time travel.
 
 Bina can now time travel. I call it.[/quote]
 
@@ -23,7 +23,7 @@ Oh please no.
 
 [img]0152_b.jpg[/img]
 
-[quote=Kíeros;7379067]> Okay, so when are you?[/quote]
+[quote="Kíeros"]> Okay, so when are you?[/quote]
 
 It's a good question. There's no blood. No stains. No smell. 
 
@@ -33,7 +33,7 @@ That's... not great, but if probably-Josephine's tiny weird note is to be believ
 
 For some reason.
 
-[quote=tegerioreo;7379531]Get up.  Check structural integrity of butt.  Look around.[/quote]
+[quote="tegerioreo"]Get up.  Check structural integrity of butt.  Look around.[/quote]
 
 Her butt seems mostly OK. 
 
@@ -43,7 +43,7 @@ Just bruised. Again.
 
 What's one more bruise? Eurgh.
 
-[quote=Vero;7379057]Assuming this construction site hasn't been here for 100 years.[/quote]
+[quote="Vero"]Assuming this construction site hasn't been here for 100 years.[/quote]
 
 She can't have gone far into the past. This office wouldn't be here if she'd gone further then a few days.
 
@@ -55,7 +55,7 @@ Bina realizes that she can hear raised voices outside. People are arguing nearby
 >>>DISPLAY_PICTURE:0152_a.jpg
 >>>NOTES:
 
-[quote=Vero;7379057]The girl who fell on her butt through time.[/quote]
+[quote="Vero"]The girl who fell on her butt through time.[/quote]
 
 Bina is the most dignified of Time Travellers.
 

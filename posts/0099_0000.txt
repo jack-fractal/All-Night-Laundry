@@ -3,9 +3,9 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Crowstone;7313109]call out to her first say you're inside[/quote]
-[quote=Kíeros;7313124]> Call out that you are in there.[/quote]
-[quote=tegerioreo;7313350] Bina:  Yell "I'm back here!  What's happening?  Is there something interesting on TV?"[/quote]
+[quote="Crowstone"]call out to her first say you're inside[/quote]
+[quote="Kíeros"]> Call out that you are in there.[/quote]
+[quote="tegerioreo"] Bina:  Yell "I'm back here!  What's happening?  Is there something interesting on TV?"[/quote]
 
 Bina calls out that she's back here. What's happening? Are you seeing something in the Not-A-TV? 
 
@@ -15,7 +15,7 @@ Mrs. Hyung hisses back that Bina is awake NOW isn't she? Then, in a louder voice
 
 Bina's not sure what this has to do with her, what with her being trapped in magical time travel land, but Mrs. Hyung seems really concerned about it and she doesn't want to continue this conversation shouting through a door so she ...
 
-[quote=Dregadude;7312084]>Confirm the date by checking the calendar.[/quote]
+[quote="Dregadude"]>Confirm the date by checking the calendar.[/quote]
 
 Stops.
 
@@ -49,7 +49,7 @@ This is getting ridiculous.
 >>>DISPLAY_PICTURE:0099_c.jpg
 >>>NOTES:
 
-[quote=1412;7313974]+1 reader gained.
+[quote="1412"]+1 reader gained.
 
 Darn the retcons. People from the future who begin reading after the retcon won't get it unless someone in the thread points it out.[/quote]
 

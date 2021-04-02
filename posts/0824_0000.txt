@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BlueMoonHound;7843859]is... the moment ending?[/quote]
+[quote="BlueMoonHound"]is... the moment ending?[/quote]
 
 [k]"Uhh. So this is what Seven was talking about, right? I think the Moment is about to splut. Should we... I dunno, brace for impact?"[/k]
 
@@ -35,7 +35,7 @@ There is a sound from the television of a flushing toilet, and then, "Just give 
 >>>DISPLAY_PICTURE:0824_a.gif
 >>>NOTES:
 
-[quote=serpentineInterloper;7843939]Continuity Question:
+[quote="serpentineInterloper"]Continuity Question:
 
 [spoiler]In one update, Rescue!Kendra in the past said that 'Catherine' was late, and that was an issue. But Moment!Kendra discussing these things with Bina, maybe B3 too, said 'Elizabeth'. Are they saving entirely different people in different iterations?[/spoiler][/quote]
 

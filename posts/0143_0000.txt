@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Dregadude;7366879][s]Haha, ok, make-believe time is over! Oh god oh god oh god[/s]
+[quote="Dregadude"][s]Haha, ok, make-believe time is over! Oh god oh god oh god[/s]
 
 >Is there ANYTHING of use in here? Something you could use as a weapon, perhaps?[/quote]
 
@@ -13,7 +13,7 @@ It's far too nice. There's not enough junk everywhere. There's a couch, where th
 
 Not to mention the gigantic windows. They take up all the wall-space that in a regular construction office would be used for pin-boards, or shelves, or blueprints. This looks like a corporate executive's office that's been put on wheels. 
 
-[quote=tegerioreo;7367289]Is that a painting on the wall behind you?[/quote]
+[quote="tegerioreo"]Is that a painting on the wall behind you?[/quote]
 
 What? 
 
@@ -31,11 +31,11 @@ Bina is temporarily overwhelmed by a desperate urge to run back outside into the
 
 When she gets home (if she gets home) she plans on showering for about a week.
 
-[quote=Kíeros;7367148]> Look for places to hide inside.[/quote]
+[quote="Kíeros"]> Look for places to hide inside.[/quote]
 
 Bina guesses that she could hide behind the desk. The futon looks too low to the ground to get under. As there is only one real hiding spot, that is much the same as there being NO hiding spots at all, as its the first place anyone would look. 
 
-[quote=AlexMdle;7367216]>Metalic smell? Not rotten? 
+[quote="AlexMdle"]>Metalic smell? Not rotten? 
 
 Everything points at the fact that this happened recently.
 At the fact that Gregor was HERE recently.
@@ -44,11 +44,11 @@ This is not a safe place to be at this exact moment.[/quote]
 
 Nooo it is not. Better get out of here quick. 
 
-[quote=tegerioreo;7366487]Bina:  Don't step in the blood.  Just turn that laptop computer around and see what the dead guy was looking at before he became dead.  Maybe he left a note.[/quote]
+[quote="tegerioreo"]Bina:  Don't step in the blood.  Just turn that laptop computer around and see what the dead guy was looking at before he became dead.  Maybe he left a note.[/quote]
 
-[quote=Maltor]We're not here to solve a murder! Stick to the plan, see if there's any way to get in contact with authorities. That laptop looks like it might be a good place to start.[/quote]
+[quote="Maltor Drey"]We're not here to solve a murder! Stick to the plan, see if there's any way to get in contact with authorities. That laptop looks like it might be a good place to start.[/quote]
 
-[quote=The]> Check the laptop.[/quote]
+[quote="The One Guy"]> Check the laptop.[/quote]
 
 Bina spins the laptop around and wakes it up. 
 
@@ -64,12 +64,12 @@ Considering the decor, she was expecting a mac.
 >>>DISPLAY_PICTURE:0143_b.png
 >>>NOTES:
 
-[quote=Corpseguide;7366885]> See if the door really doesn't have a door knob on the inside[/quote]
+[quote="Corpseguide"]> See if the door really doesn't have a door knob on the inside[/quote]
 It has a doorknob on the inside. That was an art oversight. I'm going to try to go back and correct those panels today.
 
 You guys are mad diligent! Thank you.
 
-[quote=phantasmalDexterity;7368140][size=10][s]> Enter name: Longhair Bleedsalot[/s][/size] :MspA:[/quote]
+[quote="phantasmalDexterity"][size=10][s]> Enter name: Longhair Bleedsalot[/s][/size] :MspA:[/quote]
 
 You have no idea how tempted I was to go full hussnasty for this scene. No idea!
 

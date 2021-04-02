@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=xooxu;7880222]>Kendra: at least be upfront about what you're not telling her and why. Say something like, we're not sure how it works, but something is manipulating people into thinking they're getting something they want to make them do as it wants, but with a sort of "genie's wish, monkey's paw" twist. It's had some extremely dangerous consequences so far.[/quote]
+[quote="xooxu"]>Kendra: at least be upfront about what you're not telling her and why. Say something like, we're not sure how it works, but something is manipulating people into thinking they're getting something they want to make them do as it wants, but with a sort of "genie's wish, monkey's paw" twist. It's had some extremely dangerous consequences so far.[/quote]
 
 [k]"My friend may have a hero complex and she might be a bit paranoid, but she's not wrong. There's... something very weird and very dangerous going on here."[/k]
 
@@ -45,7 +45,7 @@ Elizabeth snorts, [e]"Something weird. You mean weirder then time travel, dead d
 >>>DISPLAY_PICTURE:0955_a.png
 >>>NOTES:
 
-[quote=Heyoceama;7880218]Currently catching up on this story and I'm curious why isn't it on the mirror? Would make where I'm at easier to track and reading it overall easier.[/quote]
+[quote="Heyoceama"]Currently catching up on this story and I'm curious why isn't it on the mirror? Would make where I'm at easier to track and reading it overall easier.[/quote]
 
 It's not on the mirror because of how I structure updates. I embed the images into the body of the text in a way the mirror doesn't really care for. 
 

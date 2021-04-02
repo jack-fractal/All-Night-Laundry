@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7616121]Puzzle time![/quote]
+[quote="tronn"]Puzzle time![/quote]
 
 "I bet the controls are going to be really weird, or we're going to have to do a puzzle or something."
 
@@ -11,7 +11,7 @@
 
 [img]0405_a.png[/img]
 
-[quote=obsidalicious;7616085]Shower: Have no water.[/quote]
+[quote="obsidalicious"]Shower: Have no water.[/quote]
 
 "Is there water in the tank?"
 
@@ -31,10 +31,10 @@ Her knuckles make a dull thudding sound.
 >>>DISPLAY_PICTURE:0405_a.png
 >>>NOTES:
 
-[quote=Chizita;7616327]The shower contains the Black, Sweet-Smelling Slime.[/quote]
-[quote=Dalmationer;7616381]Like any good concerned citizen you should go to the local waterworks and investigate.[/quote]
-[quote=HighwayWizard;7616413]that sounds like it would be a really slick adventure.[/quote]
-[quote=Kíeros;7616482]But what if it's tar-like slime that is glowing green?[/quote]
+[quote="Chizita"]The shower contains the Black, Sweet-Smelling Slime.[/quote]
+[quote="Dalmationer"]Like any good concerned citizen you should go to the local waterworks and investigate.[/quote]
+[quote="HighwayWizard"]that sounds like it would be a really slick adventure.[/quote]
+[quote="Kíeros"]But what if it's tar-like slime that is glowing green?[/quote]
 Secretly, this adventure is Waterworks / Sludge crossover fanfic.
 [spoiler]The previous statement was not true.
 [spoiler]Or WAS it?

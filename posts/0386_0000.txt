@@ -3,23 +3,23 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Maltor]Or at, you know, an archaeology site.[/quote]
+[quote="Maltor Drey"]Or at, you know, an archaeology site.[/quote]
 
 [k]"Anyways, it looks like one of those things they use, you know, on surveys or archaological sites. Marking things of interest."[/k]
 
-[quote=Corpseguide;7603379]>Use it as a flag to claim this mud pit as your own[/quote]
+[quote="Corpseguide"]>Use it as a flag to claim this mud pit as your own[/quote]
 
 "Or, possibly, it was used to claim that this heap of rubble and this uh... this big metal thingy here, are now part of the glorious country of 5-27"
 
 [k]"I like my theory better."[/k]
 
-[quote=Dregadude;7603256]>Maybe it's marking something? Strikes me as similar to the little tags they put around points of interest at a crime scene.[/quote]
+[quote="Dregadude"]>Maybe it's marking something? Strikes me as similar to the little tags they put around points of interest at a crime scene.[/quote]
 
-[quote=Viiranen;7603383][i]That[/i] thing: Be a thing the construction workers left there so they could find the corpse later and get it into a body bag. Only they never came back for the corpse.[/quote]
+[quote="Viiranen"][i]That[/i] thing: Be a thing the construction workers left there so they could find the corpse later and get it into a body bag. Only they never came back for the corpse.[/quote]
 
 "Or it could be like those little tags they use on CSI. Like. Marking evidence or... a body?"
 
-[quote=The]> No point in dwelling on the plastic thing.  You already know modern day people have been in here; the fact that they were marking something off is not all that surprising.[/quote]
+[quote="The One Guy"]> No point in dwelling on the plastic thing.  You already know modern day people have been in here; the fact that they were marking something off is not all that surprising.[/quote]
 
 [k]"Lets just go, right? We don't need to see. We're going. Come on."[/k]
 
@@ -39,7 +39,7 @@ Whoever was down here has certainly been busy.
 >>>DISPLAY_PICTURE:0386_a.png
 >>>NOTES:
 
-[quote=xooxu;7604276]Spend another 20 minutes discussing the tiny plastic sign before moving on. Do the same for the probably many tiny plastic signs you'll see down here. Spend the next 4 hours discussing tiny plastic signs.[/quote]
+[quote="xooxu"]Spend another 20 minutes discussing the tiny plastic sign before moving on. Do the same for the probably many tiny plastic signs you'll see down here. Spend the next 4 hours discussing tiny plastic signs.[/quote]
 
 Yeah, I've rather butchered the pacing in this scene.
 

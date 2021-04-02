@@ -3,17 +3,17 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7849036]> Go for the water pump. Time is not a known factor so fast is best.[/quote]
+[quote="BreadProduct"]> Go for the water pump. Time is not a known factor so fast is best.[/quote]
 
-[quote=Lacemaker;7849054]While ordinarily I would be all for digging through the pile of rubble and placing the box in there, you're right, the dust [b]would[/b] be disturbed. While the dead guy is pretty unnerving, humanity has a long and illustrious history of guarding things with the corpses of dead people, so I second the water heater as a hiding space.[/quote]
+[quote="Lacemaker"]While ordinarily I would be all for digging through the pile of rubble and placing the box in there, you're right, the dust [b]would[/b] be disturbed. While the dead guy is pretty unnerving, humanity has a long and illustrious history of guarding things with the corpses of dead people, so I second the water heater as a hiding space.[/quote]
 
-[quote=Kíeros;7849063]> I'd say water heater/pump/whatever.[/quote]
+[quote="Kíeros"]> I'd say water heater/pump/whatever.[/quote]
 
 OK.
 
 Right.
 
-[quote=xooxu;7849075]Climb the corpse, be the corpse climber.[/quote]
+[quote="xooxu"]Climb the corpse, be the corpse climber.[/quote]
 
 Yeah.
 
@@ -41,7 +41,7 @@ As she does, she realizes that the clothes she's wearing under her hazmat suit a
 >>>DISPLAY_PICTURE:0842_a.png
 >>>NOTES:
 
-[quote=Lacemaker;7849054]*desiccated*
+[quote="Lacemaker"]*desiccated*
 *to*[/quote]
 Merci madame!
 

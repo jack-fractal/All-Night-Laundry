@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=BreadProduct;7741707]>Interesting, but how?[/quote]
+[quote="BreadProduct"]>Interesting, but how?[/quote]
 
 "Wait, what?"
 

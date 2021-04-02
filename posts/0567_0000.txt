@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Beastnix;7713991]>It's just a bunch of... useless wires I mean how do we get this thing to work... that green light?[/quote]
+[quote="Beastnix"]>It's just a bunch of... useless wires I mean how do we get this thing to work... that green light?[/quote]
 
 Well that one's a given. All the designs in the weird journal agree on one thing, you need unlight to make them work. 
 
@@ -13,7 +13,7 @@ Not if they want to remain, you know, [i]alive[/i].
 
 But that's not the problem just now. 
 
-[quote=wolftamer9;7713996]> Yeah, but what else is new? It's probably better than you think. What's the problem?[/quote]
+[quote="wolftamer9"]> Yeah, but what else is new? It's probably better than you think. What's the problem?[/quote]
 
 The problem is that she's sort of had to improvize a bit. 
 
@@ -45,7 +45,7 @@ Ridiculous.
 >>>DISPLAY_PICTURE:0567_a.png
 >>>NOTES:
 
-[quote=1412;7714354]Aaaand I just realized how much that notebook looks like a certain notebook from Doctor Who.[/quote]
+[quote="1412"]Aaaand I just realized how much that notebook looks like a certain notebook from Doctor Who.[/quote]
 
 I couldn't resist.
 

@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=TheBurningFox;7582127]==>[/quote]
+[quote="TheBurningFox"]==>[/quote]
 
 "What the heck is going on?"
 

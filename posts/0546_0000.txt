@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=TheBurningFox;7700955]Bina> go go go![/quote]
+[quote="TheBurningFox"]Bina> go go go![/quote]
 
 She managed that for a while but now it's five minutes later and the adrenaline of tricking Kendra and leading Horatio away has worn off.
 
@@ -21,7 +21,7 @@ The cold air smelling of rotten barbecue feels thin. Insubstantial. She can't se
 >>>DISPLAY_PICTURE:0546_a.png
 >>>NOTES:
 
-[quote=curiousTerminal;7701010]Did you forget to bold Kendra's dialogue?[/quote]
+[quote="curiousTerminal"]Did you forget to bold Kendra's dialogue?[/quote]
 I did! Thank you for noticing. Woops!
 
 

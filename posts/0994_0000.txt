@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Midtime;7891893]> You look like you need sleep! It's no good to stay up all night.[/quote]
+[quote="Midtime"]> You look like you need sleep! It's no good to stay up all night.[/quote]
 
 Yes. 
 
@@ -13,7 +13,7 @@ I can't sleep yet. I - I have things I need to do. People are counting on me.
 
 [img]0994_a.png[/img]
 
-[quote=BreadProduct;7891908]>What's troubling you?[/quote]
+[quote="BreadProduct"]>What's troubling you?[/quote]
 
 I've messed up so much. I keep trying, but I never know if I'm doing the right thing. What if the best thing to do was just...
 
@@ -21,7 +21,7 @@ Why is it so hot in here?
 
 "Pumpkin? Are you all right?"
 
-[quote=rachelcp;7891903]who's around bina?[/quote]
+[quote="rachelcp"]who's around bina?[/quote]
 
 [img]0994_b.png[/img]
 

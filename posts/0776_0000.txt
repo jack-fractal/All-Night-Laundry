@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tronn;7823006]>Emboss your likeness on roofing tiles? Why not, like, newspaper instead?[/quote]
+[quote="tronn"]>Emboss your likeness on roofing tiles? Why not, like, newspaper instead?[/quote]
 
 [k]"I... oooh! You're talking about the roof tile."[/k]
 
@@ -11,7 +11,7 @@
 
 [k]"That would get seen, but it sounds ridiculously inefficient though. Like Gregor grabbing people."[/k]
 
-[quote=erroneousAllegation;7823067]Were those actually roofing tiles?
+[quote="erroneousAllegation"]Were those actually roofing tiles?
 
 They almost seemed to be molds for advertisements or something.[/quote]
 
@@ -49,7 +49,7 @@ They almost seemed to be molds for advertisements or something.[/quote]
 
 [img]0776_a.png[/img]
 
-[quote=erroneousAllegation;7823282]Probably, but I just realized something.
+[quote="erroneousAllegation"]Probably, but I just realized something.
 
 [i]> If the Botfly only wants to be observed, then why would it kill people? Instead of killing a day and everyone around it, couldn't it have just allowed the experiment to be successful? That way it could be set up in power-plants world-wide, and it wins without actually having to kill anyone. On that same note, why would it do anything to harm the scientists who could have discovered it in the ruins and brought it to the attention of the world?
 
@@ -63,7 +63,7 @@ A symbiotic relationship which preserves its host would probably be its best opt
 >>>DISPLAY_PICTURE:0776_a.png
 >>>NOTES:
 
-[quote=DiceRecalibrated;7823301]Okay so.
+[quote="DiceRecalibrated"]Okay so.
 The moment you started this thread, I went on a reading binge. +1 Reader 4 days ago.[/quote]
 
 Aaah! Thank you for doing all that reading!

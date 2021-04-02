@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=a52;7878698]Oh that's not good. That's not good at all.
+[quote="a52"]Oh that's not good. That's not good at all.
 >Check her temperature.[/quote]
 
 [k]"I'm going to check your temperature again, ok?"[/k]
@@ -16,7 +16,7 @@ Kendra goes to get the thermometer.
 
 [img]0949_a.png[/img]
 
-[quote=xooxu;7878751]Might as well fill her in since she's awake. She likes being informed and will be happy to hear Elizabeth is awake.[/quote]
+[quote="xooxu"]Might as well fill her in since she's awake. She likes being informed and will be happy to hear Elizabeth is awake.[/quote]
 
 [k]"Elizabeth is awake."[/k]
 

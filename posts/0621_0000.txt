@@ -3,13 +3,13 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=Xander;7745722]...jump.[/quote]
+[quote="Xander"]...jump.[/quote]
 
-[quote=wolftamer9;7745724]> Take a running jump off the boat, close your eyes, and think very hard about waking up.[/quote]
+[quote="wolftamer9"]> Take a running jump off the boat, close your eyes, and think very hard about waking up.[/quote]
 
-[quote=Sporothrix;7745725]> Yes, jump! The fall will jolt you awake! Like when you're just about to fall asleep but suddenly feel like you're falling![/quote]
+[quote="Sporothrix"]> Yes, jump! The fall will jolt you awake! Like when you're just about to fall asleep but suddenly feel like you're falling![/quote]
 
-[quote=xooxu;7745968]Seconding [strike]jumping[/strike] leap of faith. Look back up at the boat to see what happens.[/quote]
+[quote="xooxu"]Seconding [strike]jumping[/strike] leap of faith. Look back up at the boat to see what happens.[/quote]
 
 
 [img]0621_a.png[/img]
@@ -18,7 +18,7 @@
 >>>DISPLAY_PICTURE:0621_a.png
 >>>NOTES:
 
-[quote=Xindaris;7745937]Should the subtitle be "In [i]which[/i] jaws are opened", or is it talking about opening something called an "in jaw"?[/quote]
+[quote="Xindaris"]Should the subtitle be "In [i]which[/i] jaws are opened", or is it talking about opening something called an "in jaw"?[/quote]
 
 Yes, yes it should. Merci!
 

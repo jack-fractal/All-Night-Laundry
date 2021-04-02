@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=xooxu;7739118]>What was on the one that had the charge? It wasn't a fly or something, was it?[/quote]
+[quote="xooxu"]>What was on the one that had the charge? It wasn't a fly or something, was it?[/quote]
 
 I ask the question.
 
@@ -15,7 +15,7 @@ Josephine smiles, she's been waiting for this, I can tell.
 
 "How do you mean?"
 
-[quote=tegerioreo;7739839]I think we need to know exactly what, if anything was on the plate that charged.
+[quote="tegerioreo"]I think we need to know exactly what, if anything was on the plate that charged.
 
 If it was a picture of a thing with tentacles, Bina, say thank you for the nice party and slowly back away.[/quote]
 
@@ -37,22 +37,22 @@ A nasty thought occures to me. Don't be tentacles. Please do not be tentacles!
 >>>DISPLAY_PICTURE:0609_a.png
 >>>NOTES:
 
-[quote=tronn;7739412]P.S. I do editing for fun:
+[quote="tronn"]P.S. I do editing for fun:
 "She was quite a bit smarter [b]then[/b] her employer"[/quote]
 
 And you do it well! Fixed! (I need to get better at [b]then[/b] and [i]than[/i]...)
 
-[quote=SNORKELBITCHMEGAHITLER;7738534]i really fucking love this story. it should be made into a book[/quote]
+[quote="SNORKELBITCHMEGAHITLER"]i really fucking love this story. it should be made into a book[/quote]
 
-[quote=musicalEmpathist;7738990]I SECOND THIS MOTION A HUNDRED-THOUSAND-FOLD.[/quote]
+[quote="musicalEmpathist"]I SECOND THIS MOTION A HUNDRED-THOUSAND-FOLD.[/quote]
 
-[quote=wolftamer9;7738995]I was just telling the creator of Superego I'd buy a book of the adventure, and the response was that the split-second animations wouldn't translate well. I'm assuming that's the case here too, but I'd buy it nonetheless.[/quote]
+[quote="wolftamer9"]I was just telling the creator of Superego I'd buy a book of the adventure, and the response was that the split-second animations wouldn't translate well. I'm assuming that's the case here too, but I'd buy it nonetheless.[/quote]
 
 Hmmm... I've never really considered compiling All Night Laundry into a book. A website? Yes, that's... actually partially completed, I just need to write an infinite scroll renderer (which is proving to be tricky, argh!), but a book?
 
 I dunno. I don't use animations that much in this adventure, the one of the spark earlier this week was the first one in about a month, then before that it was in October. I think they add to the experience, but...
 
-[quote=Beastnix;7739005]Would be a short book.[/quote]
+[quote="Beastnix"]Would be a short book.[/quote]
 
 See, this is the thing.... it wouldn't. 
 

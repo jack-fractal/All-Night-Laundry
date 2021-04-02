@@ -3,12 +3,12 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=wolftamer9;7681472]> Yeah, if so, try to figure out what the safest path would be. Keep in mind Gregor might be along the safer paths, so it's a toss-up in terms of what's safest in this case.[/quote]
+[quote="wolftamer9"]> Yeah, if so, try to figure out what the safest path would be. Keep in mind Gregor might be along the safer paths, so it's a toss-up in terms of what's safest in this case.[/quote]
 
 "I guess we should figure out where to go."
 
-[quote=Beastnix;7681238]>Bina: there is a good view from here, lets see if we can figure another way out[/quote]
-[quote=tegerioreo;7681480]Sort of curious to know [b]where[/b] Gregor was taking that dead body.[/quote]
+[quote="Beastnix"]>Bina: there is a good view from here, lets see if we can figure another way out[/quote]
+[quote="tegerioreo"]Sort of curious to know [b]where[/b] Gregor was taking that dead body.[/quote]
 
 [k]"Right, yes. I've got the maps. Hold on. I left them with the backpack."[/k]
 
@@ -20,7 +20,7 @@
 
 "Yeah."
 
-[quote=tronn;7680755]>Bina: Maybe they were herding you towards something? What was the building you trapped them in?[/quote]
+[quote="tronn"]>Bina: Maybe they were herding you towards something? What was the building you trapped them in?[/quote]
 
 [k]"So maybe he's going wherever the Naughts wanted [i]you[/i] to go. Somewhere that way."[/k]
 

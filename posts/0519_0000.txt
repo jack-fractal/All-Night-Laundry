@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=1412;7678844]Welp. The Green Lady has convinced Gregor to do her bidding, no matter how terrible it may be, by the logic that it will have never happened.
+[quote="1412"]Welp. The Green Lady has convinced Gregor to do her bidding, no matter how terrible it may be, by the logic that it will have never happened.
 Of course, there's probably a big something she's not telling him.[/quote]
 
 Neither of them say anything until he's vanished into the distance.
@@ -50,7 +50,7 @@ Neither of them say anything until he's vanished into the distance.
 
 "Ummm... who's Horatio?"
 
-[quote=tronn;7679030]>Kendra: Explain what you were doing while "getting into it a little."[/quote]
+[quote="tronn"]>Kendra: Explain what you were doing while "getting into it a little."[/quote]
 
 [k]"Well... turns out your plan with the Naughts only [i]sort of[/i] worked."[/k]
 

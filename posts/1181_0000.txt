@@ -3,7 +3,7 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote="Unclever Title"]>Portal: Close.[/quote]
+[quote="Unclever title"]>Portal: Close.[/quote]
 
 [img]1181_a.png[/img]
 

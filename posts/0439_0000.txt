@@ -3,8 +3,8 @@
 >>>REQUIRED_MINIMUM:0
 >>>POST:
 
-[quote=tegerioreo;7636852]So, who was that on the phone?[/quote]
-[quote=xooxu;7635994]>Inquire about the phone call. Are they sending down the "gondola" or what?[/quote]
+[quote="tegerioreo"]So, who was that on the phone?[/quote]
+[quote="xooxu"]>Inquire about the phone call. Are they sending down the "gondola" or what?[/quote]
 
 "So what happened? Was that what's-her-name again? Is she coming? Is she letting us out?"
 
@@ -40,7 +40,7 @@ Above them, with the loud coughing sputter of a diesel engine, the gondola begin
 >>>DISPLAY_PICTURE:0439_a.gif
 >>>NOTES:
 
-[quote=KanjiGirl;7635990][s]>journal: look oddly like the Tardis.[/s][/quote]
+[quote="KanjiGirl"][s]>journal: look oddly like the Tardis.[/s][/quote]
 It [i]is[/i] TARDIS blue. I could not resist.
 
 
