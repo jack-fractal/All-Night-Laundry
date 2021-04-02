@@ -56,7 +56,7 @@ We have a bit of a situation to deal with. For those of you interested primarily
 For those of you who want to peer behind the curtain for the moment, follow me.
 
 
-[img]https://dl.dropboxusercontent.com/u/45027642/Adventures/All%20Nite%20Laundry/command_images/curtains.jpg[/img]
+[img]command_images/curtains.jpg[/img]
 
 
 Cool.
