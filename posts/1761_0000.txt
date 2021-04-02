@@ -5,7 +5,7 @@
 
 Amie stands, because she really doesn't want to be the only one sitting during this conversation. 
 
-"Did you find another journal?" asks Kendra. 
+[k]"Did you find another journal?"[/k] asks Kendra.
 
 [quote="Zinvia"]Amie: CONFESS! [/quote]
 
@@ -17,7 +17,7 @@ Amie stands, because she really doesn't want to be the only one sitting during t
 
 "Is that the Moment?" asks Emmie.
 
-"What happened to it?" asks Kendra.
+[k]"What happened to it?"[/k] asks Kendra.
 
 Bina frowns and says "That's Gregor's watch."
 

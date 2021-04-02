@@ -69,7 +69,7 @@ Elizabeth twitches.
 
 [k]"It's like it showed up from nowhere."[/k]
 
-[e]"Yeah,"[/color] says Elizabeth, [color=#696969]"Nobody even grew sugar beets in Quebec in the early 1900's. Why - why did you ask that question?"[/e]
+[e]"Yeah,"[/e] says Elizabeth, [e]"Nobody even grew sugar beets in Quebec in the early 1900's. Why - why did you ask that question?"[/e]
 
 [k]"Is that [i]your[/i] question?"[/k]
 

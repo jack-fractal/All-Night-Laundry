@@ -11,17 +11,17 @@ Then, possibly for the first time in the history of the universe, someone manage
 
 [img]1750_a.png[/img]
 
-"I found her wandering around the back," says Kendra, taking pity on them and breaking in. "There's at least one more naught, but we managed to dodge it. Did Emmie get away clean?"
+[k]"I found her wandering around the back,"[/k] says Kendra, taking pity on them and breaking in. [k]"There's at least one more naught, but we managed to dodge it. Did Emmie get away clean?"[/k]
 
 "Yeah," says Bina, grateful for the distraction. "We lead the big one on a loop around the construction lot. He's checking the cafe now, but then he's coming here."
 
 "Why would I be at the cafe?" asks Four. 
 
-"We've been kinda grasping at straws, to be honest," says Kendra. "We've mainly been trying to stay out of current-you's way."
+[k]"We've been kinda grasping at straws, to be honest,"[/k] says Kendra. [k]"We've mainly been trying to stay out of current-you's way."[/k]
 
 "You don't seem particularly surprised to see us," says Bina, picking up on an undercurrent of tension in the other two.
 
-"Yeah about that..."
+[k]"Yeah about that..."[/k]
 
 
 >>>DISPLAY_PICTURE:1750_a.png

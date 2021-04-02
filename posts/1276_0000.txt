@@ -13,7 +13,7 @@
 
 "Yeah, but I mean, why did we follow her [i]at all[/i]. It seems kinda, you know, [i]dangerous[/i]."
 
-"Amie," says Kendra. "You know that everyone from that timeline is [i]dead[/i], right?"
+[k]"Amie,"[/k] says Kendra. [k]"You know that everyone from that timeline is [i]dead[/i], right?"[/k]
 
 [img] 1276_a.png [/img]
 

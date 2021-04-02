@@ -5,9 +5,9 @@
 
 [img]0171_a.png[/img]
 
-Kid!
+[k]Kid!
 
-Kid. Wake up.
+Kid. Wake up.[/k]
 
 [img]0171_a.png[/img]
 
@@ -15,17 +15,17 @@ Nnnnnggggghhhh.... Bina does not feel good at all.
 
 Her everything hurts.
 
-Come on kid. 
+[k]Come on kid.
 
-You gotta get up.
+You gotta get up.[/k]
 
 [img]0171_a.png[/img]
 
 Someone is talking in freeeench... it's too early for french...
 
-Come on! Open your eyes. I can't do this on my own! 
+[k]Come on! Open your eyes. I can't do this on my own!
 
-Snap OUT of it! He'll be back in a minute!
+Snap OUT of it! He'll be back in a minute![/k]
 
 There's a sharp clicking noise, right by her face. That isn't good.
 
@@ -33,13 +33,13 @@ There's a sharp clicking noise, right by her face. That isn't good.
 
 Nooo... too bright! Owww...
 
-Hello?
+[k]Hello?[/k]
 
 [img]0171_a.png[/img]
 
-Come on! 
+[k]Come on!
 
-Get up! I know you're awake!
+Get up! I know you're awake![/k]
 
 
 >>>DISPLAY_PICTURE:0171_a.png

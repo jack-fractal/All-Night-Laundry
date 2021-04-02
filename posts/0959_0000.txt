@@ -51,7 +51,7 @@ Elizabeth goes quiet and looks down at her fingernails.
 
 [k]"Aha... now I'm getting somewhere. Come on. If you can't answer, that's fine, but it'll mean I'm right in thinking you're a spook."[/k]
 
-[e]"I'm not a spook!"[/color] says Elizabeth a little too loud, [color=#696969]"I work for the DPIR."[/e]
+[e]"I'm not a spook!"[/e] says Elizabeth a little too loud, [e]"I work for the DPIR."[/e]
 
 [k]"Can you try not to use acronyms? I don't actually know what that is."[/k]
 

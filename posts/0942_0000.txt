@@ -14,7 +14,7 @@
 
 [k]"No,"[/k] says Kendra, with as much force as she can. [k]"Despite all logic, reason, and physical laws, you are alive."[/k]
 
-[e]"Oh,"[/color] says Elizabeth. [color=#696969]"That's good. I guess."[/e]
+[e]"Oh,"[/e] says Elizabeth. [e]"That's good. I guess."[/e]
 
 
 >>>DISPLAY_PICTURE:0942_a.png
